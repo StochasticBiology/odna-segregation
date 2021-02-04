@@ -1,0 +1,434 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+559292	Saccharomyces cerevisiae S288C	856520	0	live	MSH1	YHR120W	mismatch repair ATPase MSH1	mismatch repair ATPase MSH1		VIII	NC_001140.6	349574	352453	plus	1		
+3702	Arabidopsis thaliana	822021	0	live	MSH1	AT3G24320, ATMSH1, CHLOROPLAST MUTATOR, CHM, CHM1, MUTL protein homolog 1	MUTL protein homolog 1	MUTL protein homolog 1		3	NC_003074.8	8822924	8829728	minus	22		
+4081	Solanum lycopersicum	778305	0	live	MSH1		DNA mismatch repair protein MSH1	DNA mismatch repair protein MSH1		9	NC_015446.3	70732891	70766727	minus	25		
+13333	Amborella trichopoda	18444086	0	live	MSH1	AMTR_s00039p00125380	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4896	Schizosaccharomyces pombe	2542833	0	live	msh1	SPAC13F5.01c, SPAC23C11.18c	mismatch repair ATPase msh1	mismatch repair ATPase msh1		I	NC_003424.3	2169036	2172310	minus	3		
+15368	Brachypodium distachyon	100835189	0	live	MSH1	BRADI_5g15120	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		5	NC_016135.3	18645397	18663506	minus	23		
+1003335	Kluyveromyces marxianus DMKU3-1042	34717471	0	live	MSH1	KLMA_60253	DNA mismatch repair protein MSH1			6	NC_036030.1	531906	534737	plus	1		
+1220188	Aspergillus tanneri	54333909	0	live	MSH1	ATNIH1004_011208	DNA mismatch repair ATPase msh1	DNA mismatch repair ATPase msh1		Unknown							
+105984	Apiotrichum porosum	39593675	0	live	MSH1	EHS24_009132	DNA mismatch repair ATPase msh1	DNA mismatch repair ATPase msh1		Unknown							
+655981	Pseudogymnoascus destructans	36287917	0	live	MSH1	VC83_04847	mismatch repair ATPase msh1	mismatch repair ATPase msh1		Unknown							
+796027	Sugiyamaella lignohabitans	30037660	0	live	MSH1	AWJ20_609	mismatch repair ATPase MSH1			A	NC_031672.1	1966675	1969131	plus	1		
+86515	Heliopora coerulea	14659874	0	live	msh1		msh1			MT	NC_020375.1	2498	5473	plus	0		
+57918	Fragaria vesca	101291235	0	live	MSH1		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		LG4	NC_020494.1	4956850	4968052	plus	22		
+564608	Micromonas pusilla CCMP1545	9687724	0	live	MSH1	MICPUCDRAFT_51959	mitochondrial-targeted muts 1										
+296587	Micromonas commoda	8242483	0	live	MSH1	MICPUN_57476	mitochondrial-targeted muts 1			4	NC_013041.1	8042	11638	plus	1		
+1316788	Lachnellula hyalina	41981845	0	live	msh1	LHYA1_G001647	MutS-like protein	MutS-like protein		Unknown							
+3847	Glycine max	732638	0	live	MSH1	GLYMA_10G130700	DNA mismatch repair protein	DNA mismatch repair protein		10	NC_038246.1	35333082	35376462	minus	23		
+44213	Acanella arbuscula	6413139	0	live	msh1		MutS-like protein	MutS-like protein		MT	NC_011016.2	13002	15965	minus	0		
+444732	Keratoisidinae sp. BAL208-1	6336099	0	live	msh1		MutS-like protein			MT	NC_010764.1	13312	16293	minus	0		
+352472	Dictyostelium discoideum AX4	8620254	0	live	msh1	DDB_G0275999, DDBDRAFT_0217743, DDBDRAFT_0232360, DDB_0217743, DDB_0232360	DNA mismatch repair protein			2	NC_007088.5	6158412	6161199	minus	2		
+367110	Neurospora crassa OR74A	3874329	0	live	msh1	NCU07407, msh-X	mutS ortholog 1-like	MutS2 protein		I	NC_026501.1	6041192	6045529	minus	3		
+2518304	Pleurocorallium konojoi	10446885	0	live	msh1		putative mismatch repair protein	putative mismatch repair protein		MT	NC_015406.1	4906	7896	plus	0		
+536042	Paracorallium japonicum	10446859	0	live	msh1		putative mismatch repair protein			MT	NC_015405.1	14343	17333	minus	0		
+89595	Dendronephthya putteri	34683328	0	live	msh1	CRD40_mgp09	MutS-like protein	MutS-like protein		MT	NC_036022.1	6348	9287	plus	0		
+58800	Euplexaura crassa	14690139	0	live	msh1		MutS-like protein			MT	NC_020458.1	6191	9136	plus	0		
+986334	Echinogorgia complexa	14690124	0	live	msh1		MutS-like protein			MT	NC_020457.1	6542	9499	plus	0		
+944597	Dendronephthya mollis	14690109	0	live	msh1		MutS-like protein			MT	NC_020456.1	6347	9286	plus	0		
+670386	Polysphondylium pallidum PN500	31364622	0	live	msh1	PPL_09147	DNA mismatch repair protein			Unknown							
+3055	Chlamydomonas reinhardtii	5722205	0	live	MSH1	CHLREDRAFT_142479	DNA mismatch repair MutS protein			Unknown							
+142104	Corallium rubrum	17675547	0	live	msh1		putative mismatch repair protein			MT	NC_022864.1	14345	17335	minus	0		
+2518303	Pleurocorallium elatius	17623045	0	live	msh1		putative mismatch repair protein	putative mismatch repair protein		MT	NC_022804.1	4906	7896	plus	0		
+261658	Dictyostelium fasciculatum	14867609	0	live	msh1	DFA_10083	mutS like protein			Unknown							
+508771	Toxoplasma gondii ME49	7893543	0	live	MSH1	TGME49_218840, TGME49_018840	mutS domain protein			XII	NC_031480.1	1252811	1267172	plus	13		
+7227	Drosophila melanogaster	45285	0	live	Dr	Dmel_CG1897, 153515_at, 99B, CG1897, Dmel\CG1897/msh, Msh, Msx, l(3)FA30, ltt, msh, msh-1, msh1, Dr	Drop	drop|CG1897-PA|Dr-PA|Dr-distal|lottchen|muscle segment homeobox|muscle specific homeobox|muscle-specific homeodomain|muscle-specific homeodomain 1	3-99 cM	3R	NT_033777.3	29556386	29565244	plus	2		
+29760	Vitis vinifera	100266612	0	live	LOC100266612	VIT_00027931001, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		5	NC_012011.3	9636910	9715468	plus	23		
+4236	Lactuca sativa	111881730	0	live	LOC111881730	LSAT_2X41221, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3641	Theobroma cacao	18603332	0	live	LOC18603332	MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		4	NC_030853.1	29733699	29744335	minus	23		
+3649	Carica papaya	110813932	0	live	LOC110813932	MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3983	Manihot esculenta	110611315	0	live	LOC110611315	MANES_03G157900, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		LG3	NC_035163.1	25265080	25283424	minus	22		
+71139	Eucalyptus grandis	104414413	0	live	LOC104414413	EUGRSUZ_H02905, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4641	Musa acuminata	103993145	0	live	LOC103993145	MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		8	NC_025209.1	9495916	9549157	plus	22		
+2711	Citrus sinensis	102611883	0	live	LOC102611883	MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		5	NC_023050.1	35935630	35953442	minus	22		
+3760	Prunus persica	18791101	0	live	LOC18791101	PRUPE_1G050200, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		G1	NC_034009.1	3513593	3526799	plus	22		
+85681	Citrus clementina	18032444	0	live	LOC18032444	CICLE_v10004190mg, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+81985	Capsella rubella	17893289	0	live	LOC17893289	CARUB_v10015435mg, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3880	Medicago truncatula	11419868	0	live	LOC11419868	MTR_1g045670, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		1	NC_016407.2	17152375	17167545	minus	23		
+3694	Populus trichocarpa	7459994	0	live	LOC7459994	POPTR_010G065000v3, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		10	NC_037294.1	9247058	9262690	minus	22		
+4686	Asparagus officinalis	109825155	0	live	LOC109825155	A4U43_C10F18640, MSH1	DNA mismatch repair protein MSH1, mitochondrial	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial		10	NC_033803.1	71794968	71811474	minus	22		
+4155	Erythranthe guttata	105950096	0	live	LOC105950096	MIMGU_mgv1a025817mg, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4555	Setaria italica	101761293	0	live	LOC101761293	SETIT_009744mg, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		VII	NC_028456.1	24441681	24463217	minus	22		
+3988	Ricinus communis	8265717	0	live	LOC8265717	RCOM_1217070, MSH1	DNA mismatch repair protein MSH1, mitochondrial	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial		Un							
+4558	Sorghum bicolor	8060224	0	live	LOC8060224	SORBI_3006G140400, MSH1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		6	NC_012875.2	50267165	50283192	minus	22		
+4232	Helianthus annuus	110865817	0	live	LOC110865817	HannXRQ_Chr06g0182821, MSH1	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|putative MUTL-like protein		6	NC_035438.1	81978609	81990838	plus	22		
+4577	Zea mays	732814	0	live	LOC732814	ZEAMMB73_Zm00001d025816, GRMZM2G360873, MSH1	DNA mismatch repair protein	DNA mismatch repair protein		10	NC_024468.2	130400330	130438474	minus	22		
+4577	Zea mays	100272790	0	live	LOC100272790	ZEAMMB73_Zm00001d049950, GRMZM2G036217, msh1, uaz195	uncharacterized LOC100272790	uncharacterized protein LOC100272790|6C02E02|6C06C01|male sterile protein homolog 1|male sterile protein homolog1|male sterility protein 2|uaz195(gfu)|uaz6c06c01(gfu)|zms1		4	NC_024462.2	55129675	55133442	plus	5		
+3662	Cucurbita moschata	111432000	0	live	LOC111432000		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3847	Glycine max	102661030	0	live	LOC102661030	GLYMA_10G121600	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		10	NC_038246.1	31031755	31036081	minus	7		
+3827	Cicer arietinum	101502420	0	live	LOC101502420		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Ca3	NC_021162.1	14974540	14986354	plus	22		
+66656	Durio zibethinus	111306766	0	live	LOC111306766		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+108875	Herrania umbratica	110421617	0	live	LOC110421617		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3661	Cucurbita maxima	111479652	0	live	LOC111479652		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4432	Nelumbo nucifera	104602754	0	live	LOC104602754		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+210225	Nymphaea colorata	116265653	0	live	LOC116265653		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		12	NC_045149.1	18238163	18266556	minus	24		
+178133	Rhodamnia argentea	115729006	0	live	LOC115729006		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+309979	Cynara cardunculus subsp. cardunculus	112502051	0	live	LOC112502051		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		LG 1	NC_037528.1	39527562	39568525	plus	23		
+3218	Physcomitrium patens	112276101	0	live	LOC112276101	PHYPA_028224, MSH1A	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|MutS homolog 1A		23	NC_037275.1	11647349	11654241	minus	8		
+74649	Rosa chinensis	112200765	0	live	LOC112200765	RchiOBHm_Chr4g0395811	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial|putative DNA mismatch repair protein MutS, type 1		4	NC_037091.1	11862054	11873350	plus	22		
+158386	Olea europaea var. sylvestris	111392142	0	live	LOC111392142		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3847	Glycine max	102660695	0	live	LOC102660695	GLYMA_U032000	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+37682	Aegilops tauschii	109770772	0	live	LOC109770772		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+43335	Populus alba	118048909	0	live	LOC118048909		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+309979	Cynara cardunculus subsp. cardunculus	112520421	0	live	LOC112520421		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		LG 10	NC_037537.1	21044646	21066060	plus	25		
+157791	Vigna radiata	106772710	0	live	LOC106772710		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		8	NC_028358.1	9820437	9863699	minus	23		
+75702	Populus euphratica	105137424	0	live	LOC105137424		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+51953	Elaeis guineensis	105043124	0	live	LOC105043124		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		4	NC_025996.1	34142740	34244347	minus	23		
+42345	Phoenix dactylifera	103721294	0	live	LOC103721294		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4113	Solanum tuberosum	102580676	0	live	LOC102580676		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3827	Cicer arietinum	101500334	0	live	LOC101500334		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Ca4	NC_021163.1	33787829	33794525	plus	7		
+3827	Cicer arietinum	101499565	0	live	LOC101499565		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+1136231	Candida orthopsilosis Co 90-125	14540543	0	live	CORT_0D02270	CORT_0D02270	Msh1 protein			4	NC_018297.1	407029	409803	plus	1		
+39947	Oryza sativa Japonica Group	4336345	0	live	LOC4336345	OSNPB_040507000	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial|Os04g0507000|Os04g0507016		4	NC_029259.1	25323602	25340042	minus	22		
+1341132	Aspergillus welwitschiae	38141906	0	live	BDQ94DRAFT_180145	BDQ94DRAFT_180145	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+49451	Nicotiana attenuata	109232398	0	live	LOC109232398	A4A49_35832, MSH1_1	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		9	NC_031997.1	47429246	47451703	plus	22		
+22663	Punica granatum	116209446	0	live	LOC116209446		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		5	NC_045131.1	18146581	18164126	plus	23		
+3483	Cannabis sativa	115723230	0	live	LOC115723230		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		9	NC_044376.1	3456765	3468921	minus	22		
+90675	Camelina sativa	104766359	0	live	LOC104766359		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		19	NC_025703.1	14697948	14705083	minus	23		
+3755	Prunus dulcis	117614507	0	live	LOC117614507		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		1	NC_047650.1	3578683	3591865	plus	23		
+3848	Glycine soja	114372275	0	live	LOC114372275	D0Y65_026934	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|DNA mismatch repair protein MSH1, mitochondrial		10	NC_041011.1	36827937	36863667	minus	23		
+3664	Cucurbita pepo subsp. pepo	111790564	0	live	LOC111790564		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		LG03	NC_036640.1	12032410	12040837	plus	22		
+3649	Carica papaya	110812006	0	live	LOC110812006		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3981	Hevea brasiliensis	110641872	0	live	LOC110641872		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+906689	Dendrobium catenatum	110111593	0	live	LOC110111593		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4615	Ananas comosus	109707588	0	live	LOC109707588		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		3	NC_033623.1	6494624	6584625	plus	22		
+35883	Ipomoea nil	109176458	0	live	LOC109176458		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3914	Vigna angularis	108326621	0	live	LOC108326621	LR48_Vigan02g063700	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		2	NC_030638.1	8065291	8113279	minus	22		
+28526	Solanum pennellii	107031051	0	live	LOC107031051		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		9	NC_028645.1	81869515	81923379	minus	23		
+180498	Jatropha curcas	105638433	0	live	LOC105638433	JCGZ_12884	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4098	Nicotiana tomentosiformis	104086476	0	live	LOC104086476		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+72664	Eutrema salsugineum	18013697	0	live	LOC18013697	EUTSA_v10002376mg	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+27291	Saccharomyces paradoxus	54631098	0	live	SPAR_H01620	SPAR_H01620	Msh1	Msh1		VIII	NC_047494.1	334656	337535	plus	1		
+5068	Aspergillus tubingensis	56009432	0	live	AtWU_09954	AtWU_09954	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1133968	Babesia microti strain RI	24425342	0	live	BMR1_03g03480	BMR1_03g03480, BBM_III03480	DNA mismatch repair protein MSH1 mitochondrial			III	NC_027207.2	1227479	1230940	plus	7		
+1397361	Sporothrix schenckii 1099-18	27665979	0	live	SPSK_03887	SPSK_03887	DNA mismatch repair protein Msh1			Unknown							
+747089	Rhizophagus irregularis DAOM 181602=DAOM 197198	36872142	0	live	GLOIN_2v1708336	GLOIN_2v1708336	putative DNA mismatch repair protein Msh1	putative DNA mismatch repair protein Msh1		Unknown							
+77020	Malassezia pachydermatis	28727662	0	live	Malapachy_1282	Malapachy_1282	msh1-dna mismatch repair mitochondrial			Unknown							
+1080349	Saccharomyces eubayanus	28931662	0	live	DI49_2525	DI49_2525	ancestor homolog: Anc_2.147; saccharomyces cerevisiae ortholog: YHR120W	ancestor homolog: Anc_2.147|saccharomyces cerevisiae ortholog: YHR120W|MSH1-like protein		XV	NC_030974.1	545792	548665	plus	1		
+264951	Byssochlamys spectabilis	39595785	0	live	C8Q69DRAFT_242797	C8Q69DRAFT_242797	putative DNA mismatch repair protein Msh1	putative DNA mismatch repair protein Msh1		Unknown							
+109264	Aspergillus bombycis	34451071	0	live	ABOM_007681	ABOM_007681	DNA mismatch repair protein Msh1			Unknown							
+1509407	Aspergillus nomius NRRL 13137	26806041	0	live	ANOM_004237	ANOM_004237	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1170230	Penicillium digitatum Pd1	26228538	0	live	PDIP_02150	PDIP_02150	DNA mismatch repair protein Msh1, putative			Unknown							
+332952	Aspergillus flavus NRRL3357	7915306	0	live	AFLA_079460	AFLA_079460	DNA mismatch repair protein Msh1, putative	DNA mismatch repair protein Msh1, putative		Unknown							
+246410	Coccidioides immitis RS	4567569	0	live	CIMG_02179	CIMG_02179	DNA mismatch repair protein Msh1			Unknown							
+330879	Aspergillus fumigatus Af293	3504718	0	live	AFUA_8G04750	AFUA_8G04750, Afu8g04750	DNA mismatch repair protein Msh1, putative	DNA mismatch repair protein Msh1, putative		8	NC_007201.1	1085695	1088902	plus	3		
+33203	Purpureocillium lilacinum	28887467	0	live	VFPFJ_05338	VFPFJ_05338	DNA mismatch repair protein Msh1			Unknown							
+1380566	Pochonia chlamydosporia 170	28846572	0	live	VFPPC_03023	VFPPC_03023	DNA mismatch repair protein Msh1			2	NC_035791.1	3033612	3036619	plus	2		
+344612	Aspergillus clavatus NRRL 1	4708902	0	live	ACLA_058140	ACLA_058140	DNA mismatch repair protein Msh1, putative										
+331117	Aspergillus fischeri NRRL 181	4588443	0	live	NFIA_097530	NFIA_097530	DNA mismatch repair protein Msh1, putative			Unknown							
+698492	Saitoella complicata NRRL Y-17804	30188098	0	live	SAICODRAFT_81741	SAICODRAFT_81741	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+692275	Sphaerulina musiva SO2202	27903560	0	live	SEPMUDRAFT_150827	SEPMUDRAFT_150827	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+470096	Pseudovirgaria hyperparasitica	54485796	0	live	EJ05DRAFT_479783	EJ05DRAFT_479783	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1392243	Eremomyces bilateralis CBS 781.70	54423064	0	live	P152DRAFT_506734	P152DRAFT_506734	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448316	Aspergillus ibericus CBS 121593	37222447	0	live	BO80DRAFT_401881	BO80DRAFT_401881	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448311	Aspergillus vadensis CBS 113365	37206517	0	live	BO88DRAFT_210748	BO88DRAFT_210748	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1450537	Aspergillus homomorphus CBS 101889	37198379	0	live	BO97DRAFT_396575	BO97DRAFT_396575	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448317	Aspergillus costaricaensis CBS 115574	37192083	0	live	BO79DRAFT_280558	BO79DRAFT_280558	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448312	Aspergillus japonicus CBS 114.51	37179195	0	live	BO86DRAFT_425979	BO86DRAFT_425979	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448313	Aspergillus piperis CBS 112811	37166994	0	live	BO85DRAFT_489300	BO85DRAFT_489300	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448322	Aspergillus aculeatinus CBS 121060	37153249	0	live	BO66DRAFT_424502	BO66DRAFT_424502	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448310	Aspergillus neoniger CBS 115656	37123839	0	live	BO87DRAFT_356785	BO87DRAFT_356785	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1450535	Aspergillus sclerotioniger CBS 115572	37119585	0	live	BO94DRAFT_627749	BO94DRAFT_627749	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1450533	Aspergillus lacticoffeatus CBS 101883	37098233	0	live	BO96DRAFT_383231	BO96DRAFT_383231	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1450534	Aspergillus brunneoviolaceus CBS 621.78	37091997	0	live	BO95DRAFT_486383	BO95DRAFT_486383	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1450539	Aspergillus saccharolyticus JOP 1030-1	37072116	0	live	BP01DRAFT_18364	BP01DRAFT_18364	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1448314	Aspergillus eucalypticola CBS 122712	37059107	0	live	BO83DRAFT_458745	BO83DRAFT_458745	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1392255	Aspergillus novofumigatus IBT 16806	36535489	0	live	P174DRAFT_444742	P174DRAFT_444742	putative DNA mismatch repair protein Msh1	putative DNA mismatch repair protein Msh1		Unknown							
+41067	Aspergillus candidus	36520622	0	live	BDW47DRAFT_109404	BDW47DRAFT_109404	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+1408163	Rasamsonia emersonii CBS 393.64	25314535	0	live	T310_2184	T310_2184, Temer02296	DNA mismatch repair protein Msh1			Unknown							
+559305	Trichophyton rubrum CBS 118892	10378656	0	live	TERG_02003	TERG_02003	DNA mismatch repair protein Msh1										
+559298	Blastomyces gilchristii SLH14081	8509717	0	live	BDBG_04270	BDBG_04270	DNA mismatch repair protein Msh1	DNA mismatch repair protein Msh1		Unknown							
+441959	Talaromyces stipitatus ATCC 10500	8108149	0	live	TSTA_012730	TSTA_012730	DNA mismatch repair protein Msh1, putative										
+441960	Talaromyces marneffei ATCC 18224	7028223	0	live	PMAA_059070	PMAA_059070	DNA mismatch repair protein Msh1, putative	DNA mismatch repair protein Msh1, putative		Unknown							
+425011	Aspergillus niger CBS 513.88	4989202	0	live	ANI_1_2028144	ANI_1_2028144, An16g08110	DNA mismatch repair protein Msh1										
+3659	Cucumis sativus	101209091	0	live	LOC101209091	Csa_3G134540	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		3	NC_026657.2	9074486	9091057	minus	22		
+3726	Raphanus sativus	108863588	0	live	LOC108863588		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3818	Arachis hypogaea	112775831	0	live	LOC112775831		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Arahy.19	NC_037636.1	132802240	132813815	plus	22		
+130454	Arachis ipaensis	107618496	0	live	LOC107618496		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		B09	NC_029793.2	122551817	122563367	plus	22		
+130453	Arachis duranensis	107466552	0	live	LOC107466552		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		A09	NC_029780.2	101697649	101708872	plus	22		
+4556	Setaria viridis	117864340	0	live	LOC117864340		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		7	NC_048269.1	23546377	23562360	minus	23		
+55513	Pistacia vera	116109048	0	live	LOC116109048		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+35885	Ipomoea triloba	116017026	0	live	LOC116017026		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		4	NC_044919.1	8864728	8879526	plus	22		
+97700	Quercus lobata	115994387	0	live	LOC115994387		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		6	NC_044909.1	21335225	21364571	plus	22		
+219896	Syzygium oleosum	115693586	0	live	LOC115693586		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+207710	Prosopis alba	114739397	0	live	LOC114739397		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+207710	Prosopis alba	114730550	0	live	LOC114730550		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3848	Glycine soja	114401466	0	live	LOC114401466	D0Y65_053404	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|DNA mismatch repair protein MSH1, mitochondrial		20	NC_041021.1	28188864	28229118	minus	22		
+4442	Camellia sinensis	114257783	0	live	LOC114257783		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3816	Abrus precatorius	113871121	0	live	LOC113871121		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+206008	Panicum hallii	112899899	0	live	LOC112899899	PAHAL_7G213000	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		7	NC_038048.1	39099129	39112142	minus	22		
+3562	Spinacia oleracea	110784258	0	live	LOC110784258		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+42229	Prunus avium	110765818	0	live	LOC110765818		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+63459	Chenopodium quinoa	110704944	0	live	LOC110704944		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+51240	Juglans regia	108990551	0	live	LOC108990551		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3708	Brassica napus	106410986	0	live	LOC106410986		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		C7	NC_027773.2	14041551	14049090	plus	26		
+3555	Beta vulgaris subsp. vulgaris	104904501	0	live	LOC104904501	BVRB_9g219000	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		9	NC_025820.2	39474165	39492722	plus	24		
+4096	Nicotiana sylvestris	104243798	0	live	LOC104243798		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+225117	Pyrus x bretschneideri	103933658	0	live	LOC103933658		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+3711	Brassica rapa	103828643	0	live	LOC103828643		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		A7	NC_024801.2	8732388	8738702	plus	21		
+3656	Cucumis melo	103483539	0	live	LOC103483539		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4533	Oryza brachyantha	102722951	0	live	LOC102722951		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		4	NC_023166.1	13383369	13397164	minus	21		
+981085	Morus notabilis	21393035	0	live	LOC21393035	L484_009714	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial|DNA mismatch repair protein mutS		Un							
+3847	Glycine max	100798513	0	live	LOC100798513	GLYMA_20G073400	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		20	NC_038256.1	25895104	25949656	minus	22		
+3726	Raphanus sativus	108858223	0	live	LOC108858223		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+4182	Sesamum indicum	105172031	0	live	LOC105172031		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		LG10	NC_026154.1	3227478	3237192	plus	16		
+4182	Sesamum indicum	105155195	0	live	LOC105155195		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+90675	Camelina sativa	104746972	0	live	LOC104746972		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		15	NC_025699.1	16608961	16617234	minus	22		
+90675	Camelina sativa	104707487	0	live	LOC104707487		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		1	NC_025685.1	12989285	12991850	minus	9		
+90675	Camelina sativa	104707477	0	live	LOC104707477		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		1	NC_025685.1	12978303	12983129	minus	15		
+96939	Vitis riparia	117915137	0	live	LOC117915137		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		5	NC_048435.1	9108140	9189973	plus	26		
+96939	Vitis riparia	117910289	0	live	LOC117910289		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+178133	Rhodamnia argentea	115733748	0	live	LOC115733748		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+178133	Rhodamnia argentea	115732082	0	live	LOC115732082		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+178133	Rhodamnia argentea	115731828	0	live	LOC115731828		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+178133	Rhodamnia argentea	115730012	0	live	LOC115730012		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3750	Malus domestica	114820501	0	live	LOC114820501		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		13	NC_041801.1	21783675	21796268	plus	22		
+3917	Vigna unguiculata	114189587	0	live	LOC114189587		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		7	NC_040285.1	6130088	6172489	minus	22		
+49369	Coffea eugenioides	113764595	0	live	LOC113764595		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		3	NC_040037.1	6273274	6287972	plus	22		
+13443	Coffea arabica	113736393	0	live	LOC113736393		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		3e	NC_039903.1	4306360	4321308	plus	22		
+13443	Coffea arabica	113734364	0	live	LOC113734364		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		3c	NC_039902.1	5391452	5406302	plus	22		
+3469	Papaver somniferum	113357437	0	live	LOC113357437		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		3	NC_039360.1	134365538	134374848	plus	21		
+3469	Papaver somniferum	113354211	0	live	LOC113354211		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		2	NC_039359.1	161228458	161237586	minus	21		
+3469	Papaver somniferum	113319252	0	live	LOC113319252		DNA mismatch repair protein MSH1, mitochondrial-like	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial-like		10	NC_039367.1	114035132	114047814	plus	23		
+3818	Arachis hypogaea	112711365	0	live	LOC112711365		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Arahy.09	NC_037626.1	102569818	102581295	plus	22		
+3218	Physcomitrium patens	112286149	0	live	LOC112286149	PHYPA_011915, MSH1B	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|MutS homolog 1B		8	NC_037260.1	15229624	15235225	plus	8		
+58331	Quercus suber	111996530	0	live	LOC111996530	CFP56_44989	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+158386	Olea europaea var. sylvestris	111385073	0	live	LOC111385073		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3673	Momordica charantia	111024575	0	live	LOC111024575		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4232	Helianthus annuus	110878043	0	live	LOC110878043	HannXRQ_Chr01g0023051	DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like|putative GIY-YIG nuclease superfamily		1	NC_035433.1	128748198	128760541	plus	22		
+63459	Chenopodium quinoa	110698603	0	live	LOC110698603		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3981	Hevea brasiliensis	110657501	0	live	LOC110657501		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+78828	Phalaenopsis equestris	110033596	0	live	LOC110033596		DNA mismatch repair protein MSH1, mitochondrial	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial		Un							
+3821	Cajanus cajan	109810892	0	live	LOC109810892	KK1_006257	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial|DNA mismatch repair protein mutS		2	NC_033805.1	16797614	16802174	plus	4		
+3821	Cajanus cajan	109804901	0	live	LOC109804901	KK1_022767	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial|DNA mismatch repair protein mutS		9	NC_033812.1	97283	125179	plus	21		
+3871	Lupinus angustifolius	109336415	0	live	LOC109336415		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		LG20	NC_032028.1	8291545	8309119	plus	22		
+3871	Lupinus angustifolius	109335281	0	live	LOC109335281		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		LG20	NC_032028.1	8282918	8285876	plus	5		
+51240	Juglans regia	109020075	0	live	LOC109020075		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+51240	Juglans regia	109008694	0	live	LOC109008694		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+51240	Juglans regia	108990548	0	live	LOC108990548		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+29729	Gossypium arboreum	108454109	0	live	LOC108454109		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		11	NC_030674.1	34186959	34196994	minus	22		
+79200	Daucus carota subsp. sativus	108199558	0	live	LOC108199558		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		8	NC_030388.1	23888225	23906737	minus	21		
+3635	Gossypium hirsutum	107943117	0	live	LOC107943117		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+4072	Capsicum annuum	107864578	0	live	LOC107864578		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		3	NC_029979.1	254494419	254528112	plus	22		
+4097	Nicotiana tabacum	107768821	0	live	LOC107768821		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+4097	Nicotiana tabacum	107768689	0	live	LOC107768689		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+4097	Nicotiana tabacum	107764652	0	live	LOC107764652		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+326968	Ziziphus jujuba	107422746	0	live	LOC107422746		DNA mismatch repair protein MSH1, mitochondrial-like	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial-like		7	NC_029685.1	16539927	16549268	plus	19		
+326968	Ziziphus jujuba	107408749	0	live	LOC107408749		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+3708	Brassica napus	106450570	0	live	LOC106450570		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		A7	NC_027763.2	3743189	3749433	plus	22		
+3712	Brassica oleracea	106306648	0	live	LOC106306648		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		C7	NC_027754.1	13073048	13079559	plus	22		
+29730	Gossypium raimondii	105800651	0	live	LOC105800651	B456_006G254800	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		6	NC_026934.1	49748678	49758748	plus	22		
+28532	Tarenaya hassleriana	104821629	0	live	LOC104821629		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+102107	Prunus mume	103323794	0	live	LOC103323794		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		LG2	NC_024127.1	38136536	38149560	plus	22		
+3827	Cicer arietinum	101504596	0	live	LOC101504596		DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Ca4	NC_021163.1	26633567	26648879	plus	22		
+3827	Cicer arietinum	101503397	0	live	LOC101503397		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Ca4	NC_021163.1	34234721	34237581	plus	2		
+3827	Cicer arietinum	101500510	0	live	LOC101500510		DNA mismatch repair protein MSH1, mitochondrial-like	DNA mismatch repair protein MSH1, mitochondrial-like		Un							
+88036	Selaginella moellendorffii	9662483	0	live	LOC9662483	SELMODRAFT_77583	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+88036	Selaginella moellendorffii	9659669	0	live	LOC9659669	SELMODRAFT_230470	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+81972	Arabidopsis lyrata subsp. lyrata	9324513	0	live	LOC9324513	ARALYDRAFT_338769	DNA mismatch repair protein MSH1, mitochondrial	DNA mismatch repair protein MSH1, mitochondrial		Un							
+81972	Arabidopsis lyrata subsp. lyrata	9321706	0	live	LOC9321706	ARALYDRAFT_479946	DNA mismatch repair protein MSH1, mitochondrial	LOW QUALITY PROTEIN: DNA mismatch repair protein MSH1, mitochondrial		Un							
+49451	Nicotiana attenuata	109231028	0	live	LOC109231028	A4A49_02910, MSH1_0	endonuclease MutS2	uncharacterized protein LOC109231028|dna mismatch repair protein msh1, mitochondrial		8	NC_031996.1	19617283	19634563	minus	20		
+97700	Quercus lobata	115950415	0	live	LOC115950415		DNA mismatch repair protein MSH1, mitochondrial-like			6	NC_044909.1	48891752	48908187	minus	12		
+58331	Quercus suber	112000280	0	live	LOC112000280		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+178133	Rhodamnia argentea	115730792	0	live	LOC115730792		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+178133	Rhodamnia argentea	115727405	0	live	LOC115727405		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+219896	Syzygium oleosum	115679816	0	live	LOC115679816		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+3469	Papaver somniferum	113333584	0	live	LOC113333584		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+158386	Olea europaea var. sylvestris	111369011	0	live	LOC111369011		DNA mismatch repair protein MSH1, mitochondrial-like			20	NC_036256.1	7483151	7486973	plus	0		
+158386	Olea europaea var. sylvestris	111369005	0	live	LOC111369005		DNA mismatch repair protein MSH1, mitochondrial-like			20	NC_036256.1	7081393	7088386	minus	0		
+158386	Olea europaea var. sylvestris	111369002	0	live	LOC111369002		DNA mismatch repair protein MSH1, mitochondrial-like			20	NC_036256.1	6695887	6705447	minus	0		
+3981	Hevea brasiliensis	110657502	0	live	LOC110657502		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+3981	Hevea brasiliensis	110642439	0	live	LOC110642439		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+3635	Gossypium hirsutum	107929169	0	live	LOC107929169		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+4097	Nicotiana tabacum	107796307	0	live	LOC107796307		DNA mismatch repair protein MSH1, mitochondrial-like			Un							
+90675	Camelina sativa	104707501	0	live	LOC104707501		DNA mismatch repair protein MSH1, mitochondrial-like			1	NC_025685.1	13000368	13006638	minus	0		
+9606	Homo sapiens	4292	0	live	MLH1	COCA2, FCC2, HNPCC, HNPCC2, hMLH1	mutL homolog 1	DNA mismatch repair protein Mlh1|mutL homolog 1, colon cancer, nonpolyposis type 2	3p22.2	3	NC_000003.12	36993350	37050846	plus	21	120436	
+9606	Homo sapiens	4436	0	live	MSH2	COCA1, FCC1, HNPCC, HNPCC1, LCFS2, hMSH2	mutS homolog 2	DNA mismatch repair protein Msh2|DNA mismatch repair protein Msh2 transcript|mutS homolog 2, colon cancer, nonpolyposis type 1	2p21-p16.3	2	NC_000002.12	47403067	47634501	plus	22	609309	
+559292	Saccharomyces cerevisiae S288C	855459	0	live	POL2	YNL262W, DUN2	DNA polymerase epsilon catalytic subunit	DNA polymerase epsilon catalytic subunit		XIV	NC_001146.8	148212	154880	plus	1		
+559292	Saccharomyces cerevisiae S288C	852457	0	live	CDC28	YBR160W, CDK1, HSL5, SRM5	cyclin-dependent serine/threonine-protein kinase CDC28	cyclin-dependent serine/threonine-protein kinase CDC28		II	NC_001134.8	560078	560974	plus	1		
+559292	Saccharomyces cerevisiae S288C	851752	0	live	SUP35	YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36	translation termination factor GTPase eRF3	translation termination factor GTPase eRF3		IV	NC_001136.10	808324	810381	plus	1		
+559292	Saccharomyces cerevisiae S288C	851259	0	live	SSA1	YAL005C, YG100	Hsp70 family ATPase SSA1	Hsp70 family ATPase SSA1		I	NC_001133.9	139503	141431	minus	1		
+559292	Saccharomyces cerevisiae S288C	850803	0	live	HOG1	YLR113W, SSK3	mitogen-activated protein kinase HOG1	mitogen-activated protein kinase HOG1		XII	NC_001144.5	371620	372927	plus	1		
+559292	Saccharomyces cerevisiae S288C	851457	0	live	DUN1	YDL101C	serine/threonine protein kinase DUN1	serine/threonine protein kinase DUN1		IV	NC_001136.10	280307	281848	minus	1		
+559292	Saccharomyces cerevisiae S288C	850930	0	live	CDC42	YLR229C	Rho family GTPase CDC42	Rho family GTPase CDC42		XII	NC_001144.5	604212	604787	minus	1		
+559292	Saccharomyces cerevisiae S288C	856912	0	live	PAB1	YER165W	polyadenylate-binding protein	polyadenylate-binding protein		V	NC_001137.3	510373	512106	plus	1		
+559292	Saccharomyces cerevisiae S288C	851369	0	live	SSB1	YDL229W, YG101	Hsp70 family ATPase SSB1	Hsp70 family ATPase SSB1		IV	NC_001136.10	44065	45906	plus	1		
+559292	Saccharomyces cerevisiae S288C	850297	0	live	MRC1	YCL061C, YCL060C	chromatin-modulating protein MRC1	chromatin-modulating protein MRC1		III	NC_001135.5	18816	22106	minus	1		
+559292	Saccharomyces cerevisiae S288C	856847	0	live	SWI4	YER111C, ART1	SBF complex DNA-binding subunit SWI4	SBF complex DNA-binding subunit SWI4		V	NC_001137.3	382595	385876	minus	1		
+559292	Saccharomyces cerevisiae S288C	850636	0	live	SSA2	YLL024C, YG102	Hsp70 family chaperone SSA2	Hsp70 family chaperone SSA2		XII	NC_001144.5	95566	97485	minus	1		
+559292	Saccharomyces cerevisiae S288C	851623	0	live	DBF4	YDR052C, DNA52, LSD7	protein serine/threonine kinase activating protein DBF4	protein serine/threonine kinase activating protein DBF4		IV	NC_001136.10	558511	560625	minus	1		
+559292	Saccharomyces cerevisiae S288C	855418	0	live	CLA4	YNL298W, ERC10	serine/threonine protein kinase CLA4	serine/threonine protein kinase CLA4		XIV	NC_001146.8	68915	71443	plus	1		
+559292	Saccharomyces cerevisiae S288C	854527	0	live	REV1	YOR346W	deoxycytidyl transferase	deoxycytidyl transferase		XV	NC_001147.6	981828	984785	plus	1		
+559292	Saccharomyces cerevisiae S288C	853803	0	live	MSN4	YKL062W	stress-responsive transcriptional activator MSN4	stress-responsive transcriptional activator MSN4		XI	NC_001143.9	323228	325120	plus	1		
+559292	Saccharomyces cerevisiae S288C	856648	0	live	CIN8	YEL061C, KSL2, SDS15	kinesin motor protein CIN8	kinesin motor protein CIN8		V	NC_001137.3	36535	39537	minus	1		
+559292	Saccharomyces cerevisiae S288C	853712	0	live	RPT1	YKL145W, CIM5, YTA3	proteasome regulatory particle base subunit RPT1	proteasome regulatory particle base subunit RPT1		XI	NC_001143.9	174213	175616	plus	1		
+559292	Saccharomyces cerevisiae S288C	854379	0	live	DED1	YOR204W, SPP81	DEAD-box ATP-dependent RNA helicase DED1	DEAD-box ATP-dependent RNA helicase DED1		XV	NC_001147.6	722911	724725	plus	1		
+559292	Saccharomyces cerevisiae S288C	851394	0	live	DHH1	YDL160C	DExD/H-box ATP-dependent RNA helicase DHH1	DExD/H-box ATP-dependent RNA helicase DHH1		IV	NC_001136.10	170410	171930	minus	1		
+559292	Saccharomyces cerevisiae S288C	855998	0	live	SSE1	YPL106C, LPG3, MSI3	adenyl-nucleotide exchange factor SSE1	adenyl-nucleotide exchange factor SSE1		XVI	NC_001148.4	350194	352275	minus	1		
+559292	Saccharomyces cerevisiae S288C	856426	0	live	RRM3	YHR031C, RTT104	DNA helicase	DNA helicase		VIII	NC_001140.6	170799	172970	minus	1		
+559292	Saccharomyces cerevisiae S288C	856399	0	live	SOD2	YHR008C	superoxide dismutase SOD2	superoxide dismutase SOD2		VIII	NC_001140.6	122889	123590	minus	1		
+559292	Saccharomyces cerevisiae S288C	851723	0	live	TAF12	YDR145W, TAF61, TAF68	Taf12p	Taf12p		IV	NC_001136.10	746738	748357	plus	1		
+559292	Saccharomyces cerevisiae S288C	851691	0	live	PDS1	YDR113C	securin	securin		IV	NC_001136.10	680496	681617	minus	1		
+559292	Saccharomyces cerevisiae S288C	850686	0	live	DNM1	YLL001W	dynamin-related GTPase DNM1	dynamin-related GTPase DNM1		XII	NC_001144.5	147890	150163	plus	1		
+559292	Saccharomyces cerevisiae S288C	852547	0	live	ISW1	YBR245C, SGN2	chromatin-remodeling ATPase ISW1	chromatin-remodeling ATPase ISW1		II	NC_001134.8	708150	711539	minus	1		
+559292	Saccharomyces cerevisiae S288C	853746	0	live	APN1	YKL114C	DNA-(apurinic or apyrimidinic site) lyase APN1	DNA-(apurinic or apyrimidinic site) lyase APN1		XI	NC_001143.9	223352	224455	minus	1		
+559292	Saccharomyces cerevisiae S288C	851207	0	live	DRS2	YAL026C, FUN38, SWA3	aminophospholipid-translocating P4-type ATPase DRS2	aminophospholipid-translocating P4-type ATPase DRS2		I	NC_001133.9	95630	99697	minus	1		
+559292	Saccharomyces cerevisiae S288C	852984	0	live	DBF2	YGR092W	serine/threonine-protein kinase DBF2	serine/threonine-protein kinase DBF2		VII	NC_001139.9	668189	669907	plus	1		
+559292	Saccharomyces cerevisiae S288C	856135	0	live	YME1	YPR024W, OSD1, YTA11	i-AAA protease YME1	i-AAA protease YME1		XVI	NC_001148.4	610481	612724	plus	1		
+559292	Saccharomyces cerevisiae S288C	852415	0	live	TEF2	YBR118W	translation elongation factor EF-1 alpha	translation elongation factor EF-1 alpha		II	NC_001134.8	477671	479047	plus	1		
+559292	Saccharomyces cerevisiae S288C	852592	0	live	SNF5	YBR289W, HAF4, SWI10, TYE4	Snf5p	Snf5p		II	NC_001134.8	779667	782384	plus	1		
+559292	Saccharomyces cerevisiae S288C	851193	0	live	CDC19	YAL038W, PYK1	pyruvate kinase CDC19	pyruvate kinase CDC19		I	NC_001133.9	71786	73288	plus	1		
+559292	Saccharomyces cerevisiae S288C	855710	0	live	HDA1	YNL021W	histone deacetylase HDA1	histone deacetylase HDA1		XIV	NC_001146.8	593227	595347	plus	1		
+559292	Saccharomyces cerevisiae S288C	850325	0	live	STE50	YCL032W	Ste50p	Ste50p		III	NC_001135.5	63441	64481	plus	1		
+559292	Saccharomyces cerevisiae S288C	851209	0	live	LTE1	YAL024C, MSI2	mitotic regulator LTE1	mitotic regulator LTE1		I	NC_001133.9	101565	105872	minus	1		
+559292	Saccharomyces cerevisiae S288C	855605	0	live	DCP2	YNL118C, PSU1	decapping enzyme complex catalytic subunit	decapping enzyme complex catalytic subunit		XIV	NC_001146.8	402652	405564	minus	1		
+559292	Saccharomyces cerevisiae S288C	854073	0	live	IRA2	YOL081W, CCS1, GLC4	Ras GTPase activating protein IRA2	Ras GTPase activating protein IRA2		XV	NC_001147.6	171070	180309	plus	1		
+559292	Saccharomyces cerevisiae S288C	850328	0	live	BIK1	YCL029C, ARM5, PAC14	Bik1p	Bik1p		III	NC_001135.5	68599	69921	minus	1		
+559292	Saccharomyces cerevisiae S288C	851647	0	live	PPH3	YDR075W	phosphoprotein phosphatase PP4 catalytic subunit PPH3	phosphoprotein phosphatase PP4 catalytic subunit PPH3		IV	NC_001136.10	597156	598082	plus	1		
+559292	Saccharomyces cerevisiae S288C	855626	0	live	PHO23	YNL097C	Pho23p	Pho23p		XIV	NC_001146.8	441366	442358	minus	1		
+559292	Saccharomyces cerevisiae S288C	851372	0	live	GCS1	YDL226C	GTPase-activating protein GCS1	GTPase-activating protein GCS1		IV	NC_001136.10	51115	52173	minus	1		
+559292	Saccharomyces cerevisiae S288C	851218	0	live	NTG1	YAL015C, FUN33, SCR1, ogg2	bifunctional N-glycosylase/AP lyase NTG1	bifunctional N-glycosylase/AP lyase NTG1		I	NC_001133.9	126903	128102	minus	1		
+559292	Saccharomyces cerevisiae S288C	851890	0	live	MHR1	YDR296W, XTC1, mL67	Mhr1p	Mhr1p		IV	NC_001136.10	1055212	1055892	plus	1		
+559292	Saccharomyces cerevisiae S288C	855925	0	live	CBC2	YPL178W, CBP20, MUD13, SAE1	nuclear cap-binding protein subunit CBC2	nuclear cap-binding protein subunit CBC2		XVI	NC_001148.4	212158	212784	plus	1		
+559292	Saccharomyces cerevisiae S288C	854508	0	live	MIP1	YOR330C	DNA-directed DNA polymerase gamma MIP1	DNA-directed DNA polymerase gamma MIP1		XV	NC_001147.6	939621	943385	minus	1		
+559292	Saccharomyces cerevisiae S288C	852697	0	live	MPT5	YGL178W, HTR1, PUF5, UTH4	Mpt5p	Mpt5p		VII	NC_001139.9	167352	170571	plus	2		
+559292	Saccharomyces cerevisiae S288C	856559	0	live	RTT107	YHR154W, ESC4	Rtt107p	Rtt107p		VIII	NC_001140.6	402966	406178	plus	1		
+559292	Saccharomyces cerevisiae S288C	850654	0	live	MMM1	YLL006W, YME6	ERMES complex subunit MMM1	ERMES complex subunit MMM1		XII	NC_001144.5	136586	137866	plus	1		
+559292	Saccharomyces cerevisiae S288C	854653	0	live	RRD1	YIL153W, YPA1	peptidylprolyl isomerase RRD1	peptidylprolyl isomerase RRD1		IX	NC_001141.2	55198	56379	plus	1		
+559292	Saccharomyces cerevisiae S288C	851742	0	live	SEC1	YDR164C	Sec1p	Sec1p		IV	NC_001136.10	782041	784215	minus	1		
+559292	Saccharomyces cerevisiae S288C	852471	0	live	UMP1	YBR173C, RNS2	Ump1p	Ump1p		II	NC_001134.8	581726	582172	minus	1		
+559292	Saccharomyces cerevisiae S288C	852432	0	live	CKS1	YBR135W	cyclin-dependent protein kinase regulatory subunit CKS1	cyclin-dependent protein kinase regulatory subunit CKS1		II	NC_001134.8	504854	505306	plus	1		
+559292	Saccharomyces cerevisiae S288C	851746	0	live	CDC37	YDR168W, SMO1	Cdc37p	Cdc37p		IV	NC_001136.10	790328	791848	plus	1		
+559292	Saccharomyces cerevisiae S288C	850647	0	live	PUF3	YLL013C	mRNA-binding protein PUF3	mRNA-binding protein PUF3		XII	NC_001144.5	122075	124714	minus	1		
+559292	Saccharomyces cerevisiae S288C	855320	0	live	FCP1	YMR277W	protein serine/threonine phosphatase	protein serine/threonine phosphatase		XIII	NC_001145.3	820256	822454	plus	1		
+559292	Saccharomyces cerevisiae S288C	853061	0	live	CHO2	YGR157W, PEM1	phosphatidylethanolamine N-methyltransferase	phosphatidylethanolamine N-methyltransferase		VII	NC_001139.9	802440	805049	plus	1		
+559292	Saccharomyces cerevisiae S288C	856226	0	live	RPC40	YPR110C, RPC5	DNA-directed RNA polymerase core subunit RPC40	DNA-directed RNA polymerase core subunit RPC40		XVI	NC_001148.4	745828	746835	minus	1		
+559292	Saccharomyces cerevisiae S288C	853556	0	live	IME1	YJR094C	transcription factor IME1	transcription factor IME1		X	NC_001142.9	604569	605651	minus	1		
+559292	Saccharomyces cerevisiae S288C	855256	0	live	SKY1	YMR216C	serine/threonine protein kinase SKY1	serine/threonine protein kinase SKY1		XIII	NC_001145.3	698811	701039	minus	1		
+559292	Saccharomyces cerevisiae S288C	855144	0	live	SPC24	YMR117C	kinetochore-associated Ndc80 complex subunit SPC24	kinetochore-associated Ndc80 complex subunit SPC24		XIII	NC_001145.3	501250	501891	minus	1		
+559292	Saccharomyces cerevisiae S288C	851659	0	live	SSS1	YDR086C	translocon subunit SSS1	translocon subunit SSS1		IV	NC_001136.10	616928	617170	minus	1		
+559292	Saccharomyces cerevisiae S288C	852080	0	live	SDC1	YDR469W, CPS25, SAF19	Sdc1p	Sdc1p		IV	NC_001136.10	1399015	1399542	plus	1		
+559292	Saccharomyces cerevisiae S288C	851222	0	live	SWC3	YAL011W, SWC1	Swc3p	Swc3p		I	NC_001133.9	132199	134076	plus	1		
+559292	Saccharomyces cerevisiae S288C	851494	0	live	PEX19	YDL065C, PAS12	Pex19p	Pex19p		IV	NC_001136.10	336249	337277	minus	1		
+559292	Saccharomyces cerevisiae S288C	851336	0	live	RPL35A	YDL191W, SOS1	ribosomal 60S subunit protein L35A	ribosomal 60S subunit protein L35A		IV	NC_001136.10	117664	118517	plus	2		
+559292	Saccharomyces cerevisiae S288C	851478	0	live	RPP1A	YDL081C, RPLA1	ribosomal protein P1A	ribosomal protein P1A		IV	NC_001136.10	309802	310122	minus	1		
+559292	Saccharomyces cerevisiae S288C	851337	0	live	UFD2	YDL190C	ubiquitin-ubiquitin ligase UFD2	ubiquitin-ubiquitin ligase UFD2		IV	NC_001136.10	118707	121592	minus	1		
+559292	Saccharomyces cerevisiae S288C	856823	0	live	PTC2	YER089C	type 2C protein phosphatase PTC2	type 2C protein phosphatase PTC2		V	NC_001137.3	335946	337340	minus	1		
+559292	Saccharomyces cerevisiae S288C	856530	0	live	ARP1	YHR129C, ACT5	actin-related protein 1	actin-related protein 1		VIII	NC_001140.6	362999	364153	minus	1		
+559292	Saccharomyces cerevisiae S288C	852569	0	live	REI1	YBR267W	Rei1p	Rei1p		II	NC_001134.8	739841	741022	plus	1		
+559292	Saccharomyces cerevisiae S288C	850541	0	live	BLM10	YFL007W, YFL006W	Blm10p	Blm10p		VI	NC_001138.5	123479	129910	plus	1		
+559292	Saccharomyces cerevisiae S288C	853864	0	live	RPL14A	YKL006W	ribosomal 60S subunit protein L14A	ribosomal 60S subunit protein L14A		XI	NC_001143.9	431906	432720	plus	2		
+559292	Saccharomyces cerevisiae S288C	851477	0	live	RPL13A	YDL082W	ribosomal 60S subunit protein L13A	ribosomal 60S subunit protein L13A		IV	NC_001136.10	308424	309388	plus	2		
+559292	Saccharomyces cerevisiae S288C	856015	0	live	RPS6A	YPL090C	ribosomal 40S subunit protein S6A	ribosomal 40S subunit protein S6A		XVI	NC_001148.4	377291	378395	minus	2		
+559292	Saccharomyces cerevisiae S288C	853423	0	live	VPS53	YJL029C	Vps53p	Vps53p		X	NC_001142.9	388385	390853	minus	1		
+559292	Saccharomyces cerevisiae S288C	852394	0	live	VPS15	YBR097W, GRD8, VAC4, VPL19, VPS40, VPT15	ubiquitin-binding serine/threonine protein kinase VPS15	ubiquitin-binding serine/threonine protein kinase VPS15		II	NC_001134.8	436951	441315	plus	1		
+559292	Saccharomyces cerevisiae S288C	856817	0	live	GET2	YER083C, HUR2, RMD7	GET complex subunit GET2	GET complex subunit GET2		V	NC_001137.3	326174	327031	minus	1		
+559292	Saccharomyces cerevisiae S288C	854942	0	live	OGG1	YML060W	8-oxoguanine glycosylase OGG1	8-oxoguanine glycosylase OGG1		XIII	NC_001145.3	151871	153001	plus	1		
+559292	Saccharomyces cerevisiae S288C	851665	0	live	RLI1	YDR091C	Fe-S cluster-binding ribosome biosynthesis protein	Fe-S cluster-binding ribosome biosynthesis protein		IV	NC_001136.10	626708	628534	minus	1		
+559292	Saccharomyces cerevisiae S288C	855648	0	live	MKS1	YNL076W, LYS80	Mks1p	Mks1p		XIV	NC_001146.8	483556	485310	plus	1		
+10090	Mus musculus	72461	0	live	Prcp	2510048K03Rik, 2610104A14Rik, AI451719, HUMPCP, PCP	prolylcarboxypeptidase (angiotensinase C)	lysosomal Pro-X carboxypeptidase|proline carboxypeptidase	7 E1	7	NC_000073.6	92875253	92934581	plus	9		
+559292	Saccharomyces cerevisiae S288C	856828	0	live	TSC11	YER093C, AVO3	TORC2 complex subunit TSC11	TORC2 complex subunit TSC11		V	NC_001137.3	343320	347612	minus	1		
+559292	Saccharomyces cerevisiae S288C	850775	0	live	SMC4	YLR086W	condensin subunit SMC4	condensin subunit SMC4		XII	NC_001144.5	302243	306499	plus	1		
+559292	Saccharomyces cerevisiae S288C	854744	0	live	RNR3	YIL066C, DIN1, RIR3	ribonucleotide-diphosphate reductase subunit RNR3	ribonucleotide-diphosphate reductase subunit RNR3		IX	NC_001141.2	238099	240708	minus	1		
+559292	Saccharomyces cerevisiae S288C	851098	0	live	NAM2	YLR382C, MSL1	leucine--tRNA ligase NAM2	leucine--tRNA ligase NAM2		XII	NC_001144.5	882067	884751	minus	1		
+4896	Schizosaccharomyces pombe	2541213	0	live	pfh1	SPBC887.14c, pif1	DNA repair and recombination protein	DNA repair and recombination protein		II	NC_003423.3	3567593	3570555	minus	2		
+559292	Saccharomyces cerevisiae S288C	854928	0	live	CTK3	YML112W	Ctk3p	Ctk3p		XIII	NC_001145.3	45063	45953	plus	1		
+559292	Saccharomyces cerevisiae S288C	851661	0	live	SLU7	YDR088C, SLT17	mRNA splicing protein SLU7	mRNA splicing protein SLU7		IV	NC_001136.10	618497	619645	minus	1		
+559292	Saccharomyces cerevisiae S288C	851249	0	live	GEM1	YAL048C, GON1	ERMES complex Ca(2+)-binding regulatory GTPase GEM1	ERMES complex Ca(2+)-binding regulatory GTPase GEM1		I	NC_001133.9	52801	54789	minus	1		
+559292	Saccharomyces cerevisiae S288C	856654	0	live	HAT2	YEL056W	Hat2p	Hat2p		V	NC_001137.3	47168	48373	plus	1		
+559292	Saccharomyces cerevisiae S288C	852870	0	live	PUF4	YGL014W, YGL023	Puf4p	Puf4p		VII	NC_001139.9	466141	468807	plus	1		
+559292	Saccharomyces cerevisiae S288C	851644	0	live	IPT1	YDR072C, KTI6, MIC2, SYR4	inositolphosphotransferase	inositolphosphotransferase		IV	NC_001136.10	589761	591344	minus	1		
+559292	Saccharomyces cerevisiae S288C	851981	0	live	BCS1	YDR375C	bifunctional AAA family ATPase chaperone/translocase BCS1	bifunctional AAA family ATPase chaperone/translocase BCS1		IV	NC_001136.10	1225166	1226536	minus	1		
+559292	Saccharomyces cerevisiae S288C	855414	0	live	RPS19B	YNL302C, RP55B	ribosomal 40S subunit protein S19B	ribosomal 40S subunit protein S19B		XIV	NC_001146.8	61958	62943	minus	2		
+559292	Saccharomyces cerevisiae S288C	852180	0	live	BRN1	YBL097W	condensin subunit BRN1	condensin subunit BRN1		II	NC_001134.8	40831	43095	plus	1		
+559292	Saccharomyces cerevisiae S288C	851925	0	live	YCG1	YDR325W, TIE1, YCS5	condensin subunit YCG1	condensin subunit YCG1		IV	NC_001136.10	1117126	1120233	plus	1		
+559292	Saccharomyces cerevisiae S288C	852976	0	live	RPL11B	YGR085C	ribosomal 60S subunit protein L11B	ribosomal 60S subunit protein L11B		VII	NC_001139.9	648383	648907	minus	1		
+559292	Saccharomyces cerevisiae S288C	852721	0	live	AMS1	YGL156W	alpha-mannosidase	alpha-mannosidase		VII	NC_001139.9	210416	213667	plus	1		
+10116	Rattus norvegicus	293118	0	live	Prcp		prolylcarboxypeptidase	lysosomal Pro-X carboxypeptidase|prolylcarboxypeptidase (angiotensinase C)	1q32	1	NC_005100.4	157701089	157750177	plus	9		
+559292	Saccharomyces cerevisiae S288C	853173	0	live	MTM1	YGR257C	Mtm1p	Mtm1p		VII	NC_001139.9	1006205	1007305	minus	1		
+559292	Saccharomyces cerevisiae S288C	851856	0	live	DIN7	YDR263C, DIN3	exodeoxyribonuclease DIN7	exodeoxyribonuclease DIN7		IV	NC_001136.10	994242	995534	minus	1		
+559292	Saccharomyces cerevisiae S288C	853140	0	live	AMA1	YGR225W, SPO70	Ama1p	Ama1p		VII	NC_001139.9	945145	947019	plus	2		
+559292	Saccharomyces cerevisiae S288C	854135	0	live	IFM1	YOL023W	translation initiation factor 2	translation initiation factor 2		XV	NC_001147.6	278056	280086	plus	1		
+559292	Saccharomyces cerevisiae S288C	852314	0	live	ETR1	YBR026C, MRF1, MRF1'	enoyl-[acyl-carrier-protein] reductase	enoyl-[acyl-carrier-protein] reductase		II	NC_001134.8	292877	294019	minus	1		
+559292	Saccharomyces cerevisiae S288C	850508	0	live	MOB2	YFL034C-B, YFL035C, YFL035C-A	Mob2p	Mob2p		VI	NC_001138.5	63016	63993	minus	2		
+559292	Saccharomyces cerevisiae S288C	853060	0	live	PTI1	YGR156W	cleavage polyadenylation factor subunit PTI1	cleavage polyadenylation factor subunit PTI1		VII	NC_001139.9	800546	801823	plus	1		
+559292	Saccharomyces cerevisiae S288C	850860	0	live	MAS1	YLR163C, MIF1	mitochondrial processing peptidase	mitochondrial processing peptidase		XII	NC_001144.5	491866	493254	minus	1		
+559292	Saccharomyces cerevisiae S288C	852868	0	live	KAP122	YGL016W, PDR6	Kap122p	Kap122p		VII	NC_001139.9	461666	464911	plus	1		
+559292	Saccharomyces cerevisiae S288C	851719	0	live	DOP1	YDR141C	Dop1p	Dop1p		IV	NC_001136.10	734901	739997	minus	1		
+559292	Saccharomyces cerevisiae S288C	855600	0	live	NMA111	YNL123W, YNM3	Nma111p	Nma111p		XIV	NC_001146.8	394685	397678	plus	1		
+559292	Saccharomyces cerevisiae S288C	851763	0	live	CDC1	YDR182W, DSC1, DSR1, ESP2	putative lipid phosphatase CDC1	putative lipid phosphatase CDC1		IV	NC_001136.10	827582	829057	plus	1		
+559292	Saccharomyces cerevisiae S288C	853858	0	live	CCE1	YKL011C, MGT1	cruciform cutting endonuclease	cruciform cutting endonuclease		XI	NC_001143.9	420155	421216	minus	1		
+559292	Saccharomyces cerevisiae S288C	853886	0	live	MIC60	YKR016W, AIM28, FCJ1, FMP13	Mic60p	Mic60p		XI	NC_001143.9	469717	471339	plus	1		
+559292	Saccharomyces cerevisiae S288C	855247	0	live	HFA1	YMR207C	acetyl-CoA carboxylase HFA1	acetyl-CoA carboxylase HFA1		XIII	NC_001145.3	677193	683564	minus	1		
+559292	Saccharomyces cerevisiae S288C	850898	0	live	COQ9	YLR201C	ubiquinone biosynthesis protein COQ9	ubiquinone biosynthesis protein COQ9		XII	NC_001144.5	549511	550293	minus	1		
+559292	Saccharomyces cerevisiae S288C	852854	0	live	CGR1	YGL029W	Cgr1p	Cgr1p		VII	NC_001139.9	440063	440425	plus	1		
+559292	Saccharomyces cerevisiae S288C	853892	0	live	NTR2	YKR022C	Ntr2p	Ntr2p		XI	NC_001143.9	482171	483139	minus	1		
+559292	Saccharomyces cerevisiae S288C	851244	0	live	PEX22	YAL055W, YAF5	ubiquitin-protein transferase activating protein PEX22	ubiquitin-protein transferase activating protein PEX22		I	NC_001133.9	42177	42719	plus	1		
+559292	Saccharomyces cerevisiae S288C	852348	0	live	MUM2	YBR057C	Mum2p	Mum2p		II	NC_001134.8	352193	353293	minus	1		
+559292	Saccharomyces cerevisiae S288C	856075	0	live	SVL3	YPL032C	Svl3p	Svl3p		XVI	NC_001148.4	488887	491364	minus	1		
+559292	Saccharomyces cerevisiae S288C	856419	0	live	MAS2	YHR024C, MIF2	mitochondrial-processing protease subunit alpha	mitochondrial-processing protease subunit alpha		VIII	NC_001140.6	157744	159192	minus	1		
+559292	Saccharomyces cerevisiae S288C	855858	0	live	MDL2	YPL270W	ATP-binding cassette permease MDL2	ATP-binding cassette permease MDL2		XVI	NC_001148.4	30482	32803	plus	1		
+559292	Saccharomyces cerevisiae S288C	851696	0	live	APC4	YDR118W	anaphase promoting complex subunit 4	anaphase promoting complex subunit 4		IV	NC_001136.10	685882	687840	plus	1		
+4896	Schizosaccharomyces pombe	2539668	0	live	pht1	SPBC11B10.10c	histone H2A.Z-like protein Pht1	histone H2A.Z-like protein Pht1		II	NC_003423.3	1502203	1503468	minus	1		
+559292	Saccharomyces cerevisiae S288C	854897	0	live	CPR3	YML078W, CYP3	peptidylprolyl isomerase CPR3	peptidylprolyl isomerase CPR3		XIII	NC_001145.3	111002	111550	plus	1		
+559292	Saccharomyces cerevisiae S288C	850313	0	live	MGR1	YCL044C	Mgr1p	Mgr1p		III	NC_001135.5	47111	48364	minus	1		
+559292	Saccharomyces cerevisiae S288C	855095	0	live	IRC21	YMR073C	Irc21p	Irc21p		XIII	NC_001145.3	412268	412873	minus	1		
+4896	Schizosaccharomyces pombe	2541929	0	live	hhp2	SPAC23C4.12	serine/threonine protein kinase Hhp2	serine/threonine protein kinase Hhp2		I	NC_003424.3	1048957	1051136	plus	3		
+559292	Saccharomyces cerevisiae S288C	856278	0	live	NCA2	YPR155C	Nca2p	Nca2p		XVI	NC_001148.4	835563	837413	minus	1		
+559292	Saccharomyces cerevisiae S288C	856790	0	live	CEM1	YER061C	fatty acid synthase CEM1	fatty acid synthase CEM1		V	NC_001137.3	278298	279626	minus	1		
+559292	Saccharomyces cerevisiae S288C	853122	0	live	SER2	YGR208W	phosphoserine phosphatase	phosphoserine phosphatase		VII	NC_001139.9	911883	912812	plus	1		
+559292	Saccharomyces cerevisiae S288C	856160	0	live	MSF1	YPR047W	phenylalanine--tRNA ligase	phenylalanine--tRNA ligase		XVI	NC_001148.4	657529	658938	plus	1		
+559292	Saccharomyces cerevisiae S288C	852568	0	live	TSC10	YBR265W	3-dehydrosphinganine reductase	3-dehydrosphinganine reductase		II	NC_001134.8	738582	739544	plus	1		
+559292	Saccharomyces cerevisiae S288C	853209	0	live	MAL12	YGR292W	alpha-glucosidase MAL12	alpha-glucosidase MAL12		VII	NC_001139.9	1076599	1078353	plus	1		
+4896	Schizosaccharomyces pombe	2539773	0	live	med7	SPBC14F5.08	mediator complex subunit Med7	mediator complex subunit Med7		II	NC_003423.3	4172385	4175788	plus	2		
+4896	Schizosaccharomyces pombe	2541470	0	live	rpb9	SPAPYUG7.04c	DNA-directed RNA polymerase II complex subunit Rpb9	DNA-directed RNA polymerase II complex subunit Rpb9		I	NC_003424.3	4751390	4752521	minus	5		
+4896	Schizosaccharomyces pombe	2543645	0	live	btn1	SPAC607.09c	battenin CLN3 family protein	battenin CLN3 family protein		I	NC_003424.3	2050462	2051731	minus	1		
+559292	Saccharomyces cerevisiae S288C	855207	0	live	EAR1	YMR171C	Ear1p	Ear1p		XIII	NC_001145.3	603868	605520	minus	1		
+559292	Saccharomyces cerevisiae S288C	856210	0	live	SYT1	YPR095C	Arf family guanine nucleotide exchange factor SYT1	Arf family guanine nucleotide exchange factor SYT1		XVI	NC_001148.4	721037	724717	minus	1		
+559292	Saccharomyces cerevisiae S288C	850382	0	live	PET18	YCR020C, HIT2	Pet18p	Pet18p		III	NC_001135.5	154012	154659	minus	1		
+559292	Saccharomyces cerevisiae S288C	853026	0	live	YGR125W	YGR125W	uncharacterized protein	uncharacterized protein		VII	NC_001139.9	742325	745435	plus	1		
+559292	Saccharomyces cerevisiae S288C	853966	0	live	SRL3	YKR091W, WHI7	DNA-binding protein SRL3	DNA-binding protein SRL3		XI	NC_001143.9	611525	612265	plus	1		
+4896	Schizosaccharomyces pombe	2541378	0	live	ubp3	SPBP8B7.21	ubiquitin hydrolase Ubp3	ubiquitin hydrolase Ubp3		II	NC_003423.3	3676896	3679661	plus	2		
+4896	Schizosaccharomyces pombe	2540654	0	live	puc1	SPBC19F5.01c, SPBP8B7.32c	cyclin Puc1	cyclin Puc1		II	NC_003423.3	3699198	3702782	minus	2		
+4896	Schizosaccharomyces pombe	2541166	0	live	ura5	SPBC725.15	orotate phosphoribosyltransferase Ura5	orotate phosphoribosyltransferase Ura5		II	NC_003423.3	1231041	1232358	plus	1		
+4896	Schizosaccharomyces pombe	2542809	0	live	ubr11	SPAC15A10.11	putative N-end-recognizing protein	putative N-end-recognizing protein		I	NC_003424.3	3702494	3709127	plus	1		
+559292	Saccharomyces cerevisiae S288C	853612	0	live	HMS2	YJR147W	Hms2p	Hms2p		X	NC_001142.9	704196	705272	plus	1		
+559292	Saccharomyces cerevisiae S288C	852795	0	live	LCL3	YGL085W	Lcl3p	Lcl3p		VII	NC_001139.9	349616	350440	plus	1		
+4896	Schizosaccharomyces pombe	2539104	0	live	eaf1	SPCC1223.10c	RNA polymerase II transcription elongation factor SpEAF	RNA polymerase II transcription elongation factor SpEAF		III	NC_003421.2	1860094	1862041	minus	4		
+4896	Schizosaccharomyces pombe	2542180	0	live	atg18	SPAC589.07c, atg18a	WD repeat-containing protein Atg18	WD repeat-containing protein Atg18		I	NC_003424.3	3104101	3105908	minus	6		
+3702	Arabidopsis thaliana	820177	0	live	RECA3	AT3G10140, RECA homolog 3	RECA homolog 3	RECA homolog 3		3	NC_003074.8	3134873	3137417	plus	8		
+559292	Saccharomyces cerevisiae S288C	854887	0	live	AIM33	YML087C	cytochrome-b5 reductase	cytochrome-b5 reductase		XIII	NC_001145.3	94431	95369	minus	1		
+4896	Schizosaccharomyces pombe	2541337	0	live	swc2	SPBP35G2.13c	Swr1 complex complex subunit Swc2	Swr1 complex complex subunit Swc2		II	NC_003423.3	990227	991832	minus	1		
+4896	Schizosaccharomyces pombe	2541733	0	live	uch1	SPAC27F1.03c	ubiquitin hydrolase Uch1	ubiquitin hydrolase Uch1		I	NC_003424.3	4320716	4321579	minus	1		
+559292	Saccharomyces cerevisiae S288C	850718	0	live	YLR031W	YLR031W	hypothetical protein	hypothetical protein		XII	NC_001144.5	204225	204785	plus	1		
+4896	Schizosaccharomyces pombe	2539348	0	live	nup61	SPCC18B5.07c	nucleoporin Nup61	nucleoporin Nup61		III	NC_003421.2	730871	733243	minus	3		
+4896	Schizosaccharomyces pombe	2542102	0	live	spc34	SPAC8C9.17c	DASH complex subunit Spc34	DASH complex subunit Spc34		I	NC_003424.3	3673699	3675221	minus	1		
+4896	Schizosaccharomyces pombe	2542878	0	live	nhp6	SPAC57A10.09c	putative High-mobility group non-histone chromatin protein	putative High-mobility group non-histone chromatin protein		I	NC_003424.3	1380312	1381558	minus	3		
+284811	Eremothecium gossypii ATCC 10895	4619194	0	live	AGOS_ABR137W	AGOS_ABR137W, ABR137W	ABR137Wp			II	NC_005783.5	653347	656214	plus	1		
+28985	Kluyveromyces lactis	2895236	0	live	KLLA0_F24156g	KLLA0_F24156g	uncharacterized protein			F	NC_006042.1	2251454	2254276	plus	1		
+4896	Schizosaccharomyces pombe	2543667	0	live	swc3	SPAC4H3.02c	Swr1 complex subunit Swc3	Swr1 complex subunit Swc3		I	NC_003424.3	3824390	3825972	minus	2		
+4896	Schizosaccharomyces pombe	2539714	0	live	SPBC1861.07	SPBC1861.07	putative elongin C	putative elongin C		II	NC_003423.3	4144684	4145098	plus	4		
+462227	Babesia sp. Xinjiang	39880357	0	live	BXIN_2970	BXIN_2970	putative DNA mismatch repair protein	putative DNA mismatch repair protein		Unknown							
+573826	Candida dubliniensis CD36	8050307	0	live	CD36_29420	CD36_29420	DNA-binding protein of the mitochondria involved in repair of mitochondrial DNA, putative	MutS protein homolog, putative		R	NC_012867.1	913290	916061	minus	1		
+139825	Sparassis crispa	38775101	0	live	SCP_0110670	SCP_0110670	MutS protein homolog 1	MutS protein homolog 1		Unknown							
+431241	Trichoderma reesei QM6a	18486276	0	live	TRIREDRAFT_58370	TRIREDRAFT_58370	DNA mismatch repair protein	DNA mismatch repair protein		Unknown							
+559295	Lachancea thermotolerans CBS 6340	8290856	0	live	KLTH0B05302g	KLTH0B05302g	KLTH0B05302p			B	NC_013078.1	438719	441667	plus	1		
+4956	Zygosaccharomyces rouxii	8206074	0	live	ZYRO0G06424g	ZYRO0G06424g	uncharacterized protein			G	NC_012996.1	507306	510170	minus	1		
+284591	Yarrowia lipolytica CLIB122	2906808	0	live	YALI0_B10197g	YALI0_B10197g, YALI0B10197g	YALI0B10197p			B	NC_006068.1	1396353	1399277	plus	1		
+284592	Debaryomyces hansenii CBS767	2904051	0	live	DEHA2F20856g	DEHA2F20856g	DEHA2F20856p	DEHA2F20856p		F	NC_006048.2	1743969	1746827	plus	1		
+5478	[Candida] glabrata	2890584	0	live	CAGL0L13002g	CAGL0L13002g	uncharacterized protein			L	NC_006035.2	1390341	1393190	plus	1		
+690256	Colletotrichum fructicola	43616153	0	live	CGMCC3_g5007	CGMCC3_g5007	MutS 1	MutS 1		Unknown							
+156630	Alternaria arborescens	39616038	0	live	AA0111_g12446	AA0111_g12446	MutS 1	MutS 1		Unknown							
+1245769	Lachancea lanzarotensis	34685256	0	live	LALA0_S04e01310g	LALA0_S04e01310g	uncharacterized protein			Unknown							
+45286	Eremothecium sinecaudum	28722937	0	live	AW171_hschr31573	AW171_hschr31573	HCL428Wp			III	NC_030894.1	521856	524708	plus	1		
+436907	Vanderwaltozyma polyspora DSM 70294	5546887	0	live	Kpol_1048p17	Kpol_1048p17	hypothetical protein										
+1277687	Anthracocystis flocculosa PF-1	19316779	0	live	PFL1_02662	PFL1_02662	hypothetical protein			Unknown							
+1835702	Penicillium arizonense	34575046	0	live	PENARI_c006G04782	PENARI_c006G04782	hypothetical protein			Unknown							
+1071383	Kazachstania naganishii CBS 8797	34527502	0	live	KNAG0H03560	KNAG_0H03560	hypothetical protein			8	NC_035929.1	664749	667631	plus	1		
+1071380	Tetrapisispora blattae CBS 6284	14495327	0	live	TBLA0C05490	TBLA_0C05490	hypothetical protein			3	NC_020187.1	1325823	1328699	minus	1		
+1071382	Kazachstania africana CBS 2517	13884134	0	live	KAFR0F00690	KAFR_0F00690	hypothetical protein			6	NC_018945.1	132778	135642	minus	1		
+1071381	Tetrapisispora phaffii CBS 4417	11534512	0	live	TPHA0I01470	TPHA_0I01470	hypothetical protein			9	NC_016528.1	330761	333625	minus	1		
+4950	Torulaspora delbrueckii	11504796	0	live	TDEL0B05090	TDEL_0B05090	hypothetical protein	hypothetical protein		2	NC_016502.1	892285	895155	minus	1		
+1071378	Naumovozyma dairenensis CBS 421	11496193	0	live	NDAI0B04370	NDAI_0B04370	hypothetical protein			2	NC_016480.1	1095356	1098220	plus	1		
+4909	Pichia kudriavzevii	40385893	0	live	C5L36_0E01000	C5L36_0E01000	hypothetical protein	hypothetical protein		5	NC_042510.1	193336	196296	plus	1		
+1410327	Acytostelium subglobosum LB1	24525072	0	live	SAMD00019534_097460	SAMD00019534_097460	hypothetical protein										

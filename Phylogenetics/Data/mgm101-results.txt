@@ -1,0 +1,557 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+559292	Saccharomyces cerevisiae S288C	853609	0	live	MGM101	YJR144W, MGM9	Mgm101p	Mgm101p		X	NC_001142.9	700882	701691	plus	1		
+1003335	Kluyveromyces marxianus DMKU3-1042	34716471	0	live	MGM101	KLMA_40485	mitochondrial genome maintenance protein MGM101			4	NC_036028.1	1099605	1100402	minus	1		
+352472	Dictyostelium discoideum AX4	8621067	0	live	mgm101	DDB_G0277451, DDBDRAFT_0169252, DDBDRAFT_0304673, DDB_0169252, DDB_0304673	mitochondrial genome maintenance protein			2	NC_007088.5	8124262	8125395	plus	1		
+4896	Schizosaccharomyces pombe	2540271	0	live	mgm101	SPBC30D10.08	putative DNA repair protein	putative DNA repair protein		II	NC_003423.3	3084277	3085466	minus	1		
+237561	Candida albicans SC5314	3636820	0	live	MGM101	CAALFM_C102660CA	Mgm101p	Mgm101p		1	NC_032089.1	554577	555404	minus	1		
+670386	Polysphondylium pallidum PN500	31359653	0	live	mgm101	PPL_04166	mitochondrial genome maintenance protein			Unknown							
+261658	Dictyostelium fasciculatum	14877153	0	live	mgm101	DFA_02953	mitochondrial genome maintenance protein			Unknown							
+1316788	Lachnellula hyalina	41988693	0	live	MGM101	LHYA1_G008495	Mitochondrial genome maintenance protein	Mitochondrial genome maintenance protein		Unknown							
+796027	Sugiyamaella lignohabitans	30036839	0	live	MGM101	AWJ20_4681	Mgm101p			D	NC_031673.1	240136	241248	plus	1		
+50429	Stylophora pistillata	111332981	0	live	LOC111332981	AWC38_SpisGene12031, mgm101	mitochondrial genome maintenance protein mgm101 homolog	mitochondrial genome maintenance protein mgm101 homolog|Mitochondrial genome maintenance protein mgm101-like		Un							
+212818	Exophiala mesophila	27324911	0	live	PV10_07066	PV10_07066	mitochondrial genome maintenance protein mgm101	mitochondrial genome maintenance protein mgm101, variant 1|mitochondrial genome maintenance protein mgm101, variant 2		Unknown							
+330879	Aspergillus fumigatus Af293	3513543	0	live	AFUA_2G09560	AFUA_2G09560, Afu2g09560	mitochondrial genome maintenance protein Mgm101, putative	mitochondrial genome maintenance protein Mgm101, putative		2	NC_007195.1	2448667	2449666	plus	2		
+1522189	Ceraceosorus guamensis	37036081	0	live	IE81DRAFT_324342	IE81DRAFT_324342	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1341132	Aspergillus welwitschiae	38144841	0	live	BDQ94DRAFT_76586	BDQ94DRAFT_76586	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+46731	Pocillopora damicornis	113679045	0	live	LOC113679045	pdam_00015412	mitochondrial genome maintenance protein mgm101 homolog	mitochondrial genome maintenance protein mgm101 homolog		Un							
+367110	Neurospora crassa OR74A	3876601	0	live	NCU05517	NCU05517	mitochondrial genome maintenance protein MGM101			VI	NC_026506.1	1645312	1646983	minus	2		
+1397361	Sporothrix schenckii 1099-18	27664732	0	live	SPSK_02587	SPSK_02587	mitochondrial genome maintenance protein MGM101, mitochondrial precursor			Unknown							
+655844	Metarhizium robertsii ARSEF 23	19256641	0	live	MAA_02355	MAA_02355	mitochondrial genome maintenance protein MGM101										
+1130832	Rhodotorula toruloides NP11	27368925	0	live	RHTO_04912	RHTO_04912	mitochondrial genome maintenance MGM101			Unknown							
+84753	Moesziomyces antarcticus	26305705	0	live	PAN0_014c4963	PAN0_014c4963	mitochondrial genome maintenance MGM101			Unknown							
+671144	Wallemia mellicola CBS 633.66	18472322	0	live	WALSEDRAFT_44172	WALSEDRAFT_44172	mitochondrial genome maintenance MGM101			Unknown							
+1136231	Candida orthopsilosis Co 90-125	14538241	0	live	CORT_0B07840	CORT_0B07840	Mgm101 protein			2	NC_018295.1	1639984	1640778	plus	1		
+222929	Coccidioides posadasii C735 delta SOWgp	9693338	0	live	CPC735_041540	CPC735_041540	Mitochondrial genome maintenance protein MGM101, putative	Mitochondrial genome maintenance protein MGM101, putative		Unknown							
+264951	Byssochlamys spectabilis	39598282	0	live	C8Q69DRAFT_444548	C8Q69DRAFT_444548	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+1314773	Sodiomyces alkalinus F11	39577442	0	live	SODALDRAFT_303961	SODALDRAFT_303961	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1279085	Fusarium fujikuroi IMI 58289	35399291	0	live	FFUJ_05812	FFUJ_05812	probable MGM101-mitochondrial genome maintenance protein			VI	NC_036627.1	1510593	1511553	minus	2		
+109264	Aspergillus bombycis	34446309	0	live	ABOM_002919	ABOM_002919	genome maintenance protein MGM101			Unknown							
+27334	Penicillium expansum	27678351	0	live	PEX2_056580	PEX2_056580	Mitochondrial genome maintenance MGM101			Unknown							
+1509407	Aspergillus nomius NRRL 13137	26807464	0	live	ANOM_005660	ANOM_005660	genome maintenance protein MGM101	genome maintenance protein MGM101		Unknown							
+655863	Grosmannia clavigera kw1407	25980574	0	live	CMQ_7070	CMQ_7070	mitochondrial genome maintenance protein mgm101			Unknown							
+655819	Beauveria bassiana ARSEF 2860	19888711	0	live	BBA_05699	BBA_05699	mitochondrial genome maintenance protein MGM101			Unknown							
+1116229	Glarea lozoyensis ATCC 20868	19459198	0	live	GLAREA_00138	GLAREA_00138	maintenance protein MGM101			Unknown							
+1286976	Phaeoacremonium minimum UCRPA7	19321307	0	live	UCRPA7_1181	UCRPA7_1181	putative mitochondrial genome maintenance protein mgm101 protein			Unknown							
+983644	Cordyceps militaris CM01	18167338	0	live	CCM_05320	CCM_05320	mitochondrial genome maintenance protein MGM101			Unknown							
+1276141	Metarhizium brunneum ARSEF 3297	26239942	0	live	MBR_02672	MBR_02672	mgm101			Unknown							
+1043004	Aureobasidium namibiae CBS 147.97	25407706	0	live	M436DRAFT_11948	M436DRAFT_11948	mitochondrial genome maintenance MGM101			Unknown							
+655827	Metarhizium acridum CQMa 102	19249107	0	live	MAC_04796	MAC_04796	mitochondrial genome maintenance protein MGM101			Unknown							
+502779	Paracoccidioides lutzii Pb01	9095027	0	live	PAAG_06511	PAAG_06511	mitochondrial genome maintenance protein mgm101			Unknown							
+294747	Candida tropicalis MYA-3404	8296614	0	live	CTRG_04667	CTRG_04667	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+344612	Aspergillus clavatus NRRL 1	4700193	0	live	ACLA_081360	ACLA_081360	mitochondrial genome maintenance protein Mgm101, putative										
+331117	Aspergillus fischeri NRRL 181	4587007	0	live	NFIA_085050	NFIA_085050	mitochondrial genome maintenance protein Mgm101, putative			Unknown							
+58919	Tilletiopsis washingtonensis	37267538	0	live	FA09DRAFT_291832	FA09DRAFT_291832	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1569628	Jaminaea rosea	37029265	0	live	BDZ90DRAFT_243732	BDZ90DRAFT_243732	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1684307	Pseudomicrostroma glucosiphilum	37011764	0	live	BCV69DRAFT_242316	BCV69DRAFT_242316	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+984485	Hyphopichia burtonii NRRL Y-1933	30998224	0	live	HYPBUDRAFT_7614	HYPBUDRAFT_7614	mitochondrial genome maintenance MGM101			Unknown							
+984487	Suhomyces tanzawaensis NRRL Y-17324	30986006	0	live	CANTADRAFT_91851	CANTADRAFT_91851	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+692275	Sphaerulina musiva SO2202	27899784	0	live	SEPMUDRAFT_13448	SEPMUDRAFT_13448	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+717944	Trametes versicolor FP-101664 SS1	19409337	0	live	TRAVEDRAFT_143539	TRAVEDRAFT_143539	mitochondrial genome maintenance MGM101			Unknown							
+670483	Gloeophyllum trabeum ATCC 11539	19305614	0	live	GLOTRDRAFT_35262	GLOTRDRAFT_35262	mitochondrial genome maintenance MGM101			Unknown							
+741705	Coniophora puteana RWD-64-598 SS2	19208338	0	live	CONPUDRAFT_64121	CONPUDRAFT_64121	mitochondrial genome maintenance MGM101			Unknown							
+741275	Punctularia strigosozonata HHB-11173 SS5	18880963	0	live	PUNSTDRAFT_142823	PUNSTDRAFT_142823	mitochondrial genome maintenance MGM101			Unknown							
+732165	Dichomitus squalens LYAD-421 SS1	18841655	0	live	DICSQDRAFT_24744	DICSQDRAFT_24744	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+721885	Stereum hirsutum FP-91666 SS1	18805739	0	live	STEHIDRAFT_59716	STEHIDRAFT_59716	mitochondrial genome maintenance MGM101			Unknown							
+498019	[Candida] auris	40025204	0	live	CJI97_000057	CJI97_000057	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+1448316	Aspergillus ibericus CBS 121593	37220056	0	live	BO80DRAFT_335246	BO80DRAFT_335246	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448311	Aspergillus vadensis CBS 113365	37207362	0	live	BO88DRAFT_333555	BO88DRAFT_333555	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1450537	Aspergillus homomorphus CBS 101889	37196107	0	live	BO97DRAFT_346613	BO97DRAFT_346613	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448317	Aspergillus costaricaensis CBS 115574	37181960	0	live	BO79DRAFT_120903	BO79DRAFT_120903	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448313	Aspergillus piperis CBS 112811	37163773	0	live	BO85DRAFT_450410	BO85DRAFT_450410	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448322	Aspergillus aculeatinus CBS 121060	37146302	0	live	BO66DRAFT_303635	BO66DRAFT_303635	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448315	Aspergillus uvarum CBS 121591	37133845	0	live	BO82DRAFT_275048	BO82DRAFT_275048	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448310	Aspergillus neoniger CBS 115656	37129133	0	live	BO87DRAFT_415233	BO87DRAFT_415233	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1450535	Aspergillus sclerotioniger CBS 115572	37110936	0	live	BO94DRAFT_480401	BO94DRAFT_480401	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1450533	Aspergillus lacticoffeatus CBS 101883	37095504	0	live	BO96DRAFT_290582	BO96DRAFT_290582	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1450534	Aspergillus brunneoviolaceus CBS 621.78	37083440	0	live	BO95DRAFT_329402	BO95DRAFT_329402	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448321	Aspergillus heteromorphus CBS 117.55	37064158	0	live	BO70DRAFT_356109	BO70DRAFT_356109	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1448314	Aspergillus eucalypticola CBS 122712	37051540	0	live	BO83DRAFT_363593	BO83DRAFT_363593	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+45357	[Candida] haemulonis	37005397	0	live	CXQ85_000064	CXQ85_000064	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+1231522	[Candida] duobushaemulonis	37002837	0	live	CXQ87_002837	CXQ87_002837	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+1095630	Hyaloscypha bicolor E	36588271	0	live	K444DRAFT_612721	K444DRAFT_612721	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+418784	[Candida] pseudohaemulonii	36565126	0	live	C7M61_001736	C7M61_001736	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+1392255	Aspergillus novofumigatus IBT 16806	36533549	0	live	P174DRAFT_437197	P174DRAFT_437197	putative mitochondrial genome maintenance protein Mgm101	putative mitochondrial genome maintenance protein Mgm101		Unknown							
+64571	Lobosporangium transversale	33564446	0	live	BCR41DRAFT_344841	BCR41DRAFT_344841	mitochondrial genome maintenance MGM101-domain-containing protein			Unknown							
+4999	Kockovaella imperatae	33554911	0	live	BD324DRAFT_575055	BD324DRAFT_575055	mitochondrial genome maintenance MGM101-domain-containing protein			Unknown							
+236234	Diplodia corticola	31012838	0	live	BKCO1_200074	BKCO1_200074	mgm101 protein			Unknown							
+1441469	Talaromyces atroroseus	31002325	0	live	UA08_02570	UA08_02570	Mitochondrial genome maintenance protein MGM101			Unknown							
+215243	Exophiala oligosperma	27353433	0	live	PV06_01359	PV06_01359	mitochondrial genome maintenance protein MGM101			Unknown							
+91928	Exophiala spinifera	27327226	0	live	PV08_00143	PV08_00143	mitochondrial genome maintenance protein MGM101			Unknown							
+871575	Ogataea parapolymorpha DL-1	25770729	0	live	HPODL_01266	HPODL_01266	Mitochondrial genome maintenance protein MGM101			VI	NC_027861.1	287935	288765	minus	1		
+348802	Exophiala xenobiotica	25326554	0	live	PV05_04646	PV05_04646	mitochondrial genome maintenance protein mgm101			Unknown							
+1442368	Fonsecaea pedrosoi CBS 271.37	25303706	0	live	Z517_04216	Z517_04216	mitochondrial genome maintenance protein MGM101			Unknown							
+694068	Fomitiporia mediterranea MF3/22	18680576	0	live	FOMMEDRAFT_90628	FOMMEDRAFT_90628	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+559305	Trichophyton rubrum CBS 118892	10376817	0	live	TERG_08637	TERG_08637	mitochondrial genome maintenance protein MGM101										
+526221	Verticillium alfalfae VaMs.102	9528417	0	live	VDBG_09200	VDBG_09200	mitochondrial genome maintenance protein mgm101			Unknown							
+554155	Microsporum canis CBS 113480	9230151	0	live	MCYG_04772	MCYG_04772	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+559298	Blastomyces gilchristii SLH14081	8509001	0	live	BDBG_06961	BDBG_06961	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+336963	Uncinocarpus reesii 1704	8440861	0	live	UREG_02181	UREG_02181	mitochondrial genome maintenance protein mgm101										
+441959	Talaromyces stipitatus ATCC 10500	8097740	0	live	TSTA_122750	TSTA_122750	mitochondrial genome maintenance protein Mgm101, putative										
+441960	Talaromyces marneffei ATCC 18224	7025868	0	live	PMAA_087400	PMAA_087400	mitochondrial genome maintenance protein Mgm101, putative	mitochondrial genome maintenance protein Mgm101, putative		Unknown							
+426418	Pyrenophora tritici-repentis Pt-1C-BFP	6346626	0	live	PTRG_08344	PTRG_08344	mitochondrial genome maintenance protein MGM101										
+339724	Histoplasma capsulatum NAm1	5442656	0	live	HCAG_08682	HCAG_08682	mitochondrial genome maintenance protein MGM101			Unknown							
+379508	Lodderomyces elongisporus NRRL YB-4239	5233981	0	live	LELG_01604	LELG_01604	mitochondrial genome maintenance protein MGM101										
+425011	Aspergillus niger CBS 513.88	4989032	0	live	ANI_1_1872144	ANI_1_1872144, An16g06400	genome maintenance protein MGM101										
+341663	Aspergillus terreus NIH2624	4319972	0	live	ATEG_04393	ATEG_04393	mitochondrial genome maintenance protein MGM101										
+590646	Yamadazyma tenuis ATCC 10573	18246965	0	live	CANTEDRAFT_113453	CANTEDRAFT_113453	hypothetical protein;mitochondrial genome maintenance MGM101	hypothetical protein;mitochondrial genome maintenance MGM101		Unknown							
+45264	Acropora millepora	114966508	0	live	LOC114966508		mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+151771	Dendronephthya gigantea	114516715	0	live	LOC114516715		mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+58331	Quercus suber	112036858	0	live	LOC112036858	CFP56_16466	mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+48498	Orbicella faveolata	110048724	0	live	LOC110048724		mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+70779	Acropora digitifera	107357817	0	live	LOC107357817		mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+400682	Amphimedon queenslandica	100639975	0	live	LOC100639975		mitochondrial genome maintenance protein mgm101 homolog	mitochondrial genome maintenance protein mgm101 homolog		Un							
+400682	Amphimedon queenslandica	100639382	0	live	LOC100639382		mitochondrial genome maintenance protein mgm101 homolog	mitochondrial genome maintenance protein mgm101 homolog		Un							
+27291	Saccharomyces paradoxus	54631730	0	live	SPAR_J03210	SPAR_J03210	Mgm101	Mgm101		X	NC_047496.1	695841	696650	plus	1		
+5068	Aspergillus tubingensis	56009316	0	live	AtWU_09838	AtWU_09838	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1094350	Geosmithia morbida	55973311	0	live	GMORB2_7088	GMORB2_7088	Mitochondrial genome maintenance MGM101	Mitochondrial genome maintenance MGM101		Unknown							
+1080349	Saccharomyces eubayanus	28932290	0	live	DI49_3153	DI49_3153	ancestor homolog: Anc_4.380; saccharomyces cerevisiae ortholog: YJR144W	ancestor homolog: Anc_4.380|saccharomyces cerevisiae ortholog: YJR144W|MGM101-like protein		X	NC_030985.1	690852	691667	plus	1		
+1081104	Isaria fumosorosea ARSEF 2679	30018933	0	live	ISF_02641	ISF_02641	mitochondrial genome maintenance protein MGM101			Unknown							
+1043002	Aureobasidium pullulans EXF-150	40751011	0	live	M438DRAFT_377055	M438DRAFT_377055	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+698492	Saitoella complicata NRRL Y-17804	30186421	0	live	SAICODRAFT_58033	SAICODRAFT_58033	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+869754	Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993	30031555	0	live	METBIDRAFT_76760	METBIDRAFT_76760	mitochondrial genome maintenance MGM101			Unknown							
+245834	Neohortaea acidophila	54473464	0	live	BDY17DRAFT_290182	BDY17DRAFT_290182	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+1392243	Eremomyces bilateralis CBS 781.70	54421156	0	live	P152DRAFT_464787	P152DRAFT_464787	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+293939	Aspergillus lentulus	54314419	0	live	IFM58399_02226	IFM58399_02226	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Unknown							
+1506151	Aspergillus pseudonomius	43664687	0	live	BDV37DRAFT_210352	BDV37DRAFT_210352	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+61420	Aspergillus caelatus	43651180	0	live	BDV27DRAFT_127294	BDV27DRAFT_127294	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+132259	Aspergillus pseudotamarii	43647395	0	live	BDV38DRAFT_33406	BDV38DRAFT_33406	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+209559	Aspergillus alliaceus	43622635	0	live	BDW43DRAFT_166015	BDW43DRAFT_166015	mitochondrial genome maintenance MGM101-domain-containing protein	mitochondrial genome maintenance MGM101-domain-containing protein		Unknown							
+1227346	Fusarium proliferatum ET1	42054170	0	live	FPRO_09295	FPRO_09295	probable MGM101-mitochondrial genome maintenance protein	probable MGM101-mitochondrial genome maintenance protein		Unknown							
+76775	Malassezia restricta	38739638	0	live	MRET_2872	MRET_2872	mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		V	NC_040197.1	65050	65850	plus	2		
+112498	Ramularia collo-cygni	35597260	0	live	RCC_02037	RCC_02037	related to mitochondrial genome maintenance protein MGM101			Unknown							
+879819	Cutaneotrichosporon oleaginosum	28981733	0	live	CC85DRAFT_269134	CC85DRAFT_269134	mitochondrial genome maintenance MGM101	mitochondrial genome maintenance MGM101		Unknown							
+1460663	Paraphaeosphaeria sporulosa	28757633	0	live	CC84DRAFT_1086196	CC84DRAFT_1086196	mitochondrial genome maintenance protein MGM101			Unknown							
+6105	Actinia tenebrosa	116297425	0	live	LOC116297425		mitochondrial genome maintenance protein MGM101-like	mitochondrial genome maintenance protein MGM101-like		Un							
+45351	Nematostella vectensis	5502329	0	live	LOC5502329		mitochondrial genome maintenance protein MGM101	mitochondrial genome maintenance protein MGM101		Un							
+559292	Saccharomyces cerevisiae S288C	854976	0	live	RAD52	YML032C	recombinase RAD52	recombinase RAD52		XIII	NC_001145.3	212515	213930	minus	1		
+559292	Saccharomyces cerevisiae S288C	852088	0	live	SNF1	YDR477W, CAT1, CCR1, GLC2, HAF3, PAS14	AMP-activated serine/threonine-protein kinase catalytic subunit SNF1	AMP-activated serine/threonine-protein kinase catalytic subunit SNF1		IV	NC_001136.10	1412373	1414274	plus	1		
+559292	Saccharomyces cerevisiae S288C	856891	0	live	SPT15	YER148W, BTF1, TBP1	TATA-binding protein	TATA-binding protein		V	NC_001137.3	465303	466025	plus	1		
+559292	Saccharomyces cerevisiae S288C	856425	0	live	SLT2	YHR030C, BYC2, LYT2, MPK1, SLK2	mitogen-activated serine/threonine-protein kinase SLT2	mitogen-activated serine/threonine-protein kinase SLT2		VIII	NC_001140.6	168890	170344	minus	1		
+559292	Saccharomyces cerevisiae S288C	851457	0	live	DUN1	YDL101C	serine/threonine protein kinase DUN1	serine/threonine protein kinase DUN1		IV	NC_001136.10	280307	281848	minus	1		
+559292	Saccharomyces cerevisiae S288C	854063	0	live	MSH2	YOL090W, PMS5	mismatch repair ATPase MSH2	mismatch repair ATPase MSH2		XV	NC_001147.6	147382	150276	plus	1		
+559292	Saccharomyces cerevisiae S288C	855492	0	live	URE2	YNL229C	glutathione peroxidase	glutathione peroxidase		XIV	NC_001146.8	219137	220201	minus	1		
+559292	Saccharomyces cerevisiae S288C	851811	0	live	HTA1	YDR225W, H2A1, SPT11	histone H2A	histone H2A		IV	NC_001136.10	915530	915928	plus	1		
+559292	Saccharomyces cerevisiae S288C	854675	0	live	FKH1	YIL131C	forkhead family transcription factor FKH1	forkhead family transcription factor FKH1		IX	NC_001141.2	100781	102235	minus	1		
+559292	Saccharomyces cerevisiae S288C	852376	0	live	UBC4	YBR082C	E2 ubiquitin-conjugating protein UBC4	E2 ubiquitin-conjugating protein UBC4		II	NC_001134.8	406628	407169	minus	2		
+559292	Saccharomyces cerevisiae S288C	851266	0	live	RFA1	YAR007C, BUF2, FUN3, RPA1, RPA70	replication factor A subunit protein RFA1	replication factor A subunit protein RFA1		I	NC_001133.9	156754	158619	minus	1		
+559292	Saccharomyces cerevisiae S288C	855751	0	live	TIM23	YNR017W, MAS6, MIM23, MPI3	protein transporter TIM23	protein transporter TIM23		XIV	NC_001146.8	662913	663581	plus	1		
+559292	Saccharomyces cerevisiae S288C	851671	0	live	MSH6	YDR097C, PMS3, PMS6	mismatch repair ATPase MSH6	mismatch repair ATPase MSH6		IV	NC_001136.10	640109	643837	minus	1		
+559292	Saccharomyces cerevisiae S288C	854158	0	live	SIN3	YOL004W, CPE1, GAM2, RPD1, SDI1, SDS16, UME4	transcriptional regulator SIN3	transcriptional regulator SIN3		XV	NC_001147.6	316938	321548	plus	1		
+559292	Saccharomyces cerevisiae S288C	852763	0	live	SNF4	YGL115W, CAT3, SCI1	AMP-activated serine/threonine-protein kinase regulatory subunit SNF4	AMP-activated serine/threonine-protein kinase regulatory subunit SNF4		VII	NC_001139.9	292033	293001	plus	1		
+559292	Saccharomyces cerevisiae S288C	851212	0	live	CCR4	YAL021C, FUN27, NUT21	CCR4-NOT core exoribonuclease subunit CCR4	CCR4-NOT core exoribonuclease subunit CCR4		I	NC_001133.9	110846	113359	minus	1		
+559292	Saccharomyces cerevisiae S288C	852834	0	live	RPT6	YGL048C, CIM3, CRL3, SCB68, SUG1	proteasome regulatory particle base subunit RPT6	proteasome regulatory particle base subunit RPT6		VII	NC_001139.9	410069	411286	minus	1		
+559292	Saccharomyces cerevisiae S288C	855512	0	live	SSB2	YNL209W, YG103	Hsp70 family ATPase SSB2	Hsp70 family ATPase SSB2		XIV	NC_001146.8	252059	253900	plus	1		
+559292	Saccharomyces cerevisiae S288C	851887	0	live	SSD1	YDR293C, CLA1, MCS1, RLT1, SRK1	mRNA-binding translational repressor SSD1	mRNA-binding translational repressor SSD1		IV	NC_001136.10	1045640	1049392	minus	1		
+559292	Saccharomyces cerevisiae S288C	854980	0	live	TSA1	YML028W, TPX1, ZRG14	thioredoxin peroxidase TSA1	thioredoxin peroxidase TSA1		XIII	NC_001145.3	220138	220728	plus	1		
+559292	Saccharomyces cerevisiae S288C	851994	0	live	MUS81	YDR386W, SLX3	Mus81p	Mus81p		IV	NC_001136.10	1246084	1247982	plus	1		
+559292	Saccharomyces cerevisiae S288C	855012	0	live	YPT7	YML001W, AST4, VAM4	Rab family GTPase YPT7	Rab family GTPase YPT7		XIII	NC_001145.3	267174	267800	plus	1		
+559292	Saccharomyces cerevisiae S288C	851394	0	live	DHH1	YDL160C	DExD/H-box ATP-dependent RNA helicase DHH1	DExD/H-box ATP-dependent RNA helicase DHH1		IV	NC_001136.10	170410	171930	minus	1		
+559292	Saccharomyces cerevisiae S288C	856895	0	live	UBP3	YER151C, BLM3	mRNA-binding ubiquitin-specific protease UBP3	mRNA-binding ubiquitin-specific protease UBP3		V	NC_001137.3	469686	472424	minus	1		
+559292	Saccharomyces cerevisiae S288C	852709	0	live	PMR1	YGL167C, BSD1, LDB1, SSC1	Ca(2+)/Mn(2+)-transporting P-type ATPase PMR1	Ca(2+)/Mn(2+)-transporting P-type ATPase PMR1		VII	NC_001139.9	187616	190468	minus	1		
+559292	Saccharomyces cerevisiae S288C	853271	0	live	SET2	YJL168C, EZL1, KMT3	histone methyltransferase SET2	histone methyltransferase SET2		X	NC_001142.9	102227	104428	minus	1		
+559292	Saccharomyces cerevisiae S288C	856201	0	live	SUA7	YPR086W, SOH4	transcription factor TFIIB	transcription factor TFIIB		XVI	NC_001148.4	710101	711138	plus	1		
+559292	Saccharomyces cerevisiae S288C	854680	0	live	STH1	YIL126W, NPS1	RSC chromatin remodeling complex ATPase subunit STH1	RSC chromatin remodeling complex ATPase subunit STH1		IX	NC_001141.2	117992	122071	plus	1		
+559292	Saccharomyces cerevisiae S288C	855203	0	live	MLH1	YMR167W, PMS2	mismatch repair ATPase MLH1	mismatch repair ATPase MLH1		XIII	NC_001145.3	594886	597195	plus	1		
+559292	Saccharomyces cerevisiae S288C	855788	0	live	POP2	YNR052C, CAF1	CCR4-NOT core DEDD family RNase subunit POP2	CCR4-NOT core DEDD family RNase subunit POP2		XIV	NC_001146.8	719346	720647	minus	1		
+559292	Saccharomyces cerevisiae S288C	854776	0	live	CKA1	YIL035C	casein kinase 2 catalytic subunit CKA1	casein kinase 2 catalytic subunit CKA1		IX	NC_001141.2	287790	288908	minus	1		
+559292	Saccharomyces cerevisiae S288C	853668	0	live	SAC1	YKL212W, RSD1	phosphatidylinositol-3-phosphatase SAC1	phosphatidylinositol-3-phosphatase SAC1		XI	NC_001143.9	34543	36414	plus	1		
+559292	Saccharomyces cerevisiae S288C	855669	0	live	POR1	YNL055C, OMP2	porin POR1	porin POR1		XIV	NC_001146.8	517994	518845	minus	1		
+559292	Saccharomyces cerevisiae S288C	855602	0	live	TOM70	YNL121C, MAS70, MOM72, OMP1	protein channel TOM70	protein channel TOM70		XIV	NC_001146.8	398684	400537	minus	1		
+559292	Saccharomyces cerevisiae S288C	854170	0	live	SLG1	YOR008C, HCS77, WSC1	Slg1p	Slg1p		XV	NC_001147.6	341278	342414	minus	1		
+559292	Saccharomyces cerevisiae S288C	852809	0	live	AFT1	YGL071W, RCS1	DNA-binding transcription factor AFT1	DNA-binding transcription factor AFT1		VII	NC_001139.9	372012	374084	plus	1		
+559292	Saccharomyces cerevisiae S288C	851549	0	live	SLX5	YDL013W, HEX3, ULS2	SUMO-targeted ubiquitin ligase complex subunit SLX5	SUMO-targeted ubiquitin ligase complex subunit SLX5		IV	NC_001136.10	429067	430926	plus	1		
+559292	Saccharomyces cerevisiae S288C	855898	0	live	TPK2	YPL203W, PKA2, PKA3, YKR1	cAMP-dependent protein kinase catalytic subunit TPK2	cAMP-dependent protein kinase catalytic subunit TPK2		XVI	NC_001148.4	166256	167398	plus	1		
+559292	Saccharomyces cerevisiae S288C	854542	0	live	PDE2	YOR360C, SRA5	3',5'-cyclic-nucleotide phosphodiesterase PDE2	3',5'-cyclic-nucleotide phosphodiesterase PDE2		XV	NC_001147.6	1013241	1014821	minus	1		
+559292	Saccharomyces cerevisiae S288C	853313	0	live	PBS2	YJL128C, HOG4, SFS4, SSK4	mitogen-activated protein kinase kinase PBS2	mitogen-activated protein kinase kinase PBS2		X	NC_001142.9	178097	180103	minus	1		
+559292	Saccharomyces cerevisiae S288C	855897	0	live	HRR25	YPL204W, KTI14	serine/threonine protein kinase HRR25	serine/threonine protein kinase HRR25		XVI	NC_001148.4	164276	165760	plus	1		
+559292	Saccharomyces cerevisiae S288C	854916	0	live	PHO84	YML123C	phosphate transporter PHO84	phosphate transporter PHO84		XIII	NC_001145.3	24037	25800	minus	1		
+559292	Saccharomyces cerevisiae S288C	852283	0	live	HTA2	YBL003C, H2A2	histone H2A	histone H2A		II	NC_001134.8	235394	235792	minus	1		
+559292	Saccharomyces cerevisiae S288C	855102	0	live	CTF18	YMR078C, CHL12	Ctf18p	Ctf18p		XIII	NC_001145.3	422503	424728	minus	1		
+559292	Saccharomyces cerevisiae S288C	850744	0	live	SPT8	YLR055C	SAGA complex subunit SPT8	SAGA complex subunit SPT8		XII	NC_001144.5	251272	253080	minus	1		
+559292	Saccharomyces cerevisiae S288C	856135	0	live	YME1	YPR024W, OSD1, YTA11	i-AAA protease YME1	i-AAA protease YME1		XVI	NC_001148.4	610481	612724	plus	1		
+559292	Saccharomyces cerevisiae S288C	855241	0	live	RAD14	YMR201C	DNA repair protein RAD14	DNA repair protein RAD14		XIII	NC_001145.3	665845	667044	minus	2		
+559292	Saccharomyces cerevisiae S288C	854818	0	live	MPH1	YIR002C	3'-5' DNA helicase	3'-5' DNA helicase		IX	NC_001141.2	357415	360396	minus	1		
+559292	Saccharomyces cerevisiae S288C	854211	0	live	DBP5	YOR046C, RAT8	ATP-dependent RNA helicase DBP5	ATP-dependent RNA helicase DBP5		XV	NC_001147.6	414459	415907	minus	1		
+559292	Saccharomyces cerevisiae S288C	854179	0	live	RTS1	YOR014W, SCS1	protein phosphatase 2A regulatory subunit RTS1	protein phosphatase 2A regulatory subunit RTS1		XV	NC_001147.6	357674	359947	plus	1		
+559292	Saccharomyces cerevisiae S288C	856702	0	live	VAC8	YEL013W, YEB3	protein anchor VAC8	protein anchor VAC8		V	NC_001137.3	128825	130561	plus	1		
+559292	Saccharomyces cerevisiae S288C	851905	0	live	SUM1	YDR310C	Sum1p	Sum1p		IV	NC_001136.10	1081128	1084316	minus	1		
+559292	Saccharomyces cerevisiae S288C	855404	0	live	RFA2	YNL312W, BUF1, RPA2, RPA32	Rfa2p	Rfa2p		XIV	NC_001146.8	48287	49216	plus	2		
+559292	Saccharomyces cerevisiae S288C	855739	0	live	VPS27	YNR006W, DID7, GRD11, SSV17, VPL23, VPT27	ESCRT-0 subunit protein VPS27	ESCRT-0 subunit protein VPS27		XIV	NC_001146.8	636986	638854	plus	1		
+559292	Saccharomyces cerevisiae S288C	851450	0	live	KIN28	YDL108W	TFIIH complex serine/threonine-protein kinase subunit KIN28	TFIIH complex serine/threonine-protein kinase subunit KIN28		IV	NC_001136.10	267698	268699	plus	2		
+559292	Saccharomyces cerevisiae S288C	851193	0	live	CDC19	YAL038W, PYK1	pyruvate kinase CDC19	pyruvate kinase CDC19		I	NC_001133.9	71786	73288	plus	1		
+559292	Saccharomyces cerevisiae S288C	850367	0	live	RVS161	YCR009C, END6, FUS7, SPE161	amphiphysin-like protein RVS161	amphiphysin-like protein RVS161		III	NC_001135.5	130745	131542	minus	1		
+559292	Saccharomyces cerevisiae S288C	854315	0	live	ELG1	YOR144C, RTT110	Elg1p	Elg1p		XV	NC_001147.6	602717	605092	minus	1		
+559292	Saccharomyces cerevisiae S288C	850325	0	live	STE50	YCL032W	Ste50p	Ste50p		III	NC_001135.5	63441	64481	plus	1		
+559292	Saccharomyces cerevisiae S288C	856218	0	live	PRE2	YPR103W, DOA3, PRG1, SRR2	proteasome core particle subunit beta 5	proteasome core particle subunit beta 5		XVI	NC_001148.4	732349	733212	plus	1		
+559292	Saccharomyces cerevisiae S288C	853036	0	live	PRE9	YGR135W	proteasome core particle subunit alpha 3	proteasome core particle subunit alpha 3		VII	NC_001139.9	761392	762168	plus	1		
+559292	Saccharomyces cerevisiae S288C	850507	0	live	RPO41	YFL036W	DNA-directed RNA polymerase	DNA-directed RNA polymerase		VI	NC_001138.5	58782	62837	plus	1		
+559292	Saccharomyces cerevisiae S288C	851567	0	live	RAD57	YDR004W	putative DNA-dependent ATPase RAD57	putative DNA-dependent ATPase RAD57		IV	NC_001136.10	455201	456583	plus	1		
+559292	Saccharomyces cerevisiae S288C	854073	0	live	IRA2	YOL081W, CCS1, GLC4	Ras GTPase activating protein IRA2	Ras GTPase activating protein IRA2		XV	NC_001147.6	171070	180309	plus	1		
+559292	Saccharomyces cerevisiae S288C	850826	0	live	SLX4	YLR135W	Slx4p	Slx4p		XII	NC_001144.5	413281	415527	plus	1		
+559292	Saccharomyces cerevisiae S288C	855787	0	live	BRE5	YNR051C	Bre5p	Bre5p		XIV	NC_001146.8	716780	718327	minus	1		
+559292	Saccharomyces cerevisiae S288C	851087	0	live	ELO3	YLR372W, APA1, SRE1, SUR4, VBM1	fatty acid elongase ELO3	fatty acid elongase ELO3		XII	NC_001144.5	867354	868391	plus	1		
+559292	Saccharomyces cerevisiae S288C	851482	0	live	VAM6	YDL077C, CVT4, VPL18, VPL22, VPS39	Vam6p	Vam6p		IV	NC_001136.10	316971	320120	minus	1		
+559292	Saccharomyces cerevisiae S288C	851647	0	live	PPH3	YDR075W	phosphoprotein phosphatase PP4 catalytic subunit PPH3	phosphoprotein phosphatase PP4 catalytic subunit PPH3		IV	NC_001136.10	597156	598082	plus	1		
+559292	Saccharomyces cerevisiae S288C	856739	0	live	ISC1	YER019W	inositol phosphosphingolipid phospholipase	inositol phosphosphingolipid phospholipase		V	NC_001137.3	192797	194230	plus	1		
+559292	Saccharomyces cerevisiae S288C	855626	0	live	PHO23	YNL097C	Pho23p	Pho23p		XIV	NC_001146.8	441366	442358	minus	1		
+559292	Saccharomyces cerevisiae S288C	855305	0	live	SAP30	YMR263W	Sap30p	Sap30p		XIII	NC_001145.3	794919	795524	plus	1		
+559292	Saccharomyces cerevisiae S288C	855245	0	live	PFK2	YMR205C	6-phosphofructokinase subunit beta	6-phosphofructokinase subunit beta		XIII	NC_001145.3	671887	674766	minus	1		
+559292	Saccharomyces cerevisiae S288C	851967	0	live	SEM1	YDR363W-A, DSS1, HOD1	proteasome regulatory particle lid subunit SEM1	proteasome regulatory particle lid subunit SEM1		IV	NC_001136.10	1202128	1202397	plus	1		
+559292	Saccharomyces cerevisiae S288C	855845	0	live	FAS2	YPL231W	trifunctional fatty acid synthase subunit FAS2	trifunctional fatty acid synthase subunit FAS2		XVI	NC_001148.4	108652	114315	plus	1		
+559292	Saccharomyces cerevisiae S288C	850654	0	live	MMM1	YLL006W, YME6	ERMES complex subunit MMM1	ERMES complex subunit MMM1		XII	NC_001144.5	136586	137866	plus	1		
+559292	Saccharomyces cerevisiae S288C	853536	0	live	OPI3	YJR073C, PEM2	bifunctional phosphatidyl-N-methylethanolamine N-methyltransferase/phosphatidyl-N-dimethylethanolamine N-methyltransferase	bifunctional phosphatidyl-N-methylethanolamine N-methyltransferase/phosphatidyl-N-dimethylethanolamine N-methyltransferase		X	NC_001142.9	572315	572935	minus	1		
+559292	Saccharomyces cerevisiae S288C	856925	0	live	PDA1	YER178W	pyruvate dehydrogenase (acetyl-transferring) subunit E1 alpha	pyruvate dehydrogenase (acetyl-transferring) subunit E1 alpha		V	NC_001137.3	546817	548079	plus	1		
+559292	Saccharomyces cerevisiae S288C	851577	0	live	RAD61	YDR014W, WPL1	Rad61p	Rad61p		IV	NC_001136.10	474046	475989	plus	1		
+559292	Saccharomyces cerevisiae S288C	855575	0	live	LSM7	YNL147W	Sm-like protein LSM7	Sm-like protein LSM7		XIV	NC_001146.8	350940	351383	plus	2		
+559292	Saccharomyces cerevisiae S288C	856262	0	live	TAZ1	YPR140W	lysophosphatidylcholine acyltransferase	lysophosphatidylcholine acyltransferase		XVI	NC_001148.4	814391	815536	plus	1		
+559292	Saccharomyces cerevisiae S288C	850400	0	live	ELO2	YCR034W, FEN1, GNS1, VBM2	fatty acid elongase ELO2	fatty acid elongase ELO2		III	NC_001135.5	190592	191635	plus	1		
+559292	Saccharomyces cerevisiae S288C	856290	0	live	SGV1	YPR161C, BUR1	cyclin-dependent serine/threonine protein kinase SGV1	cyclin-dependent serine/threonine protein kinase SGV1		XVI	NC_001148.4	864449	866422	minus	1		
+559292	Saccharomyces cerevisiae S288C	854252	0	live	OST3	YOR085W	dolichyl-diphosphooligosaccharide--protein glycotransferase OST3	dolichyl-diphosphooligosaccharide--protein glycotransferase OST3		XV	NC_001147.6	482033	483085	plus	1		
+559292	Saccharomyces cerevisiae S288C	853828	0	live	RGT1	YKL038W	Rgt1p	Rgt1p		XI	NC_001143.9	365605	369117	plus	1		
+559292	Saccharomyces cerevisiae S288C	853061	0	live	CHO2	YGR157W, PEM1	phosphatidylethanolamine N-methyltransferase	phosphatidylethanolamine N-methyltransferase		VII	NC_001139.9	802440	805049	plus	1		
+559292	Saccharomyces cerevisiae S288C	852235	0	live	COR1	YBL045C, QCR1	ubiquinol--cytochrome-c reductase subunit COR1	ubiquinol--cytochrome-c reductase subunit COR1		II	NC_001134.8	134143	135516	minus	1		
+559292	Saccharomyces cerevisiae S288C	852532	0	live	SWC5	YBR231C, AOR1	Swc5p	Swc5p		II	NC_001134.8	682179	683090	minus	1		
+559292	Saccharomyces cerevisiae S288C	855144	0	live	SPC24	YMR117C	kinetochore-associated Ndc80 complex subunit SPC24	kinetochore-associated Ndc80 complex subunit SPC24		XIII	NC_001145.3	501250	501891	minus	1		
+559292	Saccharomyces cerevisiae S288C	850320	0	live	SRO9	YCL037C	Sro9p	Sro9p		III	NC_001135.5	57374	58678	minus	1		
+559292	Saccharomyces cerevisiae S288C	852873	0	live	SCL1	YGL011C, PRC2	proteasome core particle subunit alpha 1	proteasome core particle subunit alpha 1		VII	NC_001139.9	474489	475247	minus	1		
+559292	Saccharomyces cerevisiae S288C	851413	0	live	CRD1	YDL142C, CLS1	cardiolipin synthase	cardiolipin synthase		IV	NC_001136.10	201719	202570	minus	1		
+559292	Saccharomyces cerevisiae S288C	851220	0	live	DEP1	YAL013W, FUN54	Rpd3L histone deacetylase complex subunit DEP1	Rpd3L histone deacetylase complex subunit DEP1		I	NC_001133.9	129270	130487	plus	1		
+559292	Saccharomyces cerevisiae S288C	856050	0	live	SUR1	YPL057C, BCL21, CSG1, LPE15	mannosylinositol phosphorylceramide synthase catalytic subunit SUR1	mannosylinositol phosphorylceramide synthase catalytic subunit SUR1		XVI	NC_001148.4	451909	453057	minus	1		
+559292	Saccharomyces cerevisiae S288C	851222	0	live	SWC3	YAL011W, SWC1	Swc3p	Swc3p		I	NC_001133.9	132199	134076	plus	1		
+559292	Saccharomyces cerevisiae S288C	851171	0	live	HMG2	YLR450W	hydroxymethylglutaryl-CoA reductase (NADPH) HMG2	hydroxymethylglutaryl-CoA reductase (NADPH) HMG2		XII	NC_001144.5	1032627	1035764	plus	1		
+559292	Saccharomyces cerevisiae S288C	853288	0	live	INO1	YJL153C, APR1	inositol-3-phosphate synthase INO1	inositol-3-phosphate synthase INO1		X	NC_001142.9	134332	135933	minus	1		
+559292	Saccharomyces cerevisiae S288C	851646	0	live	TPS2	YDR074W, HOG2, PFK3	trehalose-phosphatase TPS2	trehalose-phosphatase TPS2		IV	NC_001136.10	593893	596583	plus	1		
+559292	Saccharomyces cerevisiae S288C	856052	0	live	LGE1	YPL055C	Lge1p	Lge1p		XVI	NC_001148.4	453992	454990	minus	1		
+559292	Saccharomyces cerevisiae S288C	850347	0	live	SGF29	YCL010C	Sgf29p	Sgf29p		III	NC_001135.5	103571	104350	minus	1		
+559292	Saccharomyces cerevisiae S288C	854042	0	live	INO4	YOL108C	Ino4p	Ino4p		XV	NC_001147.6	111431	111886	minus	1		
+559292	Saccharomyces cerevisiae S288C	855653	0	live	LAT1	YNL071W, ODP2, PDA2	dihydrolipoyllysine-residue acetyltransferase	dihydrolipoyllysine-residue acetyltransferase		XIV	NC_001146.8	491523	492971	plus	1		
+559292	Saccharomyces cerevisiae S288C	851337	0	live	UFD2	YDL190C	ubiquitin-ubiquitin ligase UFD2	ubiquitin-ubiquitin ligase UFD2		IV	NC_001136.10	118707	121592	minus	1		
+559292	Saccharomyces cerevisiae S288C	851309	0	live	TIM22	YDL217C	translocation channel protein TIM22	translocation channel protein TIM22		IV	NC_001136.10	67983	68606	minus	1		
+559292	Saccharomyces cerevisiae S288C	855362	0	live	PRE5	YMR314W	proteasome core particle subunit alpha 6	proteasome core particle subunit alpha 6		XIII	NC_001145.3	901709	902413	plus	1		
+559292	Saccharomyces cerevisiae S288C	856598	0	live	CTF8	YHR191C	Ctf8p	Ctf8p		VIII	NC_001140.6	486230	486631	minus	1		
+559292	Saccharomyces cerevisiae S288C	856455	0	live	MED6	YHR058C	mediator complex subunit MED6	mediator complex subunit MED6		VIII	NC_001140.6	218997	219884	minus	1		
+559292	Saccharomyces cerevisiae S288C	850691	0	live	SSL1	YLR005W	TFIIH/NER complex subunit SSL1	TFIIH/NER complex subunit SSL1		XII	NC_001144.5	160049	161434	plus	1		
+559292	Saccharomyces cerevisiae S288C	852654	0	live	MDM34	YGL219C, MMM2	ERMES complex subunit MDM34	ERMES complex subunit MDM34		VII	NC_001139.9	82878	84257	minus	1		
+559292	Saccharomyces cerevisiae S288C	853146	0	live	PHB2	YGR231C	prohibitin subunit PHB2	prohibitin subunit PHB2		VII	NC_001139.9	952548	953480	minus	1		
+559292	Saccharomyces cerevisiae S288C	854168	0	live	SGT2	YOR007C	Sgt2p	Sgt2p		XV	NC_001147.6	338938	339978	minus	1		
+559292	Saccharomyces cerevisiae S288C	850774	0	live	ARP6	YLR085C	Arp6p	Arp6p		XII	NC_001144.5	300673	301989	minus	1		
+559292	Saccharomyces cerevisiae S288C	852522	0	live	PDB1	YBR221C	pyruvate dehydrogenase (acetyl-transferring) subunit E1 beta	pyruvate dehydrogenase (acetyl-transferring) subunit E1 beta		II	NC_001134.8	665153	666253	minus	1		
+559292	Saccharomyces cerevisiae S288C	852428	0	live	CCZ1	YBR131W, CVT16	Ccz1p	Ccz1p		II	NC_001134.8	497163	499277	plus	1		
+559292	Saccharomyces cerevisiae S288C	854373	0	live	BFR1	YOR198C	Bfr1p	Bfr1p		XV	NC_001147.6	718653	720065	minus	1		
+559292	Saccharomyces cerevisiae S288C	854827	0	live	DSN1	YIR010W	MIND complex subunit DSN1	MIND complex subunit DSN1		IX	NC_001141.2	375431	377161	plus	1		
+559292	Saccharomyces cerevisiae S288C	854382	0	live	RET1	YOR207C, PDS2, RPC128, RPC2	DNA-directed RNA polymerase III core subunit RET1	DNA-directed RNA polymerase III core subunit RET1		XV	NC_001147.6	730008	733457	minus	1		
+559292	Saccharomyces cerevisiae S288C	853033	0	live	PHB1	YGR132C	prohibitin subunit PHB1	prohibitin subunit PHB1		VII	NC_001139.9	755589	756452	minus	1		
+559292	Saccharomyces cerevisiae S288C	851613	0	live	NRG1	YDR043C	transcriptional regulator NRG1	transcriptional regulator NRG1		IV	NC_001136.10	542674	543369	minus	1		
+559292	Saccharomyces cerevisiae S288C	850728	0	live	RIC1	YLR039C	Ric1p	Ric1p		XII	NC_001144.5	225426	228596	minus	1		
+559292	Saccharomyces cerevisiae S288C	850395	0	live	RIM1	YCR028C-A	Rim1p	Rim1p		III	NC_001135.5	172950	173440	minus	2		
+559292	Saccharomyces cerevisiae S288C	851030	0	live	MMS22	YLR320W, SLM2	Mms22p	Mms22p		XII	NC_001144.5	771940	776304	plus	1		
+559292	Saccharomyces cerevisiae S288C	853836	0	live	IXR1	YKL032C, ORD1	DNA-binding transcription repressor IXR1	DNA-binding transcription repressor IXR1		XI	NC_001143.9	380065	381858	minus	1		
+559292	Saccharomyces cerevisiae S288C	855964	0	live	UME1	YPL139C, WTM3	Ume1p	Ume1p		XVI	NC_001148.4	289669	291051	minus	1		
+559292	Saccharomyces cerevisiae S288C	856577	0	live	SPC97	YHR172W	Spc97p	Spc97p		VIII	NC_001140.6	448335	450806	plus	1		
+559292	Saccharomyces cerevisiae S288C	851261	0	live	VPS8	YAL002W, FUN15, VPL8, VPT8	CORVET complex membrane-binding subunit VPS8	CORVET complex membrane-binding subunit VPS8		I	NC_001133.9	143707	147531	plus	1		
+559292	Saccharomyces cerevisiae S288C	852852	0	live	RPL24A	YGL031C, RPL30A	ribosomal 60S subunit protein L24A	ribosomal 60S subunit protein L24A		VII	NC_001139.9	437467	437934	minus	1		
+559292	Saccharomyces cerevisiae S288C	852392	0	live	RXT2	YBR095C, RAF60	Rxt2p	Rxt2p		II	NC_001134.8	434406	435698	minus	1		
+559292	Saccharomyces cerevisiae S288C	851891	0	live	SUR2	YDR297W, SYR2	sphingosine hydroxylase	sphingosine hydroxylase		IV	NC_001136.10	1056551	1057600	plus	1		
+559292	Saccharomyces cerevisiae S288C	850298	0	live	KRR1	YCL059C	ribosome biosynthesis protein KRR1	ribosome biosynthesis protein KRR1		III	NC_001135.5	22429	23379	minus	1		
+559292	Saccharomyces cerevisiae S288C	853335	0	live	UTP10	YJL109C	snoRNA-binding rRNA-processing protein UTP10	snoRNA-binding rRNA-processing protein UTP10		X	NC_001142.9	212000	217309	minus	1		
+559292	Saccharomyces cerevisiae S288C	856404	0	live	ARD1	YHR013C, NAA10	peptide alpha-N-acetyltransferase complex A subunit ARD1	peptide alpha-N-acetyltransferase complex A subunit ARD1		VIII	NC_001140.6	130730	131446	minus	1		
+559292	Saccharomyces cerevisiae S288C	855705	0	live	SAM50	YNL026W, OMP85, TOB55	SAM complex subunit SAM50	SAM complex subunit SAM50		XIV	NC_001146.8	581920	583374	plus	1		
+559292	Saccharomyces cerevisiae S288C	854222	0	live	SGT1	YOR057W	co-chaperone SGT1	co-chaperone SGT1		XV	NC_001147.6	432186	433373	plus	1		
+559292	Saccharomyces cerevisiae S288C	855315	0	live	SCS7	YMR272C, FAH1	fatty acid alpha-hydroxylase	fatty acid alpha-hydroxylase		XIII	NC_001145.3	809623	810777	minus	1		
+4896	Schizosaccharomyces pombe	2541213	0	live	pfh1	SPBC887.14c, pif1	DNA repair and recombination protein	DNA repair and recombination protein		II	NC_003423.3	3567593	3570555	minus	2		
+559292	Saccharomyces cerevisiae S288C	854472	0	live	TIM18	YOR297C	Tim18p	Tim18p		XV	NC_001147.6	874743	875321	minus	1		
+559292	Saccharomyces cerevisiae S288C	853222	0	live	NUC1	YJL208C	ribonuclease	ribonuclease		X	NC_001142.9	40194	41183	minus	1		
+559292	Saccharomyces cerevisiae S288C	855186	0	live	RIM13	YMR154C, CPL1	Rim13p	Rim13p		XIII	NC_001145.3	565999	568182	minus	1		
+559292	Saccharomyces cerevisiae S288C	855168	0	live	PSO2	YMR137C, SNM1	DNA cross-link repair protein PSO2	DNA cross-link repair protein PSO2		XIII	NC_001145.3	542978	544963	minus	1		
+559292	Saccharomyces cerevisiae S288C	852786	0	live	PAN2	YGL094C	poly(A)-specific ribonuclease	poly(A)-specific ribonuclease		VII	NC_001139.9	331118	334465	minus	1		
+559292	Saccharomyces cerevisiae S288C	851521	0	live	NAT1	YDL040C, AAA1, NAA15	peptide alpha-N-acetyltransferase complex A subunit NAT1	peptide alpha-N-acetyltransferase complex A subunit NAT1		IV	NC_001136.10	378874	381438	minus	1		
+559292	Saccharomyces cerevisiae S288C	851910	0	live	IPK1	YDR315C, GSL1	inositol pentakisphosphate 2-kinase	inositol pentakisphosphate 2-kinase		IV	NC_001136.10	1092741	1093586	minus	1		
+559292	Saccharomyces cerevisiae S288C	852672	0	live	ARO8	YGL202W	bifunctional 2-aminoadipate transaminase/aromatic-amino-acid:2-oxoglutarate transaminase	bifunctional 2-aminoadipate transaminase/aromatic-amino-acid:2-oxoglutarate transaminase		VII	NC_001139.9	116059	117561	plus	1		
+559292	Saccharomyces cerevisiae S288C	854879	0	live	GIM5	YML094W, PFD5	Gim5p	Gim5p		XIII	NC_001145.3	82275	82849	plus	2		
+559292	Saccharomyces cerevisiae S288C	855586	0	live	EAF7	YNL136W	Eaf7p	Eaf7p		XIV	NC_001146.8	370368	371645	plus	1		
+559292	Saccharomyces cerevisiae S288C	850890	0	live	UPS1	YLR193C	Ups1p	Ups1p		XII	NC_001144.5	540009	540536	minus	1		
+559292	Saccharomyces cerevisiae S288C	852296	0	live	IPP1	YBR011C, PPA1	inorganic diphosphatase IPP1	inorganic diphosphatase IPP1		II	NC_001134.8	257112	257975	minus	1		
+559292	Saccharomyces cerevisiae S288C	854384	0	live	NPT1	YOR209C	nicotinate phosphoribosyltransferase	nicotinate phosphoribosyltransferase		XV	NC_001147.6	736437	737726	minus	1		
+559292	Saccharomyces cerevisiae S288C	855158	0	live	ECM16	YMR128W, DHR1	ATP-dependent RNA helicase ECM16	ATP-dependent RNA helicase ECM16		XIII	NC_001145.3	523696	527499	plus	1		
+559292	Saccharomyces cerevisiae S288C	850424	0	live	TAH1	YCR060W	Tah1p	Tah1p		III	NC_001135.5	224399	224734	plus	1		
+559292	Saccharomyces cerevisiae S288C	851644	0	live	IPT1	YDR072C, KTI6, MIC2, SYR4	inositolphosphotransferase	inositolphosphotransferase		IV	NC_001136.10	589761	591344	minus	1		
+559292	Saccharomyces cerevisiae S288C	854531	0	live	CIN1	YOR349W	Cin1p	Cin1p		XV	NC_001147.6	989789	992833	plus	1		
+559292	Saccharomyces cerevisiae S288C	850519	0	live	BST1	YFL025C, PER17	Bst1p	Bst1p		VI	NC_001138.5	84145	87234	minus	1		
+559292	Saccharomyces cerevisiae S288C	850549	0	live	SPB4	YFL002C	putative ATP-dependent RNA helicase SPB4	putative ATP-dependent RNA helicase SPB4		VI	NC_001138.5	145114	146934	minus	1		
+559292	Saccharomyces cerevisiae S288C	854775	0	live	CST6	YIL036W, ACA2, SHF1	Cst6p	Cst6p		IX	NC_001141.2	285666	287429	plus	1		
+559292	Saccharomyces cerevisiae S288C	853939	0	live	PAM17	YKR065C, FMP18	Pam17p	Pam17p		XI	NC_001143.9	565299	565892	minus	1		
+559292	Saccharomyces cerevisiae S288C	853812	0	live	MDM35	YKL053C-A	Mdm35p	Mdm35p		XI	NC_001143.9	339182	339442	minus	1		
+559292	Saccharomyces cerevisiae S288C	851313	0	live	NOP6	YDL213C	Nop6p	Nop6p		IV	NC_001136.10	77289	77966	minus	1		
+559292	Saccharomyces cerevisiae S288C	852915	0	live	MSP1	YGR028W, YTA4	Msp1p	Msp1p		VII	NC_001139.9	542203	543291	plus	1		
+559292	Saccharomyces cerevisiae S288C	851508	0	live	SLC1	YDL052C	1-acylglycerol-3-phosphate O-acyltransferase SLC1	1-acylglycerol-3-phosphate O-acyltransferase SLC1		IV	NC_001136.10	362672	363583	minus	1		
+559292	Saccharomyces cerevisiae S288C	853941	0	live	GPT2	YKR067W, GAT1	bifunctional glycerol-3-phosphate/glycerone-phosphate O-acyltransferase GPT2	bifunctional glycerol-3-phosphate/glycerone-phosphate O-acyltransferase GPT2		XI	NC_001143.9	567918	570149	plus	1		
+559292	Saccharomyces cerevisiae S288C	855520	0	live	PSY2	YNL201C	Psy2p	Psy2p		XIV	NC_001146.8	260627	263203	minus	1		
+559292	Saccharomyces cerevisiae S288C	854718	0	live	ICE2	YIL090W	Ice2p	Ice2p		IX	NC_001141.2	193595	195070	plus	1		
+559292	Saccharomyces cerevisiae S288C	850778	0	live	ALT1	YLR089C	alanine transaminase ALT1	alanine transaminase ALT1		XII	NC_001144.5	318237	320015	minus	1		
+559292	Saccharomyces cerevisiae S288C	850333	0	live	AGP1	YCL025C, YCC5	amino acid transporter AGP1	amino acid transporter AGP1		III	NC_001135.5	76018	77919	minus	1		
+559292	Saccharomyces cerevisiae S288C	854163	0	live	ALG6	YOR002W	dolichyl-P-Glc:Man(9)GlcNAc(2)-PP-dolichol alpha-1,3-glucosyltransferase	dolichyl-P-Glc:Man(9)GlcNAc(2)-PP-dolichol alpha-1,3-glucosyltransferase		XV	NC_001147.6	329417	331051	plus	1		
+559292	Saccharomyces cerevisiae S288C	850776	0	live	CSF1	YLR087C	Csf1p	Csf1p		XII	NC_001144.5	306855	315731	minus	1		
+559292	Saccharomyces cerevisiae S288C	852500	0	live	DER1	YBR201W	derlin	derlin		II	NC_001134.8	623576	624211	plus	1		
+559292	Saccharomyces cerevisiae S288C	854270	0	live	OST2	YOR103C	dolichyl-diphosphooligosaccharide-protein glycotransferase	dolichyl-diphosphooligosaccharide-protein glycotransferase		XV	NC_001147.6	516449	516841	minus	1		
+559292	Saccharomyces cerevisiae S288C	852049	0	live	LRS4	YDR439W	Lrs4p	Lrs4p		IV	NC_001136.10	1339676	1340719	plus	1		
+559292	Saccharomyces cerevisiae S288C	856901	0	live	COG3	YER157W, GRD20, SEC34	Golgi transport complex subunit COG3	Golgi transport complex subunit COG3		V	NC_001137.3	484788	487193	plus	1		
+559292	Saccharomyces cerevisiae S288C	852314	0	live	ETR1	YBR026C, MRF1, MRF1'	enoyl-[acyl-carrier-protein] reductase	enoyl-[acyl-carrier-protein] reductase		II	NC_001134.8	292877	294019	minus	1		
+559292	Saccharomyces cerevisiae S288C	851964	0	live	TFC6	YDR362C	transcription factor TFIIIC subunit TFC6	transcription factor TFIIIC subunit TFC6		IV	NC_001136.10	1196679	1198697	minus	1		
+559292	Saccharomyces cerevisiae S288C	850508	0	live	MOB2	YFL034C-B, YFL035C, YFL035C-A	Mob2p	Mob2p		VI	NC_001138.5	63016	63993	minus	2		
+559292	Saccharomyces cerevisiae S288C	856772	0	live	CAJ1	YER048C	Caj1p	Caj1p		V	NC_001137.3	246982	248157	minus	1		
+559292	Saccharomyces cerevisiae S288C	851192	0	live	CYC3	YAL039C	holocytochrome c synthase CYC3	holocytochrome c synthase CYC3		I	NC_001133.9	68716	69525	minus	1		
+559292	Saccharomyces cerevisiae S288C	852196	0	live	ALG3	YBL082C, RHK1	dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichol alpha-1,3-mannosyltransferase	dolichyl-P-Man:Man(5)GlcNAc(2)-PP-dolichol alpha-1,3-mannosyltransferase		II	NC_001134.8	69751	71127	minus	1		
+559292	Saccharomyces cerevisiae S288C	855985	0	live	MRP51	YPL118W, bS1m	mitochondrial 37S ribosomal protein MRP51	mitochondrial 37S ribosomal protein MRP51		XVI	NC_001148.4	326628	327662	plus	1		
+559292	Saccharomyces cerevisiae S288C	852616	0	live	MTO1	YGL236C, IPS1	tRNA modification protein MTO1	tRNA modification protein MTO1		VII	NC_001139.9	53787	55796	minus	1		
+559292	Saccharomyces cerevisiae S288C	850420	0	live	THR4	YCR053W	threonine synthase THR4	threonine synthase THR4		III	NC_001135.5	216697	218241	plus	1		
+559292	Saccharomyces cerevisiae S288C	851869	0	live	PMP3	YDR276C, SNA1	Pmp3p	Pmp3p		IV	NC_001136.10	1013476	1013643	minus	1		
+559292	Saccharomyces cerevisiae S288C	853886	0	live	MIC60	YKR016W, AIM28, FCJ1, FMP13	Mic60p	Mic60p		XI	NC_001143.9	469717	471339	plus	1		
+559292	Saccharomyces cerevisiae S288C	855441	0	live	ERG24	YNL280C	delta(14)-sterol reductase	delta(14)-sterol reductase		XIV	NC_001146.8	109095	110411	minus	1		
+559292	Saccharomyces cerevisiae S288C	854220	0	live	VHS3	YOR054C, YOR29-05	phosphopantothenoylcysteine decarboxylase complex subunit VHS3	phosphopantothenoylcysteine decarboxylase complex subunit VHS3		XV	NC_001147.6	427833	429857	minus	1		
+559292	Saccharomyces cerevisiae S288C	856026	0	live	RPL21B	YPL079W	ribosomal 60S subunit protein L21B	ribosomal 60S subunit protein L21B		XVI	NC_001148.4	406636	407539	plus	2		
+559292	Saccharomyces cerevisiae S288C	850763	0	live	BUD20	YLR074C	Bud20p	Bud20p		XII	NC_001144.5	281956	282456	minus	1		
+559292	Saccharomyces cerevisiae S288C	856252	0	live	TOM5	YPR133W-A, MOM8A	Tom5p	Tom5p		XVI	NC_001148.4	797557	797709	plus	1		
+559292	Saccharomyces cerevisiae S288C	854706	0	live	XBP1	YIL101C	Xbp1p	Xbp1p		IX	NC_001141.2	175307	177250	minus	1		
+559292	Saccharomyces cerevisiae S288C	854866	0	live	SEC65	YML105C	RNA-binding signal recognition particle subunit SEC65	RNA-binding signal recognition particle subunit SEC65		XIII	NC_001145.3	57866	58687	minus	1		
+559292	Saccharomyces cerevisiae S288C	855153	0	live	PKR1	YMR123W	Pkr1p	Pkr1p		XIII	NC_001145.3	513593	513961	plus	1		
+559292	Saccharomyces cerevisiae S288C	855466	0	live	GIS2	YNL255C	mRNA-binding translational activator GIS2	mRNA-binding translational activator GIS2		XIV	NC_001146.8	167329	167790	minus	1		
+559292	Saccharomyces cerevisiae S288C	851256	0	live	ERV46	YAL042W, FUN9	Erv46p	Erv46p		I	NC_001133.9	61316	62563	plus	1		
+559292	Saccharomyces cerevisiae S288C	851483	0	live	RXT3	YDL076C	Rxt3p	Rxt3p		IV	NC_001136.10	320668	321552	minus	1		
+559292	Saccharomyces cerevisiae S288C	856915	0	live	CCA1	YER168C, TNT1	tRNA adenylyltransferase	tRNA adenylyltransferase		V	NC_001137.3	521029	522669	minus	1		
+559292	Saccharomyces cerevisiae S288C	856075	0	live	SVL3	YPL032C	Svl3p	Svl3p		XVI	NC_001148.4	488887	491364	minus	1		
+559292	Saccharomyces cerevisiae S288C	854856	0	live	GTT1	YIR038C	bifunctional glutathione transferase/peroxidase	bifunctional glutathione transferase/peroxidase		IX	NC_001141.2	423809	424513	minus	1		
+559292	Saccharomyces cerevisiae S288C	856006	0	live	MGR2	YPL098C	Mgr2p	Mgr2p		XVI	NC_001148.4	364386	364727	minus	1		
+559292	Saccharomyces cerevisiae S288C	854537	0	live	GDS1	YOR355W	Gds1p	Gds1p		XV	NC_001147.6	1005137	1006705	plus	1		
+559292	Saccharomyces cerevisiae S288C	852997	0	live	VMA21	YGR105W	Vma21p	Vma21p		VII	NC_001139.9	698599	698832	plus	1		
+559292	Saccharomyces cerevisiae S288C	856560	0	live	LAM1	YHR155W, YSP1	Lam1p	Lam1p		VIII	NC_001140.6	407103	410789	plus	1		
+559292	Saccharomyces cerevisiae S288C	851453	0	live	NSE4	YDL105W, QRI2	Smc5-Smc6 complex subunit NSE4	Smc5-Smc6 complex subunit NSE4		IV	NC_001136.10	272389	273597	plus	1		
+559292	Saccharomyces cerevisiae S288C	855402	0	live	DAL82	YNL314W	Dal82p	Dal82p		XIV	NC_001146.8	44447	45214	plus	1		
+559292	Saccharomyces cerevisiae S288C	856601	0	live	MDM31	YHR194W	Mdm31p	Mdm31p		VIII	NC_001140.6	488657	490396	plus	1		
+559292	Saccharomyces cerevisiae S288C	854127	0	live	GAS5	YOL030W	1,3-beta-glucanosyltransferase	1,3-beta-glucanosyltransferase		XV	NC_001147.6	268187	269641	plus	1		
+559292	Saccharomyces cerevisiae S288C	852924	0	live	CAX4	YGR036C, CWH8	dolichyldiphosphatase	dolichyldiphosphatase		VII	NC_001139.9	558149	558868	minus	1		
+559292	Saccharomyces cerevisiae S288C	856464	0	live	HTD2	YHR067W, RMD12	hydroxyacyl-thioester dehydratase HTD2	hydroxyacyl-thioester dehydratase HTD2		VIII	NC_001140.6	230970	231812	plus	1		
+559292	Saccharomyces cerevisiae S288C	850313	0	live	MGR1	YCL044C	Mgr1p	Mgr1p		III	NC_001135.5	47111	48364	minus	1		
+559292	Saccharomyces cerevisiae S288C	856155	0	live	PUF2	YPR042C	Puf2p	Puf2p		XVI	NC_001148.4	650435	653662	minus	1		
+559292	Saccharomyces cerevisiae S288C	850563	0	live	MIC19	YFR011C, AIM13, MCS19	Mic19p	Mic19p		VI	NC_001138.5	166746	167258	minus	1		
+559292	Saccharomyces cerevisiae S288C	851399	0	live	CMR1	YDL156W	Cmr1p	Cmr1p		IV	NC_001136.10	174918	176486	plus	1		
+559292	Saccharomyces cerevisiae S288C	855142	0	live	MGR3	YMR115W, FMP24	Mgr3p	Mgr3p		XIII	NC_001145.3	497704	499209	plus	1		
+559292	Saccharomyces cerevisiae S288C	854709	0	live	FMC1	YIL098C	Fmc1p	Fmc1p		IX	NC_001141.2	179772	180239	minus	1		
+559292	Saccharomyces cerevisiae S288C	853175	0	live	TNA1	YGR260W	Tna1p	Tna1p		VII	NC_001139.9	1012485	1014089	plus	1		
+559292	Saccharomyces cerevisiae S288C	855095	0	live	IRC21	YMR073C	Irc21p	Irc21p		XIII	NC_001145.3	412268	412873	minus	1		
+559292	Saccharomyces cerevisiae S288C	852741	0	live	MRM2	YGL136C	21S rRNA (uridine2791-2'-O) methyltransferase	21S rRNA (uridine2791-2'-O) methyltransferase		VII	NC_001139.9	252897	253859	minus	1		
+559292	Saccharomyces cerevisiae S288C	854970	0	live	YMD8	YML038C	Ymd8p	Ymd8p		XIII	NC_001145.3	202775	204103	minus	1		
+559292	Saccharomyces cerevisiae S288C	856462	0	live	RRP3	YHR065C	RNA-dependent ATPase RRP3	RNA-dependent ATPase RRP3		VIII	NC_001140.6	227532	229037	minus	1		
+559292	Saccharomyces cerevisiae S288C	855919	0	live	RTT10	YPL183C, ERE2, TRM734	Rtt10p	Rtt10p		XVI	NC_001148.4	199495	202536	minus	1		
+559292	Saccharomyces cerevisiae S288C	853142	0	live	DIE2	YGR227W, ALG10	dolichyl-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-dolichol alpha-1,2- glucosyltransferase	dolichyl-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-dolichol alpha-1,2- glucosyltransferase		VII	NC_001139.9	947420	948997	plus	1		
+559292	Saccharomyces cerevisiae S288C	852089	0	live	SNM1	YDR478W	Snm1p	Snm1p		IV	NC_001136.10	1414575	1415171	plus	1		
+559292	Saccharomyces cerevisiae S288C	854484	0	live	SLY41	YOR307C	Sly41p	Sly41p		XV	NC_001147.6	892731	894092	minus	1		
+559292	Saccharomyces cerevisiae S288C	852566	0	live	MIC12	YBR262C, AIM5, FMP51, MCS12	Mic12p	Mic12p		II	NC_001134.8	735720	736040	minus	1		
+559292	Saccharomyces cerevisiae S288C	853735	0	live	SSH4	YKL124W, MLF4	Ssh4p	Ssh4p		XI	NC_001143.9	210593	212332	plus	1		
+559292	Saccharomyces cerevisiae S288C	852998	0	live	VOA1	YGR106C	Voa1p	Voa1p		VII	NC_001139.9	698989	699786	minus	1		
+559292	Saccharomyces cerevisiae S288C	854724	0	live	KTR7	YIL085C	putative mannosyltransferase	putative mannosyltransferase		IX	NC_001141.2	200490	202043	minus	1		
+559292	Saccharomyces cerevisiae S288C	853982	0	live	RTC1	YOL138C, SEA2	Rtc1p	Rtc1p		XV	NC_001147.6	61325	65350	minus	1		
+559292	Saccharomyces cerevisiae S288C	856032	0	live	UBP16	YPL072W	putative ubiquitin-specific protease UBP16	putative ubiquitin-specific protease UBP16		XVI	NC_001148.4	418512	420011	plus	1		
+559292	Saccharomyces cerevisiae S288C	856931	0	live	FMP10	YER182W	Fmp10p	Fmp10p		V	NC_001137.3	552525	553259	plus	1		
+28985	Kluyveromyces lactis	2897086	0	live	KLLA0_B03740g	KLLA0_B03740g	uncharacterized protein			B	NC_006038.1	337996	338784	minus	1		
+573826	Candida dubliniensis CD36	8044456	0	live	CD36_02480	CD36_02480	mitochondrial nucleoid component, putative	mitochondrial-genome maintenance, protein|repair of oxidative mtDNA damage protein, putative		1	NC_012860.1	570061	570879	minus	1		
+45607	[Candida] sorbophila	36518196	0	live	B9G98_04448	B9G98_04448	hypothetical protein	hypothetical protein		Unknown							
+559292	Saccharomyces cerevisiae S288C	852131	0	live	FPR2	YDR519W, FKB2	peptidylprolyl isomerase family protein FPR2	peptidylprolyl isomerase family protein FPR2		IV	NC_001136.10	1480425	1480832	plus	1		
+559292	Saccharomyces cerevisiae S288C	856434	0	live	MSC7	YHR039C	meiotic recombination directing protein	meiotic recombination directing protein		VIII	NC_001140.6	184875	186809	minus	1		
+559292	Saccharomyces cerevisiae S288C	852219	0	live	YEL1	YBL060W	Arf family guanine nucleotide exchange factor YEL1	Arf family guanine nucleotide exchange factor YEL1		II	NC_001134.8	107932	109995	plus	1		
+559292	Saccharomyces cerevisiae S288C	852426	0	live	OPY1	YBR129C	Opy1p	Opy1p		II	NC_001134.8	494353	495339	minus	1		
+559292	Saccharomyces cerevisiae S288C	852290	0	live	RCR1	YBR005W, SSH6	Rcr1p	Rcr1p		II	NC_001134.8	245906	246547	plus	1		
+559292	Saccharomyces cerevisiae S288C	856133	0	live	SDD4	YPR022C	Sdd4p	Sdd4p		XVI	NC_001148.4	603911	607312	minus	1		
+559292	Saccharomyces cerevisiae S288C	853938	0	live	OAF3	YKR064W	Oaf3p	Oaf3p		XI	NC_001143.9	562547	565138	plus	1		
+559292	Saccharomyces cerevisiae S288C	855780	0	live	AGA1	YNR044W	Aga1p	Aga1p		XIV	NC_001146.8	703699	705876	plus	1		
+559292	Saccharomyces cerevisiae S288C	851516	0	live	FAD1	YDL045C	FMN adenylyltransferase	FMN adenylyltransferase		IV	NC_001136.10	372688	373608	minus	1		
+559292	Saccharomyces cerevisiae S288C	851459	0	live	BUG1	YDL099W	Bug1p	Bug1p		IV	NC_001136.10	283419	284444	plus	1		
+559292	Saccharomyces cerevisiae S288C	855854	0	live	SAM3	YPL274W	bifunctional polyamine/amino acid permease SAM3	bifunctional polyamine/amino acid permease SAM3		XVI	NC_001148.4	22938	24701	plus	1		
+559292	Saccharomyces cerevisiae S288C	853243	0	live	ELO1	YJL196C	fatty acid elongase ELO1	fatty acid elongase ELO1		X	NC_001142.9	67850	68782	minus	1		
+559292	Saccharomyces cerevisiae S288C	855755	0	live	YNR021W	YNR021W	hypothetical protein	hypothetical protein		XIV	NC_001146.8	668377	669591	plus	1		
+559292	Saccharomyces cerevisiae S288C	856714	0	live	YEA4	YEL004W	Yea4p	Yea4p		V	NC_001137.3	146951	147979	plus	1		
+284811	Eremothecium gossypii ATCC 10895	4618942	0	live	AGOS_ABL086C	AGOS_ABL086C, ABL086C	ABL086Cp			II	NC_005783.5	236962	237726	minus	1		
+58627	Debaryomyces fabryi	26838643	0	live	AC631_01634	AC631_01634	Mitochondrial genome maintenance protein	Mitochondrial genome maintenance protein		Unknown							
+563466	Scedosporium apiospermum	27725336	0	live	SAPIO_CDS6264	SAPIO_CDS6264	putative Mitochondrial genome maintenance protein			Unknown							
+559295	Lachancea thermotolerans CBS 6340	8295708	0	live	KLTH0D17314g	KLTH0D17314g	KLTH0D17314p			D	NC_013080.1	1436806	1437594	minus	1		
+4956	Zygosaccharomyces rouxii	8202489	0	live	ZYRO0B08888g	ZYRO0B08888g	uncharacterized protein			B	NC_012991.1	697087	697842	plus	1		
+284591	Yarrowia lipolytica CLIB122	2912335	0	live	YALI0_E05863g	YALI0_E05863g, YALI0E05863g	YALI0E05863p			E	NC_006071.1	669614	670483	minus	1		
+284592	Debaryomyces hansenii CBS767	2903815	0	live	DEHA2F01210g	DEHA2F01210g	DEHA2F01210p	DEHA2F01210p		F	NC_006048.2	109654	110481	plus	1		
+1220924	Cyphellophora europaea CBS 101466	19968784	0	live	HMPREF1541_01445	HMPREF1541_01445	mitochondrial genome maintenance protein			Unknown							
+436907	Vanderwaltozyma polyspora DSM 70294	5543804	0	live	Kpol_1000p17	Kpol_1000p17	hypothetical protein										
+599839	Fibroporia radiculosa	24096654	0	live	FIBRA_03809	FIBRA_03809	hypothetical protein										
+1277687	Anthracocystis flocculosa PF-1	19318593	0	live	PFL1_04490	PFL1_04490	hypothetical protein			Unknown							
+1072389	Marssonina brunnea f. sp. 'multigermtubi' MB_m1	18765627	0	live	MBM_09692	MBM_09692	hypothetical protein			Unknown							
+1071383	Kazachstania naganishii CBS 8797	34528656	0	live	KNAG0M00230	KNAG_0M00230	hypothetical protein			13	NC_035934.1	35079	35801	minus	1		
+1071380	Tetrapisispora blattae CBS 6284	14493588	0	live	TBLA0A10680	TBLA_0A10680	hypothetical protein			1	NC_020185.1	2640996	2641781	plus	1		
+1071382	Kazachstania africana CBS 2517	13884872	0	live	KAFR0B06940	KAFR_0B06940	hypothetical protein			2	NC_018941.1	1441660	1442478	plus	1		
+1071381	Tetrapisispora phaffii CBS 4417	11534789	0	live	TPHA0B00280	TPHA_0B00280	hypothetical protein			2	NC_016521.1	54318	55223	minus	1		
+4950	Torulaspora delbrueckii	11502080	0	live	TDEL0D00370	TDEL_0D00370	hypothetical protein	hypothetical protein		4	NC_016504.1	64482	65240	minus	1		
+1071378	Naumovozyma dairenensis CBS 421	11495106	0	live	NDAI0D03380	NDAI_0D03380	hypothetical protein			4	NC_016482.1	797548	798432	plus	1		
+5478	[Candida] glabrata	2891149	0	live	CAGL0M00198g	CAGL0M00198g	hypothetical protein			M	NC_006036.2	26473	27207	minus	1		
+1245769	Lachancea lanzarotensis	34688609	0	live	LALA0_S18e00298g	LALA0_S18e00298g	hypothetical protein			Unknown							
+1410327	Acytostelium subglobosum LB1	24522145	0	live	SAMD00019534_068180	SAMD00019534_068180	hypothetical protein										
+578456	Tremella mesenterica DSM 1558	18491606	0	live	TREMEDRAFT_26259	TREMEDRAFT_26259	hypothetical protein	hypothetical protein		Unknown							
+283643	Cryptococcus neoformans var. neoformans B-3501A	4937915	0	live	CNBH3870	CNBH3870	hypothetical protein			8	NC_009184.1	1077872	1079052	minus	5		
+559292	Saccharomyces cerevisiae S288C	855189	0	live	AIM36	YMR157C, FMP39	Aim36p	Aim36p		XIII	NC_001145.3	571277	572044	minus	1		
+559292	Saccharomyces cerevisiae S288C	850489	0	live	AGP3	YFL055W	Agp3p	Agp3p		VI	NC_001138.5	17004	18680	plus	1		
+559292	Saccharomyces cerevisiae S288C	856373	0	live	OTU2	YHL013C	Otu2p	Otu2p		VIII	NC_001140.6	77430	78353	minus	1		
+559292	Saccharomyces cerevisiae S288C	855521	0	live	NNR1	YNL200C	NADHX epimerase	NADHX epimerase		XIV	NC_001146.8	263713	264453	minus	1		
+4896	Schizosaccharomyces pombe	2539560	0	live	cbf11	SPCC736.08	CBF1/Su(H)/LAG-1 family transcription factor Cbf11	CBF1/Su(H)/LAG-1 family transcription factor Cbf11		III	NC_003421.2	327324	330732	plus	2		
+559292	Saccharomyces cerevisiae S288C	850752	0	live	BMT6	YLR063W	25S rRNA (uracil2843-N3)-methyltransferase	25S rRNA (uracil2843-N3)-methyltransferase		XII	NC_001144.5	264157	265254	plus	1		
+559292	Saccharomyces cerevisiae S288C	850710	0	live	IZH3	YLR023C	Izh3p	Izh3p		XII	NC_001144.5	185498	187129	minus	1		
+559292	Saccharomyces cerevisiae S288C	852189	0	live	AVT5	YBL089W	amino acid transporter	amino acid transporter		II	NC_001134.8	49574	50953	plus	1		
+559292	Saccharomyces cerevisiae S288C	851147	0	live	MAG2	YLR427W	Mag2p	Mag2p		XII	NC_001144.5	988428	990440	plus	1		
+559292	Saccharomyces cerevisiae S288C	855261	0	live	FMP42	YMR221C	Fmp42p	Fmp42p		XIII	NC_001145.3	713931	715445	minus	1		
+500485	Penicillium chrysogenum Wisconsin 54-1255	8315942	0	live	Pc22g19390	Pc22g19390	Pc22g19390	Pc22g19390|hypothetical protein									
+332648	Botrytis cinerea B05.10	5442021	0	live	Bcmgm101	BCIN_01g05650, BC1G_00458	Bcmgm101	Bcmgm101		1	NC_037310.1	1966038	1967285	minus	2		
+1186058	Trichosporon asahii var. asahii CBS 2479	25986332	0	live	A1Q1_02819	A1Q1_02819	genome maintenance protein			Unknown							
+747089	Rhizophagus irregularis DAOM 181602=DAOM 197198	36867941	0	live	GLOIN_2v1610786	GLOIN_2v1610786	mitochondrial genome maintenance protein	mitochondrial genome maintenance protein		Unknown							
+1037660	Tilletiaria anomala UBC 951	25263654	0	live	K437DRAFT_253710	K437DRAFT_253710	Mgm101p-domain-containing protein			Unknown							
+1305764	Pseudozyma hubeiensis SY62	24111290	0	live	PHSY_006018	PHSY_006018	mitochondrial genome maintenance protein										
+235443	Cryptococcus neoformans var. grubii H99	23887702	0	live	CNAG_04267	CNAG_04267	mitochondrial genome maintenance protein	mitochondrial genome maintenance protein		9	NC_026753.1	435706	437102	minus	5		
+237631	Ustilago maydis 521	23564888	0	live	UMAG_04831	UMAG_04831	putative single-stranded DNA binding protein	putative single-stranded DNA binding protein		17	NC_026494.1	395583	396578	plus	1		
+759272	Chaetomium thermophilum var. thermophilum DSM 1495	18258505	0	live	CTHT_0044670	CTHT_0044670	NONE-like protein	NONE-like protein		Unknown							
+367775	Cryptococcus gattii WM276	10185595	0	live	CGB_H3810W	CGB_H3810W	mitochondrial genome maintenance protein, putative			H	NC_014945.1	840310	841488	plus	5		
+214684	Cryptococcus neoformans var. neoformans JEC21	3259484	0	live	CNI04060	CNI04060	mitochondrial genome maintenance protein, putative	mitochondrial genome maintenance protein, putative		9	NC_006694.1	1080644	1082041	minus	5		
+1340429	Rhizopus microsporus ATCC 52813	35439904	0	live	RHIMIDRAFT_238220	RHIMIDRAFT_238220	Mgm101p-domain-containing protein			Unknown							
+653667	Schizosaccharomyces cryophilus OY26	25037116	0	live	SPOG_02794	SPOG_02794	DNA repair protein			Unknown							
+483514	Schizosaccharomyces octosporus yFS286	25029193	0	live	SOCG_00209	SOCG_00209	DNA repair protein			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14923650	0	live	ACA1_081830	ACA1_081830	mitochondrial genome maintenance protein			Unknown							
+242507	Pyricularia oryzae 70-15	12984933	0	live	MGG_17455	MGG_17455	hypothetical protein	hypothetical protein		5	NC_017852.1	2894925	2896384	minus	2		
+402676	Schizosaccharomyces japonicus yFS275	7048984	0	live	SJAG_03068	SJAG_03068	DNA repair protein			Unknown							
+240176	Coprinopsis cinerea okayama7#130	6014140	0	live	CC1G_08125	CC1G_08125	mitochondrial genome maintenance protein			5							
+246410	Coccidioides immitis RS	4560474	0	live	CIMG_07856	CIMG_07856	mitochondrial genome maintenance protein			Unknown							
+215250	Acaromyces ingoldii	37047056	0	live	FA10DRAFT_302558	FA10DRAFT_302558	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+1280837	Meira miltonrushii	37019984	0	live	FA14DRAFT_159422	FA14DRAFT_159422	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+983966	Cyberlindnera jadinii NRRL Y-1542	30989746	0	live	CYBJADRAFT_168397	CYBJADRAFT_168397	Mgm101p-domain-containing protein			Unknown							
+1344418	Ascoidea rubescens DSM 1968	30966864	0	live	ASCRUDRAFT_75826	ASCRUDRAFT_75826	Mgm101p-domain-containing protein			Unknown							
+1448312	Aspergillus japonicus CBS 114.51	37173204	0	live	BO86DRAFT_353123	BO86DRAFT_353123	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+1450539	Aspergillus saccharolyticus JOP 1030-1	37079204	0	live	BP01DRAFT_390158	BP01DRAFT_390158	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+58853	Trichoderma citrinoviride	36597877	0	live	BBK36DRAFT_1111957	BBK36DRAFT_1111957	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+1392250	Aspergillus steynii IBT 23096	36560030	0	live	P170DRAFT_465594	P170DRAFT_465594	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+1392248	Aspergillus campestris IBT 28561	36546670	0	live	P168DRAFT_307911	P168DRAFT_307911	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+41067	Aspergillus candidus	36523848	0	live	BDW47DRAFT_12727	BDW47DRAFT_12727	Mgm101p-domain-containing protein	Mgm101p-domain-containing protein		Unknown							
+122368	Cercospora beticola	35430261	0	live	CB0940_06454	CB0940_06454	Mitochondrial genome maintenance protein			2	NC_036771.1	3463239	3464773	plus	2		
+5599	Alternaria alternata	29115174	0	live	CC77DRAFT_1091674	CC77DRAFT_1091674	Mgm101p-domain-containing protein			Unknown							
+759273	Colletotrichum higginsianum IMI 349063	28865566	0	live	CH63R_06484	CH63R_06484	Mitochondrial genome maintenance protein			4	NC_030957.1	3936705	3937753	minus	2		
+1408163	Rasamsonia emersonii CBS 393.64	25320047	0	live	T310_7782	T310_7782, Temer07889	Uncharacterized protein			Unknown							
+1041607	Wickerhamomyces ciferrii	23464717	0	live	BN7_2102	BN7_2102	Mitochondrial genome maintenance protein										
+498257	Verticillium dahliae VdLs.17	20708820	0	live	VDAG_07357	VDAG_07357	uncharacterized protein	uncharacterized protein		5							
+744533	Naegleria gruberi strain NEG-M	8861445	0	live	NAEGRDRAFT_3626	NAEGRDRAFT_3626	hypothetical protein										
+744533	Naegleria gruberi strain NEG-M	8852810	0	live	NAEGRDRAFT_69467	NAEGRDRAFT_69467	hypothetical protein										
+671987	Exserohilum turcica Et28A	19403894	0	live	SETTUDRAFT_34261	SETTUDRAFT_34261	hypothetical protein	hypothetical protein		Unknown							
+569365	Cladophialophora immunda	27343484	0	live	PV07_04290	PV07_04290	hypothetical protein	hypothetical protein		Unknown							
+1299270	Wallemia ichthyophaga EXF-994	20375426	0	live	J056_002474	J056_002474	hypothetical protein			Unknown							
+931890	Eremothecium cymbalariae DBVPG#7215	11471713	0	live	Ecym_5144	Ecym_5144	hypothetical protein			5	NC_016453.1	305125	305895	minus	1		
+425265	Malassezia globosa CBS 7966	5856310	0	live	MGL_1273	MGL_1273	hypothetical protein										
+1051616	Verticillium nonalfalfae	39604121	0	live	D7B24_000432	D7B24_000432	hypothetical protein	hypothetical protein		Unknown							
+857342	Amorphotheca resinae ATCC 22711	36573926	0	live	M430DRAFT_29082	M430DRAFT_29082	hypothetical protein	hypothetical protein		Unknown							
+1365824	Kalmanozyma brasiliensis GHG001	27417579	0	live	PSEUBRA_SCAF15g05704	PSEUBRA_SCAF15g05704	hypothetical protein			Unknown							
+764103	Mixia osmundae IAM 14324	26269269	0	live	L969DRAFT_96514	L969DRAFT_96514	hypothetical protein			Unknown							
+1170230	Penicillium digitatum Pd1	26234829	0	live	PDIP_65130	PDIP_65130	hypothetical protein			Unknown							
+1263415	Endocarpon pusillum Z07020	19243665	0	live	EPUS_08823	EPUS_08823	hypothetical protein			Unknown							
+431241	Trichoderma reesei QM6a	18488797	0	live	TRIREDRAFT_77713	TRIREDRAFT_77713	hypothetical protein	hypothetical protein		Unknown							
+771870	Sordaria macrospora k-hell	10807357	0	live	SMAC_00727	SMAC_00727	hypothetical protein	hypothetical protein		Unknown							
+656061	Tuber melanosporum Mel28	9181159	0	live	GSTUM_00004428001	GSTUM_00004428001	hypothetical protein										
+322104	Scheffersomyces stipitis CBS 6054	4838073	0	live	PICST_57386	PICST_57386	hypothetical protein			3	NC_009043.1	534694	535236	plus	1		
+227321	Aspergillus nidulans FGSC A4	2871012	0	live	AN6054.2	AN6054.2	hypothetical protein	hypothetical protein		I							
+398673	Trichoderma gamsii	29990468	0	live	TGAM01_v200918	TGAM01_v200918, TGAM01_10235	hypothetical protein	hypothetical protein		Unknown							
+229533	Fusarium graminearum PH-1	23555340	0	live	FGSG_08328	FGSG_08328	hypothetical protein			2	NC_026475.1	2227540	2228514	plus	2		
+502780	Paracoccidioides brasiliensis Pb18	22580299	0	live	PADG_00466	PADG_00466	hypothetical protein			Unknown							
+747525	Heterobasidion irregulare TC 32-1	20677459	0	live	HETIRDRAFT_472530	HETIRDRAFT_472530	hypothetical protein			Unknown							
+1028729	Fusarium pseudograminearum CS3096	20368095	0	live	FPSE_09478	FPSE_09478	hypothetical protein			2	NC_031952.1	1037330	1038304	minus	2		
+619300	Spathaspora passalidarum NRRL Y-27907	18872280	0	live	SPAPADRAFT_58009	SPAPADRAFT_58009	hypothetical protein			Unknown							
+578457	Serpula lacrymans var. lacrymans S7.9	18809132	0	live	SERLADRAFT_347200	SERLADRAFT_347200	hypothetical protein			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14923644	0	live	ACA1_081470	ACA1_081470	hypothetical protein			Unknown							
+336722	Zymoseptoria tritici IPO323	13395940	0	live	MYCGRDRAFT_67812	MYCGRDRAFT_67812	hypothetical protein	hypothetical protein		2	NC_018217.1	549758	550738	plus	2		
+985895	Leptosphaeria maculans JN3	13284740	0	live	LEMA_P060830.1	LEMA_P060830.1	hypothetical protein			Unknown							
+578455	Thermothielavioides terrestris NRRL 8126	11523940	0	live	THITE_2040070	THITE_2040070	hypothetical protein	hypothetical protein		1	NC_016457.1	8500065	8501088	plus	2		
+573729	Thermothelomyces thermophilus ATCC 42464	11514231	0	live	MYCTH_2307114	MYCTH_2307114	hypothetical protein	hypothetical protein		4	NC_016475.1	3065144	3066492	plus	2		
+5786	Dictyostelium purpureum	10503928	0	live	DICPUDRAFT_77411	DICPUDRAFT_77411	hypothetical protein			Unknown							
+660122	Nectria haematococca mpVI 77-13-4	9671009	0	live	NECHADRAFT_103661	NECHADRAFT_103661	hypothetical protein			3							
+578458	Schizophyllum commune H4-8	9585969	0	live	SCHCODRAFT_46733	SCHCODRAFT_46733	hypothetical protein	hypothetical protein		Unknown							
+306902	Clavispora lusitaniae ATCC 42720	8499052	0	live	CLUG_01599	CLUG_01599	hypothetical protein										
+10228	Trichoplax adhaerens	6752751	0	live	TRIADDRAFT_55661	TRIADDRAFT_55661	hypothetical protein	hypothetical protein		Unknown							
+515849	Podospora anserina S mat+	6190129	0	live	PODANS_4_3270	PODANS_4_3270, PODANSg2871	hypothetical protein	hypothetical protein		4							
+510516	Aspergillus oryzae RIB40	5998399	0	live	AO090011000707	AO090011000707	hypothetical protein	hypothetical protein		7	NC_036441.1	1813573	1814479	minus	2		
+294746	Meyerozyma guilliermondii ATCC 6260	5125485	0	live	PGUG_03978	PGUG_03978	hypothetical protein										
+148305	Pyricularia grisea	41963812	0	live	PgNI_08914	PgNI_08914	hypothetical protein	hypothetical protein		V							
+1810919	Aspergillus mulundensis	38112757	0	live	DSM5745_02387	DSM5745_02387	hypothetical protein	hypothetical protein		Unknown							
+334819	Fusarium verticillioides 7600	30060577	0	live	FVEG_02364	FVEG_02364	hypothetical protein			6	NC_031680.1	1337602	1338562	minus	2		
+930091	Bipolaris victoriae FI3	26248043	0	live	COCVIDRAFT_100457	COCVIDRAFT_100457	hypothetical protein			Unknown							
+413071	Trichoderma virens Gv29-8	25787475	0	live	TRIVIDRAFT_129798	TRIVIDRAFT_129798	hypothetical protein			Unknown							
+452589	Trichoderma atroviride IMI 206040	25777981	0	live	TRIATDRAFT_222925	TRIATDRAFT_222925	hypothetical protein			Unknown							
+1043004	Aureobasidium namibiae CBS 147.97	25409221	0	live	M436DRAFT_39566	M436DRAFT_39566	hypothetical protein			Unknown							
+1043005	Aureobasidium subglaciale EXF-2481	25370644	0	live	AUEXF2481DRAFT_69182	AUEXF2481DRAFT_69182	hypothetical protein			Unknown							
+930089	Bipolaris zeicola 26-R-13	19152120	0	live	COCCADRAFT_86310	COCCADRAFT_86310	hypothetical protein			Unknown							
+930090	Bipolaris oryzae ATCC 44560	19127779	0	live	COCMIDRAFT_90897	COCMIDRAFT_90897	hypothetical protein			Unknown							
+597362	Agaricus bisporus var. burnettii JB137-S8	18830210	0	live	AGABI1DRAFT_57296	AGABI1DRAFT_57296	hypothetical protein			Unknown							
+936046	Agaricus bisporus var. bisporus H97	18085428	0	live	AGABI2DRAFT_228754	AGABI2DRAFT_228754	hypothetical protein			Unknown							
+1064592	Naumovozyma castellii CBS 4309	11529157	0	live	NCAS0A06390	NCAS_0A06390	hypothetical protein			1	NC_016491.1	1259603	1260433	plus	1		
+1344418	Ascoidea rubescens DSM 1968	30962486	0	live	ASCRUDRAFT_117255	ASCRUDRAFT_117255	hypothetical protein			Unknown							
+665024	Bipolaris maydis ATCC 48331	25837668	0	live	COCC4DRAFT_138443	COCC4DRAFT_138443	hypothetical protein			Unknown							
+383855	Pseudocercospora fijiensis CIRAD86	19340874	0	live	MYCFIDRAFT_6572	MYCFIDRAFT_6572	hypothetical protein	hypothetical protein		Unknown							
+665912	Bipolaris sorokiniana ND90Pr	19141771	0	live	COCSADRAFT_98112	COCSADRAFT_98112	hypothetical protein	hypothetical protein		Unknown							
+717646	Baudoinia panamericana UAMH 10762	19109112	0	live	BAUCODRAFT_151165	BAUCODRAFT_151165	hypothetical protein	hypothetical protein		Unknown							
+280036	Sporisorium graminicola	40723239	0	live	EX895_000344	EX895_000344	hypothetical protein	hypothetical protein		SGRAM_1	NC_043719.1	866801	868111	minus	1		
+156630	Alternaria arborescens	39621614	0	live	AA0111_g586	AA0111_g586	hypothetical protein	hypothetical protein		Unknown							
+105984	Apiotrichum porosum	39592920	0	live	EHS24_008377	EHS24_008377	hypothetical protein	hypothetical protein		Unknown							
+41047	Aspergillus thermomutatus	38125850	0	live	CDV56_103876	CDV56_103876	hypothetical protein	hypothetical protein		Unknown							
+56646	Fusarium venenatum	37256550	0	live	FVRRES_04911	FVRRES_04911	hypothetical protein	hypothetical protein		II	NC_038013.1	1320633	1322399	minus	5		
+983964	Trichoderma harzianum CBS 226.95	36625790	0	live	M431DRAFT_494213	M431DRAFT_494213	hypothetical protein	hypothetical protein		Unknown							
+1042311	Trichoderma asperellum CBS 433.97	36607814	0	live	M441DRAFT_133608	M441DRAFT_133608	hypothetical protein	hypothetical protein		Unknown							
+670580	Postia placenta MAD-698-R-SB12	36331360	0	live	POSPLADRAFT_1150373	POSPLADRAFT_1150373	hypothetical protein	hypothetical protein		Unknown							
+655981	Pseudogymnoascus destructans	36288469	0	live	VC83_05403	VC83_05403	hypothetical protein	hypothetical protein		Unknown							
+1073090	Penicilliopsis zonata CBS 506.65	34609548	0	live	ASPZODRAFT_132659	ASPZODRAFT_132659	hypothetical protein			Unknown							
+254056	Fonsecaea monophora	34603960	0	live	AYO21_08817	AYO21_08817	hypothetical protein			Unknown							
+856822	Fonsecaea nubica	34584793	0	live	AYO20_01369	AYO20_01369	hypothetical protein			Unknown							
+1209926	Colletotrichum orchidophilum	34561538	0	live	CORC01_08397	CORC01_08397	hypothetical protein			Unknown							
+1382522	Kuraishia capsulata CBS 1993	34523320	0	live	KUCA_T00005945001	KUCA_T00005945001	hypothetical protein	hypothetical protein		Unknown							
+1160497	Aspergillus glaucus CBS 516.65	34465529	0	live	ASPGLDRAFT_68496	ASPGLDRAFT_68496	hypothetical protein			Unknown							
+690307	Aspergillus aculeatus ATCC 16872	30972231	0	live	ASPACDRAFT_18863	ASPACDRAFT_18863	hypothetical protein	hypothetical protein		Unknown							
+1442371	Fonsecaea multimorphosa CBS 102226	27709085	0	live	Z520_03339	Z520_03339	hypothetical protein			Unknown							
+1442370	Cladophialophora bantiana CBS 173.52	27700626	0	live	Z519_07698	Z519_07698	hypothetical protein			Unknown							
+645134	Spizellomyces punctatus DAOM BR117	27687689	0	live	SPPG_04228	SPPG_04228	hypothetical protein			Unknown							
+645134	Spizellomyces punctatus DAOM BR117	27685455	0	live	SPPG_01818	SPPG_01818	hypothetical protein			Unknown							
+253628	Verruconis gallopava	27309079	0	live	PV09_01106	PV09_01106	hypothetical protein			Unknown							
+1442369	Rhinocladiella mackenziei CBS 650.93	25296297	0	live	Z518_08226	Z518_08226	hypothetical protein			Unknown							
+1182545	Exophiala aquamarina CBS 119918	25279535	0	live	A1O9_04606	A1O9_04606	hypothetical protein			Unknown							
+645133	Colletotrichum graminicola M1.001	24415150	0	live	GLRG_09785	GLRG_09785	hypothetical protein										
+756982	Arthrobotrys oligospora ATCC 24927	22889856	0	live	AOL_s00043g172	AOL_s00043g172	hypothetical protein			Unknown							
+691883	Fonticula alba	20528075	0	live	H696_03350	H696_03350	hypothetical protein			Unknown							
+858893	Exophiala dermatitidis NIH/UT8656	20311649	0	live	HMPREF1120_07010	HMPREF1120_07010	hypothetical protein			Unknown							
+1279043	Cladophialophora carrionii CBS 160.54	19985434	0	live	G647_06941	G647_06941	hypothetical protein			Unknown							
+1168221	Coniosporium apollinis CBS 100218	19904346	0	live	W97_07035	W97_07035	hypothetical protein			Unknown							
+1229662	Pestalotiopsis fici W106-1	19275051	0	live	PFICI_10038	PFICI_10038	hypothetical protein			Unknown							
+1182543	Cladophialophora psammophila CBS 110553	19192572	0	live	A1O5_07867	A1O5_07867	hypothetical protein										
+1182544	Cladophialophora yegresii CBS 114405	19180172	0	live	A1O7_05589	A1O7_05589	hypothetical protein										
+1182542	Capronia epimyces CBS 606.96	19171188	0	live	A1O3_07084	A1O3_07084	hypothetical protein										
+1182541	Capronia coronata CBS 617.96	19158349	0	live	A1O1_03455	A1O1_03455	hypothetical protein										
+747676	Melampsora larici-populina 98AG31	18932014	0	live	MELLADRAFT_72106	MELLADRAFT_72106	hypothetical protein	hypothetical protein		Unknown							
+684364	Batrachochytrium dendrobatidis JAM81	18243191	0	live	BATDEDRAFT_8853	BATDEDRAFT_8853	hypothetical protein	hypothetical protein		Unknown							
+684364	Batrachochytrium dendrobatidis JAM81	18242676	0	live	BATDEDRAFT_87126	BATDEDRAFT_87126	hypothetical protein	hypothetical protein		Unknown							
+261658	Dictyostelium fasciculatum	14876645	0	live	DFA_03647	DFA_03647	hypothetical protein			Unknown							
+418459	Puccinia graminis f. sp. tritici CRL 75-36-700-3	10526714	0	live	PGTG_10905	PGTG_10905	hypothetical protein										
+535722	Nannizzia gypsea CBS 118893	10025186	0	live	MGYG_08125	MGYG_08125	hypothetical protein			Unknown							
+663202	Trichophyton verrucosum HKI 0517	9579334	0	live	TRV_07821	TRV_07821	hypothetical protein										
+663331	Trichophyton benhamiae CBS 112371	9526331	0	live	ARB_05147	ARB_05147	hypothetical protein			Unknown							
+321614	Parastagonospora nodorum SN15	5975275	0	live	SNOG_08050	SNOG_08050	hypothetical protein			Unknown							
+665079	Sclerotinia sclerotiorum 1980 UF-70	5490599	0	live	SS1G_04466	SS1G_04466	hypothetical protein			Unknown							
+306901	Chaetomium globosum CBS 148.51	4395785	0	live	CHGG_08846	CHGG_08846	hypothetical protein										
+559292	Saccharomyces cerevisiae S288C	852705	0	live	SPO74	YGL170C	Spo74p	Spo74p		VII	NC_001139.9	184153	185394	minus	1		
+559292	Saccharomyces cerevisiae S288C	851398	0	live	YDL157C	YDL157C	hypothetical protein	hypothetical protein		IV	NC_001136.10	174232	174588	minus	1		
+559292	Saccharomyces cerevisiae S288C	856200	0	live	ASA1	YPR085C	Asa1p	Asa1p		XVI	NC_001148.4	708497	709828	minus	1		
+559292	Saccharomyces cerevisiae S288C	856066	0	live	MRX11	YPL041C	Mrx11p	Mrx11p		XVI	NC_001148.4	475118	475741	minus	1		
+559292	Saccharomyces cerevisiae S288C	850439	0	live	FUB1	YCR076C	Fub1p	Fub1p		III	NC_001135.5	249293	250045	minus	1		
+4896	Schizosaccharomyces pombe	2543058	0	live	dss1	SPAC3G6.02	mRNA export protein Dss1	mRNA export protein Dss1		I	NC_003424.3	5383013	5383811	plus	3		
+559292	Saccharomyces cerevisiae S288C	856111	0	live	YPR003C	YPR003C	hypothetical protein	hypothetical protein		XVI	NC_001148.4	561504	563768	minus	1		
+559292	Saccharomyces cerevisiae S288C	851106	0	live	ECM19	YLR390W	Ecm19p	Ecm19p		XII	NC_001144.5	903066	903404	plus	1		
+5480	Candida parapsilosis	3293225	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Monilia parapsilosis; Mycocandida parapsilosis; Mycotorula parapsilopsis).										
+559292	Saccharomyces cerevisiae S288C	853280	0	live	PIR5	YJL160C	beta-1,3-glucan linked protein	beta-1,3-glucan linked protein		X	NC_001142.9	117962	118825	minus	1		
+559292	Saccharomyces cerevisiae S288C	854636	0	live	HXT12	YIL170W				IX	NC_001141.2	19847	21220	plus	0		
+559292	Saccharomyces cerevisiae S288C	853822	0	live	MMO1	YKL044W	Mmo1p	Mmo1p		XI	NC_001143.9	356322	356642	plus	1		
+559292	Saccharomyces cerevisiae S288C	855526	0	live	YNL195C	YNL195C	hypothetical protein	hypothetical protein		XIV	NC_001146.8	271523	272308	minus	1		
+139825	Sparassis crispa	38776714	0	live	SCP_0209980	SCP_0209980	Mitochondrial genome maintenance protein	Mitochondrial genome maintenance protein		Unknown							
+45286	Eremothecium sinecaudum	28724244	0	live	AW171_hschr52901	AW171_hschr52901	HEL309Wp			V	NC_030896.1	77824	78579	plus	1		
+460523	Ogataea polymorpha	28921070	0	live	OGAPODRAFT_46566	OGAPODRAFT_46566	hypothetical protein	hypothetical protein		Unknown							
+4909	Pichia kudriavzevii	40383357	0	live	C5L36_0B08380	C5L36_0B08380	hypothetical protein	hypothetical protein		2	NC_042507.1	1788829	1789674	minus	1		
