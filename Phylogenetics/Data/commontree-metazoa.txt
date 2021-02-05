@@ -1,0 +1,902 @@
+Metazoa
+++Porifera
+| \-Amphimedon queenslandica
+++Priapulida
+| \-Priapulus caudatus
+++Placozoa
+| \-Trichoplax adhaerens
+++Hemichordata
+| \-Saccoglossus kowalevskii
++-Chordata
+| ++Cladistia
+| | \-Erpetoichthys calabaricus
+| +-Mammalia
+| | ++Dermoptera
+| | | \-Galeopterus variegatus
+| | ++Scandentia
+| | | \-Tupaia chinensis
+| | ++Chrysochloridae
+| | | \-Chrysochloris asiatica
+| | ++Diprotodontia
+| | | \-Phascolarctos cinereus
+| | ++Macroscelidea
+| | | \-Elephantulus edwardii
+| | ++Didelphimorphia
+| | | \-Monodelphis domestica
+| | +-Rodentia
+| | | ++Spalacidae
+| | | | \-Nannospalax galili
+| | | ++Castoridae
+| | | | \-Castor canadensis
+| | | ++Dipodidae
+| | | | \-Jaculus jaculus
+| | | ++Chinchillidae
+| | | | \-Chinchilla lanigera
+| | | +-Bathyergidae
+| | | | +-Fukomys
+| | | | | \-Fukomys damarensis
+| | | | \-Heterocephalus
+| | | |   \-Heterocephalus glaber
+| | | ++Octodontidae
+| | | | \-Octodon degus
+| | | ++Caviidae
+| | | | \-Cavia porcellus
+| | | +-Muridae
+| | | | +-Grammomys
+| | | | | \-Grammomys surdaster
+| | | | +-Rattus
+| | | | | \-Rattus norvegicus
+| | | | +-Mus
+| | | | | +-Mus pahari
+| | | | | +-Mus musculus
+| | | | | \-Mus caroli
+| | | | \-Meriones
+| | | |   \-Meriones unguiculatus
+| | | +-Cricetidae
+| | | | +-Microtus
+| | | | | \-Microtus ochrogaster
+| | | | +-Peromyscus
+| | | | | +-Peromyscus maniculatus
+| | | | | \-Peromyscus leucopus
+| | | | +-Mesocricetus
+| | | | | \-Mesocricetus auratus
+| | | | \-Cricetulus
+| | | |   \-Cricetulus griseus
+| | | ++Heteromyidae
+| | | | \-Dipodomys ordii
+| | | \-Sciuridae
+| | |   +-Ictidomys
+| | |   | \-Ictidomys tridecemlineatus
+| | |   +-Urocitellus
+| | |   | \-Urocitellus parryii
+| | |   \-Marmota
+| | |     \-Marmota marmota
+| | +-Lagomorpha
+| | | ++Leporidae
+| | | | \-Oryctolagus cuniculus
+| | | \+Ochotonidae
+| | |   \-Ochotona princeps
+| | ++Tubulidentata
+| | | \-Orycteropus afer
+| | +-Perissodactyla
+| | | ++Rhinocerotidae
+| | | | \-Ceratotherium simum
+| | | \-Equidae
+| | |   \-Equus
+| | |     +-Equus przewalskii
+| | |     +-Equus caballus
+| | |     \-Equus asinus
+| | ++Proboscidea
+| | | \-Loxodonta africana
+| | ++Sirenia
+| | | \-Trichechus manatus
+| | +-Artiodactyla
+| | | ++Phocoenidae
+| | | | \-Neophocaena asiaeorientalis
+| | | ++Lipotidae
+| | | | \-Lipotes vexillifer
+| | | +-Bovidae
+| | | | +-Bubalus
+| | | | | \-Bubalus bubalis
+| | | | +-Ovis
+| | | | | \-Ovis aries
+| | | | +-Capra
+| | | | | \-Capra hircus
+| | | | +-Bos
+| | | | | +-Bos mutus
+| | | | | +-Bos indicus
+| | | | | \-Bos taurus
+| | | | \-Bison
+| | | |   \-Bison bison
+| | | ++Cervidae
+| | | | \-Odocoileus virginianus
+| | | +-Camelidae
+| | | | +-Vicugna
+| | | | | \-Vicugna pacos
+| | | | \-Camelus
+| | | |   +-Camelus ferus
+| | | |   +-Camelus dromedarius
+| | | |   \-Camelus bactrianus
+| | | ++Suidae
+| | | | \-Sus scrofa
+| | | ++Balaenopteridae
+| | | | \-Balaenoptera acutorostrata
+| | | ++Physeteridae
+| | | | \-Physeter catodon
+| | | +-Monodontidae
+| | | | +-Monodon
+| | | | | \-Monodon monoceros
+| | | | \-Delphinapterus
+| | | |   \-Delphinapterus leucas
+| | | \-Delphinidae
+| | |   +-Lagenorhynchus
+| | |   | \-Lagenorhynchus obliquidens
+| | |   +-Tursiops
+| | |   | \-Tursiops truncatus
+| | |   \-Orcinus
+| | |     \-Orcinus orca
+| | +-Carnivora
+| | | +-Phocidae
+| | | | +-Neomonachus
+| | | | | \-Neomonachus schauinslandi
+| | | | \-Leptonychotes
+| | | |   \-Leptonychotes weddellii
+| | | ++Odobenidae
+| | | | \-Odobenus rosmarus
+| | | +-Otariidae
+| | | | +-Eumetopias
+| | | | | \-Eumetopias jubatus
+| | | | +-Callorhinus
+| | | | | \-Callorhinus ursinus
+| | | | \-Zalophus
+| | | |   \-Zalophus californianus
+| | | +-Felidae
+| | | | +-Acinonyx
+| | | | | \-Acinonyx jubatus
+| | | | +-Puma
+| | | | | \-Puma concolor
+| | | | +-Panthera
+| | | | | \-Panthera tigris
+| | | | \-Felis
+| | | |   \-Felis catus
+| | | +-Mustelidae
+| | | | +-Enhydra
+| | | | | \-Enhydra lutris
+| | | | \-Mustela
+| | | |   \-Mustela putorius
+| | | +-Ursidae
+| | | | +-Ailuropoda
+| | | | | \-Ailuropoda melanoleuca
+| | | | \-Ursus
+| | | |   +-Ursus maritimus
+| | | |   \-Ursus arctos
+| | | \-Canidae
+| | |   +-Vulpes
+| | |   | \-Vulpes vulpes
+| | |   \-Canis
+| | |     \-Canis lupus
+| | +-Primates
+| | | ++Tarsiidae
+| | | | \-Carlito syrichta
+| | | ++Indriidae
+| | | | \-Propithecus coquereli
+| | | ++Hylobatidae
+| | | | \-Nomascus leucogenys
+| | | ++Aotidae
+| | | | \-Aotus nancymaae
+| | | ++Galagidae
+| | | | \-Otolemur garnettii
+| | | ++Cheirogaleidae
+| | | | \-Microcebus murinus
+| | | +-Hominidae
+| | | | +-Homo
+| | | | | \-Homo sapiens
+| | | | +-Pongo
+| | | | | \-Pongo abelii
+| | | | \-Pan
+| | | |   +-Pan troglodytes
+| | | |   \-Pan paniscus
+| | | +-Cercopithecidae
+| | | | +-Piliocolobus
+| | | | | \-Piliocolobus tephrosceles
+| | | | +-Rhinopithecus
+| | | | | +-Rhinopithecus roxellana
+| | | | | \-Rhinopithecus bieti
+| | | | +-Chlorocebus
+| | | | | \-Chlorocebus sabaeus
+| | | | +-Colobus
+| | | | | \-Colobus angolensis
+| | | | +-Mandrillus
+| | | | | \-Mandrillus leucophaeus
+| | | | +-Theropithecus
+| | | | | \-Theropithecus gelada
+| | | | +-Papio
+| | | | | \-Papio anubis
+| | | | +-Macaca
+| | | | | +-Macaca nemestrina
+| | | | | +-Macaca mulatta
+| | | | | \-Macaca fascicularis
+| | | | \-Cercocebus
+| | | |   \-Cercocebus atys
+| | | \-Cebidae
+| | |   +-Saimiri
+| | |   | \-Saimiri boliviensis
+| | |   \-Callithrix
+| | |     \-Callithrix jacchus
+| | +-Chiroptera
+| | | +-Vespertilionidae
+| | | | +-Miniopterus
+| | | | | \-Miniopterus natalensis
+| | | | +-Myotis
+| | | | | +-Myotis davidii
+| | | | | +-Myotis brandtii
+| | | | | \-Myotis lucifugus
+| | | | \-Eptesicus
+| | | |   \-Eptesicus fuscus
+| | | +-Phyllostomidae
+| | | | +-Phyllostomus
+| | | | | \-Phyllostomus discolor
+| | | | \-Desmodus
+| | | |   \-Desmodus rotundus
+| | | \-Pteropodidae
+| | |   +-Rousettus
+| | |   | \-Rousettus aegyptiacus
+| | |   \-Pteropus
+| | |     +-Pteropus vampyrus
+| | |     \-Pteropus alecto
+| | ++Tenrecidae
+| | | \-Echinops telfairi
+| | +-Eulipotyphla
+| | | ++Talpidae
+| | | | \-Condylura cristata
+| | | ++Soricidae
+| | | | \-Sorex araneus
+| | | \+Erinaceidae
+| | |   \-Erinaceus europaeus
+| | ++Cingulata
+| | | \-Dasypus novemcinctus
+| | ++Dasyuromorphia
+| | | \-Sarcophilus harrisii
+| | \+Monotremata
+| |   \-Ornithorhynchus anatinus
+| +-Aves
+| | ++Apterygiformes
+| | | \-Apteryx
+| | |   +-Apteryx mantelli
+| | |   \-Apteryx rowi
+| | ++Caprimulgiformes
+| | | \-Antrostomus carolinensis
+| | ++Ciconiiformes
+| | | \-Pterocles gutturalis
+| | ++Bucerotiformes
+| | | \-Buceros rhinoceros
+| | ++Musophagiformes
+| | | \-Tauraco erythrolophus
+| | ++Piciformes
+| | | \-Picoides pubescens
+| | +-Coraciiformes
+| | | ++Leptosomidae
+| | | | \-Leptosomus discolor
+| | | \+Meropidae
+| | |   \-Merops nubicus
+| | ++Coliiformes
+| | | \-Colius striatus
+| | ++Trogoniformes
+| | | \-Apaloderma vittatum
+| | +-Strigiformes
+| | | ++Strigidae
+| | | | \-Athene cunicularia
+| | | \+Tytonidae
+| | |   \-Tyto alba
+| | ++Cuculiformes
+| | | \-Cuculus canorus
+| | ++Cariamiformes
+| | | \-Cariama cristata
+| | +-Gruiformes
+| | | ++Gruidae
+| | | | \-Balearica regulorum
+| | | ++Otididae
+| | | | \-Chlamydotis macqueenii
+| | | ++Eurypygidae
+| | | | \-Eurypyga helias
+| | | \+Mesitornithidae
+| | |   \-Mesitornis unicolor
+| | +-Charadriiformes
+| | | ++Scolopacidae
+| | | | \-Calidris pugnax
+| | | \+Charadriidae
+| | |   \-Charadrius vociferus
+| | ++Gaviiformes
+| | | \-Gavia stellata
+| | +-Tinamiformes
+| | | \-Tinamidae
+| | |   +-Tinamus
+| | |   | \-Tinamus guttatus
+| | |   \-Nothoprocta
+| | |     \-Nothoprocta perdicaria
+| | ++Procellariiformes
+| | | \-Fulmarus glacialis
+| | ++Opisthocomiformes
+| | | \-Opisthocomus hoazin
+| | +-Psittaciformes
+| | | ++Psittacidae
+| | | | \-Nestor notabilis
+| | | \+Psittaculidae
+| | |   \-Melopsittacus undulatus
+| | +-Sphenisciformes
+| | | \-Spheniscidae
+| | |   +-Pygoscelis
+| | |   | \-Pygoscelis adeliae
+| | |   \-Aptenodytes
+| | |     \-Aptenodytes forsteri
+| | +-Pelecaniformes
+| | | ++Ardeidae
+| | | | \-Egretta garzetta
+| | | ++Threskiornithidae
+| | | | \-Nipponia nippon
+| | | ++Phaethontidae
+| | | | \-Phaethon lepturus
+| | | ++Pelecanidae
+| | | | \-Pelecanus crispus
+| | | \+Phalacrocoracidae
+| | |   \-Phalacrocorax carbo
+| | +-Passeriformes
+| | | +-Pipridae
+| | | | +-Manacus
+| | | | | \-Manacus vitellinus
+| | | | \-Lepidothrix
+| | | |   \-Lepidothrix coronata
+| | | +-Corvidae
+| | | | \-Corvus
+| | | |   +-Corvus cornix
+| | | |   \-Corvus brachyrhynchos
+| | | ++Muscicapidae
+| | | | \-Ficedula albicollis
+| | | ++Acanthisittidae
+| | | | \-Acanthisitta chloris
+| | | ++Thraupidae
+| | | | \-Geospiza fortis
+| | | ++Passerellidae
+| | | | \-Zonotrichia albicollis
+| | | +-Estrildidae
+| | | | +-Taeniopygia
+| | | | | \-Taeniopygia guttata
+| | | | \-Lonchura
+| | | |   \-Lonchura striata
+| | | ++Sturnidae
+| | | | \-Sturnus vulgaris
+| | | +-Paridae
+| | | | +-Pseudopodoces
+| | | | | \-Pseudopodoces humilis
+| | | | +-Cyanistes
+| | | | | \-Cyanistes caeruleus
+| | | | \-Parus
+| | | |   \-Parus major
+| | | \+Fringillidae
+| | |   \-Serinus canaria
+| | +-Galliformes
+| | | +-Phasianidae
+| | | | +-Coturnix
+| | | | | \-Coturnix japonica
+| | | | +-Meleagris
+| | | | | \-Meleagris gallopavo
+| | | | \-Gallus
+| | | |   \-Gallus gallus
+| | | \+Numididae
+| | |   \-Numida meleagris
+| | ++Accipitriformes
+| | | \-Haliaeetus
+| | |   +-Haliaeetus leucocephalus
+| | |   \-Haliaeetus albicilla
+| | ++Falconiformes
+| | | \-Falco
+| | |   +-Falco cherrug
+| | |   \-Falco peregrinus
+| | ++Columbiformes
+| | | \-Columba livia
+| | +-Apodiformes
+| | | ++Trochilidae
+| | | | \-Calypte anna
+| | | \+Apodidae
+| | |   \-Chaetura pelagica
+| | +-Anseriformes
+| | | \-Anatidae
+| | |   +-Anser
+| | |   | \-Anser cygnoides
+| | |   \-Anas
+| | |     \-Anas platyrhynchos
+| | ++Struthioniformes
+| | | \-Struthio camelus
+| | \+Casuariiformes
+| |   \-Dromaius novaehollandiae
+| +-Lepidosauria
+| | \-Squamata
+| |   ++Pythonidae
+| |   | \-Python bivittatus
+| |   ++Gekkonidae
+| |   | \-Gekko japonicus
+| |   ++Viperidae
+| |   | \-Protobothrops mucrosquamatus
+| |   ++Agamidae
+| |   | \-Pogona vitticeps
+| |   ++Lacertidae
+| |   | \-Podarcis muralis
+| |   ++Colubridae
+| |   | \-Thamnophis sirtalis
+| |   ++Dactyloidae
+| |   | \-Anolis carolinensis
+| |   \-Elapidae
+| |     +-Pseudonaja
+| |     | \-Pseudonaja textilis
+| |     \-Notechis
+| |       \-Notechis scutatus
+| ++Crocodylia
+| | \-Alligator
+| |   +-Alligator sinensis
+| |   \-Alligator mississippiensis
+| +-Testudines
+| | ++Trionychidae
+| | | \-Pelodiscus sinensis
+| | +-Emydidae
+| | | +-Terrapene
+| | | | \-Terrapene carolina
+| | | \-Chrysemys
+| | |   \-Chrysemys picta
+| | \+Cheloniidae
+| |   \-Chelonia mydas
+| ++Amphibia
+| | \-Xenopus
+| |   +-Xenopus tropicalis
+| |   \-Xenopus laevis
+| +-Actinopteri
+| | ++Blenniiformes
+| | | \-Gouania willdenowi
+| | ++Sciaenidae
+| | | \-Larimichthys crocea
+| | ++Ambassidae
+| | | \-Parambassis ranga
+| | ++Anabantiformes
+| | | \-Betta splendens
+| | ++Gobiiformes
+| | | \-Boleophthalmus pectinirostris
+| | ++Osteoglossiformes
+| | | \-Scleropages formosus
+| | ++Syngnathiformes
+| | | \-Hippocampus comes
+| | +-Pomacentridae
+| | | +-Stegastes
+| | | | \-Stegastes partitus
+| | | +-Amphiprion
+| | | | \-Amphiprion ocellaris
+| | | \-Acanthochromis
+| | |   \-Acanthochromis polyacanthus
+| | ++Labriformes
+| | | \-Labrus bergylta
+| | +-Synbranchiformes
+| | | ++Mastacembelidae
+| | | | \-Mastacembelus armatus
+| | | \+Synbranchidae
+| | |   \-Monopterus albus
+| | ++Carangiformes
+| | | \-Seriola
+| | |   +-Seriola lalandi
+| | |   \-Seriola dumerili
+| | ++Tetraodontiformes
+| | | \-Takifugu rubripes
+| | +-Pleuronectiformes
+| | | ++Cynoglossidae
+| | | | \-Cynoglossus semilaevis
+| | | \+Paralichthyidae
+| | |   \-Paralichthys olivaceus
+| | +-Perciformes
+| | | ++Nototheniidae
+| | | | \-Notothenia coriiceps
+| | | \+Percidae
+| | |   \-Perca flavescens
+| | +-Cichliformes
+| | | \-Cichlidae
+| | |   +-Pundamilia
+| | |   | \-Pundamilia nyererei
+| | |   +-Maylandia
+| | |   | \-Maylandia zebra
+| | |   +-Neolamprologus
+| | |   | \-Neolamprologus brichardi
+| | |   +-Astatotilapia
+| | |   | \-Astatotilapia calliptera
+| | |   +-Haplochromis
+| | |   | \-Haplochromis burtoni
+| | |   \-Oreochromis
+| | |     \-Oreochromis niloticus
+| | ++Beloniformes
+| | | \-Oryzias
+| | |   +-Oryzias melastigma
+| | |   \-Oryzias latipes
+| | +-Cyprinodontiformes
+| | | ++Nothobranchiidae
+| | | | \-Nothobranchius furzeri
+| | | +-Rivulidae
+| | | | +-Austrofundulus
+| | | | | \-Austrofundulus limnaeus
+| | | | \-Kryptolebias
+| | | |   \-Kryptolebias marmoratus
+| | | ++Cyprinodontidae
+| | | | \-Cyprinodon variegatus
+| | | +-Poeciliidae
+| | | | +-Xiphophorus
+| | | | | +-Xiphophorus couchianus
+| | | | | \-Xiphophorus maculatus
+| | | | \-Poecilia
+| | | |   +-Poecilia mexicana
+| | | |   +-Poecilia latipinna
+| | | |   +-Poecilia formosa
+| | | |   \-Poecilia reticulata
+| | | \+Fundulidae
+| | |   \-Fundulus heteroclitus
+| | +-Salmoniformes
+| | | \-Salmonidae
+| | |   +-Salvelinus
+| | |   | \-Salvelinus alpinus
+| | |   +-Salmo
+| | |   | \-Salmo salar
+| | |   \-Oncorhynchus
+| | |     +-Oncorhynchus tshawytscha
+| | |     +-Oncorhynchus mykiss
+| | |     \-Oncorhynchus kisutch
+| | ++Esociformes
+| | | \-Esox lucius
+| | ++Gymnotiformes
+| | | \-Electrophorus electricus
+| | +-Siluriformes
+| | | ++Pangasiidae
+| | | | \-Pangasianodon hypophthalmus
+| | | \+Ictaluridae
+| | |   \-Ictalurus punctatus
+| | ++Characiformes
+| | | \-Astyanax mexicanus
+| | ++Cypriniformes
+| | | \-Danio rerio
+| | +-Clupeiformes
+| | | ++Denticipitidae
+| | | | \-Denticeps clupeoides
+| | | \+Clupeidae
+| | |   \-Clupea harengus
+| | \+Semionotiformes
+| |   \-Lepisosteus oculatus
+| ++Coelacanthimorpha
+| | \-Latimeria chalumnae
+| +-Chondrichthyes
+| | ++Orectolobiformes
+| | | \-Rhincodon typus
+| | \+Chimaeriformes
+| |   \-Callorhinchus milii
+| \+Ascidiacea
+|   \-Ciona intestinalis
++-Echinodermata
+| ++Asteroidea
+| | \-Acanthaster planci
+| \+Echinoidea
+|   \-Strongylocentrotus purpuratus
+++Brachiopoda
+| \-Lingula anatina
++-Arthropoda
+| ++Collembola
+| | \-Folsomia candida
+| ++Hexanauplia
+| | \-Eurytemora affinis
+| +-Insecta
+| | ++Thysanoptera
+| | | \-Frankliniella occidentalis
+| | ++Phthiraptera
+| | | \-Pediculus humanus
+| | +-Blattodea
+| | | ++Termopsidae
+| | | | \-Zootermopsis nevadensis
+| | | \+Kalotermitidae
+| | |   \-Cryptotermes secundus
+| | ++Siphonaptera
+| | | \-Ctenocephalides felis
+| | +-Hymenoptera
+| | | ++Diprionidae
+| | | | \-Neodiprion lecontei
+| | | ++Orussidae
+| | | | \-Orussus abietinus
+| | | ++Cephidae
+| | | | \-Cephus cinctus
+| | | ++Halictidae
+| | | | \-Dufourea novaeangliae
+| | | +-Megachilidae
+| | | | +-Osmia
+| | | | | \-Osmia bicornis
+| | | | \-Megachile
+| | | |   \-Megachile rotundata
+| | | ++Agaonidae
+| | | | \-Ceratosolen solmsi
+| | | +-Vespidae
+| | | | \-Polistes
+| | | |   +-Polistes dominula
+| | | |   \-Polistes canadensis
+| | | +-Braconidae
+| | | | +-Diachasma
+| | | | | \-Diachasma alloeum
+| | | | +-Microplitis
+| | | | | \-Microplitis demolitor
+| | | | \-Fopius
+| | | |   \-Fopius arisanus
+| | | ++Tenthredinidae
+| | | | \-Athalia rosae
+| | | ++Encyrtidae
+| | | | \-Copidosoma floridanum
+| | | +-Formicidae
+| | | | +-Ooceraea
+| | | | | \-Ooceraea biroi
+| | | | +-Nylanderia
+| | | | | \-Nylanderia fulva
+| | | | +-Harpegnathos
+| | | | | \-Harpegnathos saltator
+| | | | +-Dinoponera
+| | | | | \-Dinoponera quadriceps
+| | | | +-Vollenhovia
+| | | | | \-Vollenhovia emeryi
+| | | | +-Monomorium
+| | | | | \-Monomorium pharaonis
+| | | | +-Temnothorax
+| | | | | \-Temnothorax curvispinosus
+| | | | +-Pseudomyrmex
+| | | | | \-Pseudomyrmex gracilis
+| | | | +-Pogonomyrmex
+| | | | | \-Pogonomyrmex barbatus
+| | | | +-Camponotus
+| | | | | \-Camponotus floridanus
+| | | | +-Acromyrmex
+| | | | | \-Acromyrmex echinatior
+| | | | +-Linepithema
+| | | | | \-Linepithema humile
+| | | | +-Wasmannia
+| | | | | \-Wasmannia auropunctata
+| | | | +-Solenopsis
+| | | | | \-Solenopsis invicta
+| | | | \-Atta
+| | | |   \-Atta cephalotes
+| | | ++Trichogrammatidae
+| | | | \-Trichogramma pretiosum
+| | | +-Apidae
+| | | | +-Ceratina
+| | | | | \-Ceratina calcarata
+| | | | +-Bombus
+| | | | | +-Bombus impatiens
+| | | | | \-Bombus terrestris
+| | | | \-Apis
+| | | |   +-Apis florea
+| | | |   +-Apis dorsata
+| | | |   +-Apis cerana
+| | | |   \-Apis mellifera
+| | | \+Pteromalidae
+| | |   \-Nasonia vitripennis
+| | +-Diptera
+| | | ++Calliphoridae
+| | | | \-Lucilia cuprina
+| | | +-Muscidae
+| | | | +-Stomoxys
+| | | | | \-Stomoxys calcitrans
+| | | | \-Musca
+| | | |   \-Musca domestica
+| | | +-Drosophilidae
+| | | | \-Drosophila
+| | | |   +-Drosophila bipectinata
+| | | |   +-Drosophila kikkawai
+| | | |   +-Drosophila elegans
+| | | |   +-Drosophila takahashii
+| | | |   +-Drosophila eugracilis
+| | | |   +-Drosophila obscura
+| | | |   +-Drosophila serrata
+| | | |   +-Drosophila willistoni
+| | | |   +-Drosophila yakuba
+| | | |   +-Drosophila virilis
+| | | |   +-Drosophila simulans
+| | | |   +-Drosophila sechellia
+| | | |   +-Drosophila pseudoobscura
+| | | |   +-Drosophila persimilis
+| | | |   +-Drosophila navojoa
+| | | |   +-Drosophila mojavensis
+| | | |   +-Drosophila miranda
+| | | |   +-Drosophila melanogaster
+| | | |   +-Drosophila hydei
+| | | |   +-Drosophila grimshawi
+| | | |   +-Drosophila erecta
+| | | |   \-Drosophila ananassae
+| | | +-Tephritidae
+| | | | +-Zeugodacus
+| | | | | \-Zeugodacus cucurbitae
+| | | | +-Bactrocera
+| | | | | +-Bactrocera latifrons
+| | | | | +-Bactrocera oleae
+| | | | | \-Bactrocera dorsalis
+| | | | \-Ceratitis
+| | | |   \-Ceratitis capitata
+| | | \-Culicidae
+| | |   +-Culex
+| | |   | \-Culex quinquefasciatus
+| | |   +-Anopheles
+| | |   | \-Anopheles gambiae
+| | |   \-Aedes
+| | |     \-Aedes aegypti
+| | +-Lepidoptera
+| | | +-Nymphalidae
+| | | | +-Vanessa
+| | | | | \-Vanessa tameamea
+| | | | \-Bicyclus
+| | | |   \-Bicyclus anynana
+| | | ++Crambidae
+| | | | \-Ostrinia furnacalis
+| | | +-Papilionidae
+| | | | \-Papilio
+| | | |   +-Papilio polytes
+| | | |   +-Papilio machaon
+| | | |   \-Papilio xuthus
+| | | ++Pieridae
+| | | | \-Pieris rapae
+| | | ++Plutellidae
+| | | | \-Plutella xylostella
+| | | +-Pyralidae
+| | | | +-Amyelois
+| | | | | \-Amyelois transitella
+| | | | \-Galleria
+| | | |   \-Galleria mellonella
+| | | +-Noctuidae
+| | | | +-Spodoptera
+| | | | | \-Spodoptera litura
+| | | | +-Helicoverpa
+| | | | | \-Helicoverpa armigera
+| | | | \-Trichoplusia
+| | | |   \-Trichoplusia ni
+| | | \-Bombycidae
+| | |   \-Bombyx
+| | |     +-Bombyx mandarina
+| | |     \-Bombyx mori
+| | +-Coleoptera
+| | | ++Buprestidae
+| | | | \-Agrilus planipennis
+| | | ++Scarabaeidae
+| | | | \-Onthophagus taurus
+| | | ++Nitidulidae
+| | | | \-Aethina tumida
+| | | ++Curculionidae
+| | | | \-Dendroctonus ponderosae
+| | | +-Chrysomelidae
+| | | | +-Diabrotica
+| | | | | \-Diabrotica virgifera
+| | | | \-Leptinotarsa
+| | | |   \-Leptinotarsa decemlineata
+| | | \+Tenebrionidae
+| | |   \-Tribolium castaneum
+| | \-Hemiptera
+| |   ++Pentatomidae
+| |   | \-Halyomorpha halys
+| |   ++Liviidae
+| |   | \-Diaphorina citri
+| |   ++Delphacidae
+| |   | \-Nilaparvata lugens
+| |   ++Cimicidae
+| |   | \-Cimex lectularius
+| |   \-Aphididae
+| |     +-Melanaphis
+| |     | \-Melanaphis sacchari
+| |     +-Sipha
+| |     | \-Sipha flava
+| |     +-Diuraphis
+| |     | \-Diuraphis noxia
+| |     +-Rhopalosiphum
+| |     | \-Rhopalosiphum maidis
+| |     +-Myzus
+| |     | \-Myzus persicae
+| |     \-Acyrthosiphon
+| |       \-Acyrthosiphon pisum
+| +-Arachnida
+| | ++Scorpiones
+| | | \-Centruroides sculpturatus
+| | ++Araneae
+| | | \-Parasteatoda tepidariorum
+| | +-Mesostigmata
+| | | +-Varroidae
+| | | | \-Varroa
+| | | |   +-Varroa destructor
+| | | |   \-Varroa jacobsoni
+| | | \+Phytoseiidae
+| | |   \-Galendromus occidentalis
+| | ++Trombidiformes
+| | | \-Tetranychus urticae
+| | \+Ixodida
+| |   \-Ixodes scapularis
+| \+Merostomata
+|   \-Limulus polyphemus
++-Mollusca
+| ++Cephalopoda
+| | \-Octopus bimaculoides
+| +-Bivalvia
+| | ++Pectinoida
+| | | \-Mizuhopecten yessoensis
+| | \+Ostreoida
+| |   \-Crassostrea
+| |     +-Crassostrea gigas
+| |     \-Crassostrea virginica
+| \-Gastropoda
+|   ++Architaenioglossa
+|   | \-Pomacea canaliculata
+|   ++Lottiidae
+|   | \-Lottia gigantea
+|   ++Planorbidae
+|   | \-Biomphalaria glabrata
+|   \+Aplysiida
+|     \-Aplysia californica
+++Annelida
+| \-Helobdella robusta
++-Nematoda
+| ++Enoplea
+| | \-Trichinella spiralis
+| \-Chromadorea
+|   ++Strongylida
+|   | \-Necator americanus
+|   \-Rhabditida
+|     ++Strongyloididae
+|     | \-Strongyloides ratti
+|     +-Onchocercidae
+|     | +-Loa
+|     | | \-Loa loa
+|     | \-Brugia
+|     |   \-Brugia malayi
+|     \-Rhabditidae
+|       \-Caenorhabditis
+|         +-Caenorhabditis remanei
+|         +-Caenorhabditis elegans
+|         \-Caenorhabditis briggsae
++-Platyhelminthes
+| ++Cestoda
+| | \-Echinococcus granulosus
+| \-Trematoda
+|   ++Opisthorchiida
+|   | \-Opisthorchis viverrini
+|   \+Strigeidida
+|     \-Schistosoma haematobium
+\-Cnidaria
+  +-Anthozoa
+  | ++Helioporacea
+  | | \-Heliopora coerulea
+  | +-Scleractinia
+  | | ++Merulinidae
+  | | | \-Orbicella faveolata
+  | | +-Pocilloporidae
+  | | | +-Stylophora
+  | | | | \-Stylophora pistillata
+  | | | \-Pocillopora
+  | | |   \-Pocillopora damicornis
+  | | \-Acroporidae
+  | |   \-Acropora
+  | |     +-Acropora digitifera
+  | |     \-Acropora millepora
+  | +-Alcyonacea
+  | | +-Coralliidae
+  | | | +-Pleurocorallium
+  | | | | +-Pleurocorallium konojoi
+  | | | | \-Pleurocorallium elatius
+  | | | \-Corallium
+  | | |   \-Corallium rubrum
+  | | +-Nephtheidae
+  | | | \-Dendronephthya
+  | | |   +-Dendronephthya mollis
+  | | |   +-Dendronephthya gigantea
+  | | |   \-Dendronephthya putteri
+  | | +-Plexauridae
+  | | | +-Echinogorgia
+  | | | | \-Echinogorgia complexa
+  | | | \-Euplexaura
+  | | |   \-Euplexaura crassa
+  | | \+Isididae
+  | |   \-Acanella arbuscula
+  | \-Actiniaria
+  |   ++Edwardsiidae
+  |   | \-Nematostella vectensis
+  |   \+Actiniidae
+  |     \-Actinia tenebrosa
+  \+Hydrozoa
+    \-Hydra vulgaris
+-----------------------------------

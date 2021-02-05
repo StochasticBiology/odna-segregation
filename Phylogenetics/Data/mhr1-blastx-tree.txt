@@ -1,0 +1,338 @@
+Ascomycota
++-Dothideomycetes
+| ++Zopfiaceae
+| | \-Zopfia rhizophila CBS 207.26
+| +-Pleosporales
+| | +-Didymosphaeriaceae
+| | | ++Bimuria
+| | | | \-Bimuria novae-zelandiae CBS 107.79
+| | | \+Karstenula
+| | |   \-Karstenula rhodostoma CBS 690.94
+| | ++Sporormiaceae
+| | | \-Sporormia fimetaria CBS 119925
+| | ++Melanommataceae
+| | | \-Melanomma pulvis-pyrius CBS 109.77
+| | ++Pleomassariaceae
+| | | \-Pleomassaria siparia CBS 279.74
+| | \+Lophiotremataceae
+| |   \-Lophiotrema nucula
+| \-Gloniaceae
+|   ++Cenococcum
+|   | \-Cenococcum geophilum 1.58
+|   \-Glonium
+|     \-Glonium stellatum
+\-Saccharomycetes
+  \-Saccharomycetales
+    ++Kuraishia
+    | \-Kuraishia capsulata CBS 1993
+    ++Ascoideaceae
+    | \-Ascoidea rubescens DSM 1968
+    ++Nadsonia
+    | \-Nadsonia fulvescens var. elongata DSM 6958
+    ++Trigonopsidaceae
+    | \-Tortispora caseinolytica NRRL Y-17796
+    +-Trichomonascaceae
+    | +-Sugiyamaella
+    | | \-Sugiyamaella lignohabitans
+    | +-Wickerhamiella
+    | | \-Wickerhamiella sorbophila
+    | \-Trichomonascus
+    |   \-Trichomonascus ciferrii
+    +-Saccharomycodaceae
+    | +-Saccharomycodes
+    | | \-Saccharomycodes ludwigii
+    | \-Hanseniaspora
+    |   +-Hanseniaspora opuntiae
+    |   +-Hanseniaspora osmophila
+    |   +-Hanseniaspora guilliermondii
+    |   \-Hanseniaspora uvarum
+    |     \-Hanseniaspora uvarum DSM 2768
+    +-Metschnikowiaceae
+    | +-Clavispora
+    | | \-Clavispora lusitaniae
+    | |   \-Clavispora lusitaniae ATCC 42720
+    | \-Metschnikowia
+    |   +-Metschnikowia sp. JCM 33374
+    |   +-Metschnikowia aff. pulcherrima
+    |   \-Metschnikowia bicuspidata
+    |     \-Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993
+    +-Diutina
+    | \-Diutina rugosa
+    +-Debaryomycetaceae
+    | ++Suhomyces
+    | | \-Suhomyces tanzawaensis NRRL Y-17324
+    | ++Babjeviella
+    | | \-Babjeviella inositovora NRRL Y-12698
+    | ++Hyphopichia
+    | | \-Hyphopichia burtonii NRRL Y-1933
+    | +-Spathaspora
+    | | +-Spathaspora sp. JA1
+    | | \-Spathaspora passalidarum
+    | |   \-Spathaspora passalidarum NRRL Y-27907
+    | ++Yamadazyma
+    | | \-Yamadazyma tenuis ATCC 10573
+    | ++Millerozyma
+    | | \-Millerozyma farinosa CBS 7064
+    | ++Lodderomyces
+    | | \-Lodderomyces elongisporus NRRL YB-4239
+    | ++Scheffersomyces
+    | | \-Scheffersomyces stipitis CBS 6054
+    | +-Meyerozyma
+    | | +-Meyerozyma sp. JA9
+    | | \-Meyerozyma guilliermondii
+    | |   \-Meyerozyma guilliermondii ATCC 6260
+    | +-Debaryomyces
+    | | +-Debaryomyces hansenii
+    | | | \-Debaryomyces hansenii CBS767
+    | | \-Debaryomyces fabryi
+    | \-Candida
+    |   +-Candida maltosa
+    |   | \-Candida maltosa Xu316
+    |   +-Candida orthopsilosis
+    |   | \-Candida orthopsilosis Co 90-125
+    |   +-Candida dubliniensis
+    |   | \-Candida dubliniensis CD36
+    |   +-Candida tropicalis
+    |   | \-Candida tropicalis MYA-3404
+    |   +-Candida albicans
+    |   | +-Candida albicans Ca529L
+    |   | +-Candida albicans Ca6
+    |   | +-Candida albicans P78042
+    |   | +-Candida albicans P76067
+    |   | +-Candida albicans P76055
+    |   | +-Candida albicans P75063
+    |   | +-Candida albicans P57055
+    |   | +-Candida albicans P75016
+    |   | +-Candida albicans P75010
+    |   | +-Candida albicans P37039
+    |   | +-Candida albicans P37037
+    |   | +-Candida albicans P34048
+    |   | +-Candida albicans P57072
+    |   | +-Candida albicans P78048
+    |   | +-Candida albicans GC75
+    |   | +-Candida albicans 19F
+    |   | +-Candida albicans P60002
+    |   | +-Candida albicans P37005
+    |   | +-Candida albicans P87
+    |   | +-Candida albicans P94015
+    |   | +-Candida albicans L26
+    |   | +-Candida albicans 12C
+    |   | +-Candida albicans WO-1
+    |   | \-Candida albicans SC5314
+    |   +-Candida viswanathii
+    |   \-Candida parapsilosis
+    +-Dipodascaceae
+    | +-Saprochaete
+    | | \-Saprochaete ingens
+    | +-Geotrichum
+    | | \-Geotrichum candidum
+    | +-Galactomyces
+    | | \-Galactomyces reessii
+    | \-Yarrowia
+    |   \-Yarrowia lipolytica
+    |     \-Yarrowia lipolytica CLIB122
+    +-Saccharomycetaceae
+    | +-Kazachstania
+    | | +-Kazachstania saulgeensis
+    | | +-Kazachstania naganishii
+    | | | \-Kazachstania naganishii CBS 8797
+    | | \-Kazachstania africana
+    | |   \-Kazachstania africana CBS 2517
+    | +-Tetrapisispora
+    | | +-Tetrapisispora phaffii
+    | | | \-Tetrapisispora phaffii CBS 4417
+    | | \-Tetrapisispora blattae
+    | |   \-Tetrapisispora blattae CBS 6284
+    | +-Naumovozyma
+    | | +-Naumovozyma dairenensis
+    | | | \-Naumovozyma dairenensis CBS 421
+    | | \-Naumovozyma castellii
+    | |   \-Naumovozyma castellii CBS 4309
+    | ++Pachysolen
+    | | \-Pachysolen tannophilus NRRL Y-2460
+    | ++Vanderwaltozyma
+    | | \-Vanderwaltozyma polyspora DSM 70294
+    | +-Eremothecium
+    | | +-Eremothecium cymbalariae
+    | | | \-Eremothecium cymbalariae DBVPG#7215
+    | | +-Eremothecium gossypii
+    | | | +-Eremothecium gossypii FDAG1
+    | | | \-Eremothecium gossypii ATCC 10895
+    | | \-Eremothecium sinecaudum
+    | +-Lachancea
+    | | +-Lachancea quebecensis
+    | | +-Lachancea meyersii
+    | | | \-Lachancea meyersii CBS 8951
+    | | +-Lachancea nothofagi
+    | | | \-Lachancea nothofagi CBS 11611
+    | | +-Lachancea dasiensis
+    | | | \-Lachancea dasiensis CBS 10888
+    | | +-Lachancea lanzarotensis
+    | | +-Lachancea mirantina
+    | | +-Lachancea thermotolerans
+    | | | \-Lachancea thermotolerans CBS 6340
+    | | +-Lachancea sp. PJ-2012a
+    | | | \-Lachancea sp. CBS 6924
+    | | \-Lachancea fermentati
+    | +-Zygosaccharomyces
+    | | +-Zygosaccharomyces parabailii
+    | | +-Zygosaccharomyces mellis
+    | | +-Zygosaccharomyces rouxii
+    | | \-Zygosaccharomyces bailii
+    | |   +-Zygosaccharomyces bailii ISA1307
+    | |   \-Zygosaccharomyces bailii CLIB 213
+    | +-Torulaspora
+    | | \-Torulaspora delbrueckii
+    | +-Saccharomyces
+    | | +-Saccharomyces arboricola
+    | | | \-Saccharomyces arboricola H-6
+    | | +-Saccharomyces cerevisiae x Saccharomyces kudriavzevii
+    | | | \-Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7
+    | | +-Saccharomyces eubayanus
+    | | +-Saccharomyces kudriavzevii
+    | | | \-Saccharomyces kudriavzevii IFO 1802
+    | | +-Saccharomyces pastorianus
+    | | +-Saccharomyces paradoxus
+    | | \-Saccharomyces cerevisiae
+    | |   +-Saccharomyces cerevisiae YJM1078
+    | |   +-Saccharomyces cerevisiae YJM1615
+    | |   +-Saccharomyces cerevisiae YJM1592
+    | |   +-Saccharomyces cerevisiae YJM1574
+    | |   +-Saccharomyces cerevisiae YJM1573
+    | |   +-Saccharomyces cerevisiae YJM1549
+    | |   +-Saccharomyces cerevisiae YJM1527
+    | |   +-Saccharomyces cerevisiae YJM1526
+    | |   +-Saccharomyces cerevisiae YJM1479
+    | |   +-Saccharomyces cerevisiae YJM1478
+    | |   +-Saccharomyces cerevisiae YJM1477
+    | |   +-Saccharomyces cerevisiae YJM1460
+    | |   +-Saccharomyces cerevisiae YJM1450
+    | |   +-Saccharomyces cerevisiae YJM1447
+    | |   +-Saccharomyces cerevisiae YJM1444
+    | |   +-Saccharomyces cerevisiae YJM1443
+    | |   +-Saccharomyces cerevisiae YJM1439
+    | |   +-Saccharomyces cerevisiae YJM1434
+    | |   +-Saccharomyces cerevisiae YJM1433
+    | |   +-Saccharomyces cerevisiae YJM1419
+    | |   +-Saccharomyces cerevisiae YJM1418
+    | |   +-Saccharomyces cerevisiae YJM1417
+    | |   +-Saccharomyces cerevisiae YJM1415
+    | |   +-Saccharomyces cerevisiae YJM1402
+    | |   +-Saccharomyces cerevisiae YJM1401
+    | |   +-Saccharomyces cerevisiae YJM1400
+    | |   +-Saccharomyces cerevisiae YJM1399
+    | |   +-Saccharomyces cerevisiae YJM1389
+    | |   +-Saccharomyces cerevisiae YJM1388
+    | |   +-Saccharomyces cerevisiae YJM1387
+    | |   +-Saccharomyces cerevisiae YJM1386
+    | |   +-Saccharomyces cerevisiae YJM1385
+    | |   +-Saccharomyces cerevisiae YJM1383
+    | |   +-Saccharomyces cerevisiae YJM1381
+    | |   +-Saccharomyces cerevisiae YJM1356
+    | |   +-Saccharomyces cerevisiae YJM1355
+    | |   +-Saccharomyces cerevisiae YJM1342
+    | |   +-Saccharomyces cerevisiae YJM1341
+    | |   +-Saccharomyces cerevisiae YJM1338
+    | |   +-Saccharomyces cerevisiae YJM1336
+    | |   +-Saccharomyces cerevisiae YJM1332
+    | |   +-Saccharomyces cerevisiae YJM1326
+    | |   +-Saccharomyces cerevisiae YJM1311
+    | |   +-Saccharomyces cerevisiae YJM1307
+    | |   +-Saccharomyces cerevisiae YJM1304
+    | |   +-Saccharomyces cerevisiae YJM1273
+    | |   +-Saccharomyces cerevisiae YJM1252
+    | |   +-Saccharomyces cerevisiae YJM1250
+    | |   +-Saccharomyces cerevisiae YJM1248
+    | |   +-Saccharomyces cerevisiae YJM1242
+    | |   +-Saccharomyces cerevisiae YJM1208
+    | |   +-Saccharomyces cerevisiae YJM1202
+    | |   +-Saccharomyces cerevisiae YJM1199
+    | |   +-Saccharomyces cerevisiae YJM1190
+    | |   +-Saccharomyces cerevisiae YJM1133
+    | |   +-Saccharomyces cerevisiae YJM996
+    | |   +-Saccharomyces cerevisiae YJM993
+    | |   +-Saccharomyces cerevisiae YJM990
+    | |   +-Saccharomyces cerevisiae YJM987
+    | |   +-Saccharomyces cerevisiae YJM984
+    | |   +-Saccharomyces cerevisiae YJM981
+    | |   +-Saccharomyces cerevisiae YJM978
+    | |   +-Saccharomyces cerevisiae YJM975
+    | |   +-Saccharomyces cerevisiae YJM972
+    | |   +-Saccharomyces cerevisiae YJM969
+    | |   +-Saccharomyces cerevisiae YJM693
+    | |   +-Saccharomyces cerevisiae YJM689
+    | |   +-Saccharomyces cerevisiae YJM683
+    | |   +-Saccharomyces cerevisiae YJM682
+    | |   +-Saccharomyces cerevisiae YJM681
+    | |   +-Saccharomyces cerevisiae YJM627
+    | |   +-Saccharomyces cerevisiae YJM555
+    | |   +-Saccharomyces cerevisiae YJM554
+    | |   +-Saccharomyces cerevisiae YJM541
+    | |   +-Saccharomyces cerevisiae YJM470
+    | |   +-Saccharomyces cerevisiae YJM456
+    | |   +-Saccharomyces cerevisiae YJM453
+    | |   +-Saccharomyces cerevisiae YJM450
+    | |   +-Saccharomyces cerevisiae YJM271
+    | |   +-Saccharomyces cerevisiae YJM270
+    | |   +-Saccharomyces cerevisiae YJM248
+    | |   +-Saccharomyces cerevisiae YJM244
+    | |   +-Saccharomyces cerevisiae YJM195
+    | |   +-Saccharomyces cerevisiae YJM193
+    | |   +-Saccharomyces cerevisiae YJM189
+    | |   +-Saccharomyces cerevisiae YJM1129
+    | |   +-Saccharomyces cerevisiae YJM1083
+    | |   +-Saccharomyces cerevisiae P301
+    | |   +-Saccharomyces cerevisiae R103
+    | |   +-Saccharomyces cerevisiae R008
+    | |   +-Saccharomyces cerevisiae P283
+    | |   +-Saccharomyces cerevisiae YJM428
+    | |   +-Saccharomyces cerevisiae YJM320
+    | |   +-Saccharomyces cerevisiae CEN.PK113-7D
+    | |   +-Saccharomyces cerevisiae FostersB
+    | |   +-Saccharomyces cerevisiae VL3
+    | |   +-Saccharomyces cerevisiae Vin13
+    | |   +-Saccharomyces cerevisiae AWRI796
+    | |   +-Saccharomyces cerevisiae Kyokai no. 7
+    | |   +-Saccharomyces cerevisiae EC1118
+    | |   +-Saccharomyces cerevisiae JAY291
+    | |   +-Saccharomyces cerevisiae S288C
+    | |   +-Saccharomyces cerevisiae AWRI1631
+    | |   +-Saccharomyces cerevisiae YJM451
+    | |   +-Saccharomyces cerevisiae YJM326
+    | |   +-Saccharomyces cerevisiae YJM789
+    | |   \-Saccharomyces cerevisiae RM11-1a
+    | \-Kluyveromyces
+    |   +-Kluyveromyces dobzhanskii
+    |   | \-Kluyveromyces dobzhanskii CBS 2104
+    |   +-Kluyveromyces lactis
+    |   | \-Kluyveromyces lactis NRRL Y-1140
+    |   \-Kluyveromyces marxianus
+    |     \-Kluyveromyces marxianus DMKU3-1042
+    +-Pichiaceae
+    | +-Ogataea
+    | | +-Ogataea parapolymorpha
+    | | | \-Ogataea parapolymorpha DL-1
+    | | \-Ogataea polymorpha
+    | +-Brettanomyces
+    | | +-Brettanomyces naardenensis
+    | | \-Brettanomyces bruxellensis
+    | |   \-Brettanomyces bruxellensis AWRI1499
+    | \-Pichia
+    |   +-Pichia membranifaciens
+    |   | \-Pichia membranifaciens NRRL Y-2026
+    |   \-Pichia kudriavzevii
+    \-Phaffomycetaceae
+      +-Wickerhamomyces
+      | +-Wickerhamomyces ciferrii
+      | \-Wickerhamomyces anomalus
+      |   \-Wickerhamomyces anomalus NRRL Y-366-8
+      +-Komagataella
+      | +-Komagataella phaffii
+      | | +-Komagataella phaffii CBS 7435
+      | | \-Komagataella phaffii GS115
+      | \-Komagataella pastoris
+      \-Cyberlindnera
+        +-Cyberlindnera fabianii
+        \-Cyberlindnera jadinii
+          \-Cyberlindnera jadinii NRRL Y-1542
+-----------------------------------

@@ -1,0 +1,1866 @@
+Eukaryota
+++Rotosphaerida
+| \-Fonticula alba
+++Apusomonadidae
+| \-Thecamonas trahens
+++Cercozoa
+| \-Bigelowiella natans
+++Filasterea
+| \-Capsaspora owczarzaki
+++Choanoflagellata
+| \-Salpingoecidae
+|   +-Salpingoeca
+|   | \-Salpingoeca rosetta
+|   \-Monosiga
+|     \-Monosiga brevicollis
+++Eustigmatophyceae
+| \-Nannochloropsis gaditana
+++Ichthyosporea
+| \-Sphaeroforma arctica
+++Imbricatea
+| \-Paulinella
+|   +-Paulinella micropora
+|   \-Paulinella chromatophora
+++Perkinsozoa
+| \-Perkinsus marinus
+++Bigyra
+| \-Blastocystis
+|   +-Blastocystis sp.
+|   \-Blastocystis hominis
++-Metazoa
+| ++Porifera
+| | \-Amphimedon queenslandica
+| ++Priapulida
+| | \-Priapulus caudatus
+| ++Placozoa
+| | \-Trichoplax adhaerens
+| ++Hemichordata
+| | \-Saccoglossus kowalevskii
+| +-Chordata
+| | ++Cladistia
+| | | \-Erpetoichthys calabaricus
+| | +-Mammalia
+| | | ++Dermoptera
+| | | | \-Galeopterus variegatus
+| | | ++Scandentia
+| | | | \-Tupaia chinensis
+| | | ++Chrysochloridae
+| | | | \-Chrysochloris asiatica
+| | | ++Diprotodontia
+| | | | \-Phascolarctos cinereus
+| | | ++Macroscelidea
+| | | | \-Elephantulus edwardii
+| | | ++Didelphimorphia
+| | | | \-Monodelphis domestica
+| | | +-Rodentia
+| | | | ++Spalacidae
+| | | | | \-Nannospalax galili
+| | | | ++Castoridae
+| | | | | \-Castor canadensis
+| | | | ++Dipodidae
+| | | | | \-Jaculus jaculus
+| | | | ++Chinchillidae
+| | | | | \-Chinchilla lanigera
+| | | | +-Bathyergidae
+| | | | | +-Fukomys
+| | | | | | \-Fukomys damarensis
+| | | | | \-Heterocephalus
+| | | | |   \-Heterocephalus glaber
+| | | | ++Octodontidae
+| | | | | \-Octodon degus
+| | | | ++Caviidae
+| | | | | \-Cavia porcellus
+| | | | +-Muridae
+| | | | | +-Grammomys
+| | | | | | \-Grammomys surdaster
+| | | | | +-Rattus
+| | | | | | \-Rattus norvegicus
+| | | | | +-Mus
+| | | | | | +-Mus pahari
+| | | | | | +-Mus musculus
+| | | | | | \-Mus caroli
+| | | | | \-Meriones
+| | | | |   \-Meriones unguiculatus
+| | | | +-Cricetidae
+| | | | | +-Microtus
+| | | | | | \-Microtus ochrogaster
+| | | | | +-Peromyscus
+| | | | | | +-Peromyscus maniculatus
+| | | | | | \-Peromyscus leucopus
+| | | | | +-Mesocricetus
+| | | | | | \-Mesocricetus auratus
+| | | | | \-Cricetulus
+| | | | |   \-Cricetulus griseus
+| | | | ++Heteromyidae
+| | | | | \-Dipodomys ordii
+| | | | \-Sciuridae
+| | | |   +-Ictidomys
+| | | |   | \-Ictidomys tridecemlineatus
+| | | |   +-Urocitellus
+| | | |   | \-Urocitellus parryii
+| | | |   \-Marmota
+| | | |     \-Marmota marmota
+| | | +-Lagomorpha
+| | | | ++Leporidae
+| | | | | \-Oryctolagus cuniculus
+| | | | \+Ochotonidae
+| | | |   \-Ochotona princeps
+| | | ++Tubulidentata
+| | | | \-Orycteropus afer
+| | | +-Perissodactyla
+| | | | ++Rhinocerotidae
+| | | | | \-Ceratotherium simum
+| | | | \-Equidae
+| | | |   \-Equus
+| | | |     +-Equus przewalskii
+| | | |     +-Equus caballus
+| | | |     \-Equus asinus
+| | | ++Proboscidea
+| | | | \-Loxodonta africana
+| | | ++Sirenia
+| | | | \-Trichechus manatus
+| | | +-Artiodactyla
+| | | | ++Phocoenidae
+| | | | | \-Neophocaena asiaeorientalis
+| | | | ++Lipotidae
+| | | | | \-Lipotes vexillifer
+| | | | +-Bovidae
+| | | | | +-Bubalus
+| | | | | | \-Bubalus bubalis
+| | | | | +-Ovis
+| | | | | | \-Ovis aries
+| | | | | +-Capra
+| | | | | | \-Capra hircus
+| | | | | +-Bos
+| | | | | | +-Bos mutus
+| | | | | | +-Bos indicus
+| | | | | | \-Bos taurus
+| | | | | \-Bison
+| | | | |   \-Bison bison
+| | | | ++Cervidae
+| | | | | \-Odocoileus virginianus
+| | | | +-Camelidae
+| | | | | +-Vicugna
+| | | | | | \-Vicugna pacos
+| | | | | \-Camelus
+| | | | |   +-Camelus ferus
+| | | | |   +-Camelus dromedarius
+| | | | |   \-Camelus bactrianus
+| | | | ++Suidae
+| | | | | \-Sus scrofa
+| | | | ++Balaenopteridae
+| | | | | \-Balaenoptera acutorostrata
+| | | | ++Physeteridae
+| | | | | \-Physeter catodon
+| | | | +-Monodontidae
+| | | | | +-Monodon
+| | | | | | \-Monodon monoceros
+| | | | | \-Delphinapterus
+| | | | |   \-Delphinapterus leucas
+| | | | \-Delphinidae
+| | | |   +-Lagenorhynchus
+| | | |   | \-Lagenorhynchus obliquidens
+| | | |   +-Tursiops
+| | | |   | \-Tursiops truncatus
+| | | |   \-Orcinus
+| | | |     \-Orcinus orca
+| | | +-Carnivora
+| | | | +-Phocidae
+| | | | | +-Neomonachus
+| | | | | | \-Neomonachus schauinslandi
+| | | | | \-Leptonychotes
+| | | | |   \-Leptonychotes weddellii
+| | | | ++Odobenidae
+| | | | | \-Odobenus rosmarus
+| | | | +-Otariidae
+| | | | | +-Eumetopias
+| | | | | | \-Eumetopias jubatus
+| | | | | +-Callorhinus
+| | | | | | \-Callorhinus ursinus
+| | | | | \-Zalophus
+| | | | |   \-Zalophus californianus
+| | | | +-Felidae
+| | | | | +-Acinonyx
+| | | | | | \-Acinonyx jubatus
+| | | | | +-Puma
+| | | | | | \-Puma concolor
+| | | | | +-Panthera
+| | | | | | \-Panthera tigris
+| | | | | \-Felis
+| | | | |   \-Felis catus
+| | | | +-Mustelidae
+| | | | | +-Enhydra
+| | | | | | \-Enhydra lutris
+| | | | | \-Mustela
+| | | | |   \-Mustela putorius
+| | | | +-Ursidae
+| | | | | +-Ailuropoda
+| | | | | | \-Ailuropoda melanoleuca
+| | | | | \-Ursus
+| | | | |   +-Ursus maritimus
+| | | | |   \-Ursus arctos
+| | | | \-Canidae
+| | | |   +-Vulpes
+| | | |   | \-Vulpes vulpes
+| | | |   \-Canis
+| | | |     \-Canis lupus
+| | | +-Primates
+| | | | ++Tarsiidae
+| | | | | \-Carlito syrichta
+| | | | ++Indriidae
+| | | | | \-Propithecus coquereli
+| | | | ++Hylobatidae
+| | | | | \-Nomascus leucogenys
+| | | | ++Aotidae
+| | | | | \-Aotus nancymaae
+| | | | ++Galagidae
+| | | | | \-Otolemur garnettii
+| | | | ++Cheirogaleidae
+| | | | | \-Microcebus murinus
+| | | | +-Hominidae
+| | | | | +-Homo
+| | | | | | \-Homo sapiens
+| | | | | +-Pongo
+| | | | | | \-Pongo abelii
+| | | | | \-Pan
+| | | | |   +-Pan troglodytes
+| | | | |   \-Pan paniscus
+| | | | +-Cercopithecidae
+| | | | | +-Piliocolobus
+| | | | | | \-Piliocolobus tephrosceles
+| | | | | +-Rhinopithecus
+| | | | | | +-Rhinopithecus roxellana
+| | | | | | \-Rhinopithecus bieti
+| | | | | +-Chlorocebus
+| | | | | | \-Chlorocebus sabaeus
+| | | | | +-Colobus
+| | | | | | \-Colobus angolensis
+| | | | | +-Mandrillus
+| | | | | | \-Mandrillus leucophaeus
+| | | | | +-Theropithecus
+| | | | | | \-Theropithecus gelada
+| | | | | +-Papio
+| | | | | | \-Papio anubis
+| | | | | +-Macaca
+| | | | | | +-Macaca nemestrina
+| | | | | | +-Macaca mulatta
+| | | | | | \-Macaca fascicularis
+| | | | | \-Cercocebus
+| | | | |   \-Cercocebus atys
+| | | | \-Cebidae
+| | | |   +-Saimiri
+| | | |   | \-Saimiri boliviensis
+| | | |   \-Callithrix
+| | | |     \-Callithrix jacchus
+| | | +-Chiroptera
+| | | | +-Vespertilionidae
+| | | | | +-Miniopterus
+| | | | | | \-Miniopterus natalensis
+| | | | | +-Myotis
+| | | | | | +-Myotis davidii
+| | | | | | +-Myotis brandtii
+| | | | | | \-Myotis lucifugus
+| | | | | \-Eptesicus
+| | | | |   \-Eptesicus fuscus
+| | | | +-Phyllostomidae
+| | | | | +-Phyllostomus
+| | | | | | \-Phyllostomus discolor
+| | | | | \-Desmodus
+| | | | |   \-Desmodus rotundus
+| | | | \-Pteropodidae
+| | | |   +-Rousettus
+| | | |   | \-Rousettus aegyptiacus
+| | | |   \-Pteropus
+| | | |     +-Pteropus vampyrus
+| | | |     \-Pteropus alecto
+| | | ++Tenrecidae
+| | | | \-Echinops telfairi
+| | | +-Eulipotyphla
+| | | | ++Talpidae
+| | | | | \-Condylura cristata
+| | | | ++Soricidae
+| | | | | \-Sorex araneus
+| | | | \+Erinaceidae
+| | | |   \-Erinaceus europaeus
+| | | ++Cingulata
+| | | | \-Dasypus novemcinctus
+| | | ++Dasyuromorphia
+| | | | \-Sarcophilus harrisii
+| | | \+Monotremata
+| | |   \-Ornithorhynchus anatinus
+| | +-Aves
+| | | ++Apterygiformes
+| | | | \-Apteryx
+| | | |   +-Apteryx mantelli
+| | | |   \-Apteryx rowi
+| | | ++Caprimulgiformes
+| | | | \-Antrostomus carolinensis
+| | | ++Ciconiiformes
+| | | | \-Pterocles gutturalis
+| | | ++Bucerotiformes
+| | | | \-Buceros rhinoceros
+| | | ++Musophagiformes
+| | | | \-Tauraco erythrolophus
+| | | ++Piciformes
+| | | | \-Picoides pubescens
+| | | +-Coraciiformes
+| | | | ++Leptosomidae
+| | | | | \-Leptosomus discolor
+| | | | \+Meropidae
+| | | |   \-Merops nubicus
+| | | ++Coliiformes
+| | | | \-Colius striatus
+| | | ++Trogoniformes
+| | | | \-Apaloderma vittatum
+| | | +-Strigiformes
+| | | | ++Strigidae
+| | | | | \-Athene cunicularia
+| | | | \+Tytonidae
+| | | |   \-Tyto alba
+| | | ++Cuculiformes
+| | | | \-Cuculus canorus
+| | | ++Cariamiformes
+| | | | \-Cariama cristata
+| | | +-Gruiformes
+| | | | ++Gruidae
+| | | | | \-Balearica regulorum
+| | | | ++Otididae
+| | | | | \-Chlamydotis macqueenii
+| | | | ++Eurypygidae
+| | | | | \-Eurypyga helias
+| | | | \+Mesitornithidae
+| | | |   \-Mesitornis unicolor
+| | | +-Charadriiformes
+| | | | ++Scolopacidae
+| | | | | \-Calidris pugnax
+| | | | \+Charadriidae
+| | | |   \-Charadrius vociferus
+| | | ++Gaviiformes
+| | | | \-Gavia stellata
+| | | +-Tinamiformes
+| | | | \-Tinamidae
+| | | |   +-Tinamus
+| | | |   | \-Tinamus guttatus
+| | | |   \-Nothoprocta
+| | | |     \-Nothoprocta perdicaria
+| | | ++Procellariiformes
+| | | | \-Fulmarus glacialis
+| | | ++Opisthocomiformes
+| | | | \-Opisthocomus hoazin
+| | | +-Psittaciformes
+| | | | ++Psittacidae
+| | | | | \-Nestor notabilis
+| | | | \+Psittaculidae
+| | | |   \-Melopsittacus undulatus
+| | | +-Sphenisciformes
+| | | | \-Spheniscidae
+| | | |   +-Pygoscelis
+| | | |   | \-Pygoscelis adeliae
+| | | |   \-Aptenodytes
+| | | |     \-Aptenodytes forsteri
+| | | +-Pelecaniformes
+| | | | ++Ardeidae
+| | | | | \-Egretta garzetta
+| | | | ++Threskiornithidae
+| | | | | \-Nipponia nippon
+| | | | ++Phaethontidae
+| | | | | \-Phaethon lepturus
+| | | | ++Pelecanidae
+| | | | | \-Pelecanus crispus
+| | | | \+Phalacrocoracidae
+| | | |   \-Phalacrocorax carbo
+| | | +-Passeriformes
+| | | | +-Pipridae
+| | | | | +-Manacus
+| | | | | | \-Manacus vitellinus
+| | | | | \-Lepidothrix
+| | | | |   \-Lepidothrix coronata
+| | | | +-Corvidae
+| | | | | \-Corvus
+| | | | |   +-Corvus cornix
+| | | | |   \-Corvus brachyrhynchos
+| | | | ++Muscicapidae
+| | | | | \-Ficedula albicollis
+| | | | ++Acanthisittidae
+| | | | | \-Acanthisitta chloris
+| | | | ++Thraupidae
+| | | | | \-Geospiza fortis
+| | | | ++Passerellidae
+| | | | | \-Zonotrichia albicollis
+| | | | +-Estrildidae
+| | | | | +-Taeniopygia
+| | | | | | \-Taeniopygia guttata
+| | | | | \-Lonchura
+| | | | |   \-Lonchura striata
+| | | | ++Sturnidae
+| | | | | \-Sturnus vulgaris
+| | | | +-Paridae
+| | | | | +-Pseudopodoces
+| | | | | | \-Pseudopodoces humilis
+| | | | | +-Cyanistes
+| | | | | | \-Cyanistes caeruleus
+| | | | | \-Parus
+| | | | |   \-Parus major
+| | | | \+Fringillidae
+| | | |   \-Serinus canaria
+| | | +-Galliformes
+| | | | +-Phasianidae
+| | | | | +-Coturnix
+| | | | | | \-Coturnix japonica
+| | | | | +-Meleagris
+| | | | | | \-Meleagris gallopavo
+| | | | | \-Gallus
+| | | | |   \-Gallus gallus
+| | | | \+Numididae
+| | | |   \-Numida meleagris
+| | | ++Accipitriformes
+| | | | \-Haliaeetus
+| | | |   +-Haliaeetus leucocephalus
+| | | |   \-Haliaeetus albicilla
+| | | ++Falconiformes
+| | | | \-Falco
+| | | |   +-Falco cherrug
+| | | |   \-Falco peregrinus
+| | | ++Columbiformes
+| | | | \-Columba livia
+| | | +-Apodiformes
+| | | | ++Trochilidae
+| | | | | \-Calypte anna
+| | | | \+Apodidae
+| | | |   \-Chaetura pelagica
+| | | +-Anseriformes
+| | | | \-Anatidae
+| | | |   +-Anser
+| | | |   | \-Anser cygnoides
+| | | |   \-Anas
+| | | |     \-Anas platyrhynchos
+| | | ++Struthioniformes
+| | | | \-Struthio camelus
+| | | \+Casuariiformes
+| | |   \-Dromaius novaehollandiae
+| | +-Lepidosauria
+| | | \-Squamata
+| | |   ++Pythonidae
+| | |   | \-Python bivittatus
+| | |   ++Gekkonidae
+| | |   | \-Gekko japonicus
+| | |   ++Viperidae
+| | |   | \-Protobothrops mucrosquamatus
+| | |   ++Agamidae
+| | |   | \-Pogona vitticeps
+| | |   ++Lacertidae
+| | |   | \-Podarcis muralis
+| | |   ++Colubridae
+| | |   | \-Thamnophis sirtalis
+| | |   ++Dactyloidae
+| | |   | \-Anolis carolinensis
+| | |   \-Elapidae
+| | |     +-Pseudonaja
+| | |     | \-Pseudonaja textilis
+| | |     \-Notechis
+| | |       \-Notechis scutatus
+| | ++Crocodylia
+| | | \-Alligator
+| | |   +-Alligator sinensis
+| | |   \-Alligator mississippiensis
+| | +-Testudines
+| | | ++Trionychidae
+| | | | \-Pelodiscus sinensis
+| | | +-Emydidae
+| | | | +-Terrapene
+| | | | | \-Terrapene carolina
+| | | | \-Chrysemys
+| | | |   \-Chrysemys picta
+| | | \+Cheloniidae
+| | |   \-Chelonia mydas
+| | ++Amphibia
+| | | \-Xenopus
+| | |   +-Xenopus tropicalis
+| | |   \-Xenopus laevis
+| | +-Actinopteri
+| | | ++Blenniiformes
+| | | | \-Gouania willdenowi
+| | | ++Sciaenidae
+| | | | \-Larimichthys crocea
+| | | ++Ambassidae
+| | | | \-Parambassis ranga
+| | | ++Anabantiformes
+| | | | \-Betta splendens
+| | | ++Gobiiformes
+| | | | \-Boleophthalmus pectinirostris
+| | | ++Osteoglossiformes
+| | | | \-Scleropages formosus
+| | | ++Syngnathiformes
+| | | | \-Hippocampus comes
+| | | +-Pomacentridae
+| | | | +-Stegastes
+| | | | | \-Stegastes partitus
+| | | | +-Amphiprion
+| | | | | \-Amphiprion ocellaris
+| | | | \-Acanthochromis
+| | | |   \-Acanthochromis polyacanthus
+| | | ++Labriformes
+| | | | \-Labrus bergylta
+| | | +-Synbranchiformes
+| | | | ++Mastacembelidae
+| | | | | \-Mastacembelus armatus
+| | | | \+Synbranchidae
+| | | |   \-Monopterus albus
+| | | ++Carangiformes
+| | | | \-Seriola
+| | | |   +-Seriola lalandi
+| | | |   \-Seriola dumerili
+| | | ++Tetraodontiformes
+| | | | \-Takifugu rubripes
+| | | +-Pleuronectiformes
+| | | | ++Cynoglossidae
+| | | | | \-Cynoglossus semilaevis
+| | | | \+Paralichthyidae
+| | | |   \-Paralichthys olivaceus
+| | | +-Perciformes
+| | | | ++Nototheniidae
+| | | | | \-Notothenia coriiceps
+| | | | \+Percidae
+| | | |   \-Perca flavescens
+| | | +-Cichliformes
+| | | | \-Cichlidae
+| | | |   +-Pundamilia
+| | | |   | \-Pundamilia nyererei
+| | | |   +-Maylandia
+| | | |   | \-Maylandia zebra
+| | | |   +-Neolamprologus
+| | | |   | \-Neolamprologus brichardi
+| | | |   +-Astatotilapia
+| | | |   | \-Astatotilapia calliptera
+| | | |   +-Haplochromis
+| | | |   | \-Haplochromis burtoni
+| | | |   \-Oreochromis
+| | | |     \-Oreochromis niloticus
+| | | ++Beloniformes
+| | | | \-Oryzias
+| | | |   +-Oryzias melastigma
+| | | |   \-Oryzias latipes
+| | | +-Cyprinodontiformes
+| | | | ++Nothobranchiidae
+| | | | | \-Nothobranchius furzeri
+| | | | +-Rivulidae
+| | | | | +-Austrofundulus
+| | | | | | \-Austrofundulus limnaeus
+| | | | | \-Kryptolebias
+| | | | |   \-Kryptolebias marmoratus
+| | | | ++Cyprinodontidae
+| | | | | \-Cyprinodon variegatus
+| | | | +-Poeciliidae
+| | | | | +-Xiphophorus
+| | | | | | +-Xiphophorus couchianus
+| | | | | | \-Xiphophorus maculatus
+| | | | | \-Poecilia
+| | | | |   +-Poecilia mexicana
+| | | | |   +-Poecilia latipinna
+| | | | |   +-Poecilia formosa
+| | | | |   \-Poecilia reticulata
+| | | | \+Fundulidae
+| | | |   \-Fundulus heteroclitus
+| | | +-Salmoniformes
+| | | | \-Salmonidae
+| | | |   +-Salvelinus
+| | | |   | \-Salvelinus alpinus
+| | | |   +-Salmo
+| | | |   | \-Salmo salar
+| | | |   \-Oncorhynchus
+| | | |     +-Oncorhynchus tshawytscha
+| | | |     +-Oncorhynchus mykiss
+| | | |     \-Oncorhynchus kisutch
+| | | ++Esociformes
+| | | | \-Esox lucius
+| | | ++Gymnotiformes
+| | | | \-Electrophorus electricus
+| | | +-Siluriformes
+| | | | ++Pangasiidae
+| | | | | \-Pangasianodon hypophthalmus
+| | | | \+Ictaluridae
+| | | |   \-Ictalurus punctatus
+| | | ++Characiformes
+| | | | \-Astyanax mexicanus
+| | | ++Cypriniformes
+| | | | \-Danio rerio
+| | | +-Clupeiformes
+| | | | ++Denticipitidae
+| | | | | \-Denticeps clupeoides
+| | | | \+Clupeidae
+| | | |   \-Clupea harengus
+| | | \+Semionotiformes
+| | |   \-Lepisosteus oculatus
+| | ++Coelacanthimorpha
+| | | \-Latimeria chalumnae
+| | +-Chondrichthyes
+| | | ++Orectolobiformes
+| | | | \-Rhincodon typus
+| | | \+Chimaeriformes
+| | |   \-Callorhinchus milii
+| | \+Ascidiacea
+| |   \-Ciona intestinalis
+| +-Echinodermata
+| | ++Asteroidea
+| | | \-Acanthaster planci
+| | \+Echinoidea
+| |   \-Strongylocentrotus purpuratus
+| ++Brachiopoda
+| | \-Lingula anatina
+| +-Arthropoda
+| | ++Collembola
+| | | \-Folsomia candida
+| | ++Hexanauplia
+| | | \-Eurytemora affinis
+| | +-Insecta
+| | | ++Thysanoptera
+| | | | \-Frankliniella occidentalis
+| | | ++Phthiraptera
+| | | | \-Pediculus humanus
+| | | +-Blattodea
+| | | | ++Termopsidae
+| | | | | \-Zootermopsis nevadensis
+| | | | \+Kalotermitidae
+| | | |   \-Cryptotermes secundus
+| | | ++Siphonaptera
+| | | | \-Ctenocephalides felis
+| | | +-Hymenoptera
+| | | | ++Diprionidae
+| | | | | \-Neodiprion lecontei
+| | | | ++Orussidae
+| | | | | \-Orussus abietinus
+| | | | ++Cephidae
+| | | | | \-Cephus cinctus
+| | | | ++Halictidae
+| | | | | \-Dufourea novaeangliae
+| | | | +-Megachilidae
+| | | | | +-Osmia
+| | | | | | \-Osmia bicornis
+| | | | | \-Megachile
+| | | | |   \-Megachile rotundata
+| | | | ++Agaonidae
+| | | | | \-Ceratosolen solmsi
+| | | | +-Vespidae
+| | | | | \-Polistes
+| | | | |   +-Polistes dominula
+| | | | |   \-Polistes canadensis
+| | | | +-Braconidae
+| | | | | +-Diachasma
+| | | | | | \-Diachasma alloeum
+| | | | | +-Microplitis
+| | | | | | \-Microplitis demolitor
+| | | | | \-Fopius
+| | | | |   \-Fopius arisanus
+| | | | ++Tenthredinidae
+| | | | | \-Athalia rosae
+| | | | ++Encyrtidae
+| | | | | \-Copidosoma floridanum
+| | | | +-Formicidae
+| | | | | +-Ooceraea
+| | | | | | \-Ooceraea biroi
+| | | | | +-Nylanderia
+| | | | | | \-Nylanderia fulva
+| | | | | +-Harpegnathos
+| | | | | | \-Harpegnathos saltator
+| | | | | +-Dinoponera
+| | | | | | \-Dinoponera quadriceps
+| | | | | +-Vollenhovia
+| | | | | | \-Vollenhovia emeryi
+| | | | | +-Monomorium
+| | | | | | \-Monomorium pharaonis
+| | | | | +-Temnothorax
+| | | | | | \-Temnothorax curvispinosus
+| | | | | +-Pseudomyrmex
+| | | | | | \-Pseudomyrmex gracilis
+| | | | | +-Pogonomyrmex
+| | | | | | \-Pogonomyrmex barbatus
+| | | | | +-Camponotus
+| | | | | | \-Camponotus floridanus
+| | | | | +-Acromyrmex
+| | | | | | \-Acromyrmex echinatior
+| | | | | +-Linepithema
+| | | | | | \-Linepithema humile
+| | | | | +-Wasmannia
+| | | | | | \-Wasmannia auropunctata
+| | | | | +-Solenopsis
+| | | | | | \-Solenopsis invicta
+| | | | | \-Atta
+| | | | |   \-Atta cephalotes
+| | | | ++Trichogrammatidae
+| | | | | \-Trichogramma pretiosum
+| | | | +-Apidae
+| | | | | +-Ceratina
+| | | | | | \-Ceratina calcarata
+| | | | | +-Bombus
+| | | | | | +-Bombus impatiens
+| | | | | | \-Bombus terrestris
+| | | | | \-Apis
+| | | | |   +-Apis florea
+| | | | |   +-Apis dorsata
+| | | | |   +-Apis cerana
+| | | | |   \-Apis mellifera
+| | | | \+Pteromalidae
+| | | |   \-Nasonia vitripennis
+| | | +-Diptera
+| | | | ++Calliphoridae
+| | | | | \-Lucilia cuprina
+| | | | +-Muscidae
+| | | | | +-Stomoxys
+| | | | | | \-Stomoxys calcitrans
+| | | | | \-Musca
+| | | | |   \-Musca domestica
+| | | | +-Drosophilidae
+| | | | | \-Drosophila
+| | | | |   +-Drosophila bipectinata
+| | | | |   +-Drosophila kikkawai
+| | | | |   +-Drosophila elegans
+| | | | |   +-Drosophila takahashii
+| | | | |   +-Drosophila eugracilis
+| | | | |   +-Drosophila obscura
+| | | | |   +-Drosophila serrata
+| | | | |   +-Drosophila willistoni
+| | | | |   +-Drosophila yakuba
+| | | | |   +-Drosophila virilis
+| | | | |   +-Drosophila simulans
+| | | | |   +-Drosophila sechellia
+| | | | |   +-Drosophila pseudoobscura
+| | | | |   +-Drosophila persimilis
+| | | | |   +-Drosophila navojoa
+| | | | |   +-Drosophila mojavensis
+| | | | |   +-Drosophila miranda
+| | | | |   +-Drosophila melanogaster
+| | | | |   +-Drosophila hydei
+| | | | |   +-Drosophila grimshawi
+| | | | |   +-Drosophila erecta
+| | | | |   \-Drosophila ananassae
+| | | | +-Tephritidae
+| | | | | +-Zeugodacus
+| | | | | | \-Zeugodacus cucurbitae
+| | | | | +-Bactrocera
+| | | | | | +-Bactrocera latifrons
+| | | | | | +-Bactrocera oleae
+| | | | | | \-Bactrocera dorsalis
+| | | | | \-Ceratitis
+| | | | |   \-Ceratitis capitata
+| | | | \-Culicidae
+| | | |   +-Culex
+| | | |   | \-Culex quinquefasciatus
+| | | |   +-Anopheles
+| | | |   | \-Anopheles gambiae
+| | | |   \-Aedes
+| | | |     \-Aedes aegypti
+| | | +-Lepidoptera
+| | | | +-Nymphalidae
+| | | | | +-Vanessa
+| | | | | | \-Vanessa tameamea
+| | | | | \-Bicyclus
+| | | | |   \-Bicyclus anynana
+| | | | ++Crambidae
+| | | | | \-Ostrinia furnacalis
+| | | | +-Papilionidae
+| | | | | \-Papilio
+| | | | |   +-Papilio polytes
+| | | | |   +-Papilio machaon
+| | | | |   \-Papilio xuthus
+| | | | ++Pieridae
+| | | | | \-Pieris rapae
+| | | | ++Plutellidae
+| | | | | \-Plutella xylostella
+| | | | +-Pyralidae
+| | | | | +-Amyelois
+| | | | | | \-Amyelois transitella
+| | | | | \-Galleria
+| | | | |   \-Galleria mellonella
+| | | | +-Noctuidae
+| | | | | +-Spodoptera
+| | | | | | \-Spodoptera litura
+| | | | | +-Helicoverpa
+| | | | | | \-Helicoverpa armigera
+| | | | | \-Trichoplusia
+| | | | |   \-Trichoplusia ni
+| | | | \-Bombycidae
+| | | |   \-Bombyx
+| | | |     +-Bombyx mandarina
+| | | |     \-Bombyx mori
+| | | +-Coleoptera
+| | | | ++Buprestidae
+| | | | | \-Agrilus planipennis
+| | | | ++Scarabaeidae
+| | | | | \-Onthophagus taurus
+| | | | ++Nitidulidae
+| | | | | \-Aethina tumida
+| | | | ++Curculionidae
+| | | | | \-Dendroctonus ponderosae
+| | | | +-Chrysomelidae
+| | | | | +-Diabrotica
+| | | | | | \-Diabrotica virgifera
+| | | | | \-Leptinotarsa
+| | | | |   \-Leptinotarsa decemlineata
+| | | | \+Tenebrionidae
+| | | |   \-Tribolium castaneum
+| | | \-Hemiptera
+| | |   ++Pentatomidae
+| | |   | \-Halyomorpha halys
+| | |   ++Liviidae
+| | |   | \-Diaphorina citri
+| | |   ++Delphacidae
+| | |   | \-Nilaparvata lugens
+| | |   ++Cimicidae
+| | |   | \-Cimex lectularius
+| | |   \-Aphididae
+| | |     +-Melanaphis
+| | |     | \-Melanaphis sacchari
+| | |     +-Sipha
+| | |     | \-Sipha flava
+| | |     +-Diuraphis
+| | |     | \-Diuraphis noxia
+| | |     +-Rhopalosiphum
+| | |     | \-Rhopalosiphum maidis
+| | |     +-Myzus
+| | |     | \-Myzus persicae
+| | |     \-Acyrthosiphon
+| | |       \-Acyrthosiphon pisum
+| | +-Arachnida
+| | | ++Scorpiones
+| | | | \-Centruroides sculpturatus
+| | | ++Araneae
+| | | | \-Parasteatoda tepidariorum
+| | | +-Mesostigmata
+| | | | +-Varroidae
+| | | | | \-Varroa
+| | | | |   +-Varroa destructor
+| | | | |   \-Varroa jacobsoni
+| | | | \+Phytoseiidae
+| | | |   \-Galendromus occidentalis
+| | | ++Trombidiformes
+| | | | \-Tetranychus urticae
+| | | \+Ixodida
+| | |   \-Ixodes scapularis
+| | \+Merostomata
+| |   \-Limulus polyphemus
+| +-Mollusca
+| | ++Cephalopoda
+| | | \-Octopus bimaculoides
+| | +-Bivalvia
+| | | ++Pectinoida
+| | | | \-Mizuhopecten yessoensis
+| | | \+Ostreoida
+| | |   \-Crassostrea
+| | |     +-Crassostrea gigas
+| | |     \-Crassostrea virginica
+| | \-Gastropoda
+| |   ++Architaenioglossa
+| |   | \-Pomacea canaliculata
+| |   ++Lottiidae
+| |   | \-Lottia gigantea
+| |   ++Planorbidae
+| |   | \-Biomphalaria glabrata
+| |   \+Aplysiida
+| |     \-Aplysia californica
+| ++Annelida
+| | \-Helobdella robusta
+| +-Nematoda
+| | ++Enoplea
+| | | \-Trichinella spiralis
+| | \-Chromadorea
+| |   ++Strongylida
+| |   | \-Necator americanus
+| |   \-Rhabditida
+| |     ++Strongyloididae
+| |     | \-Strongyloides ratti
+| |     +-Onchocercidae
+| |     | +-Loa
+| |     | | \-Loa loa
+| |     | \-Brugia
+| |     |   \-Brugia malayi
+| |     \-Rhabditidae
+| |       \-Caenorhabditis
+| |         +-Caenorhabditis remanei
+| |         +-Caenorhabditis elegans
+| |         \-Caenorhabditis briggsae
+| +-Platyhelminthes
+| | ++Cestoda
+| | | \-Echinococcus granulosus
+| | \-Trematoda
+| |   ++Opisthorchiida
+| |   | \-Opisthorchis viverrini
+| |   \+Strigeidida
+| |     \-Schistosoma haematobium
+| \-Cnidaria
+|   +-Anthozoa
+|   | ++Helioporacea
+|   | | \-Heliopora coerulea
+|   | +-Scleractinia
+|   | | ++Merulinidae
+|   | | | \-Orbicella faveolata
+|   | | +-Pocilloporidae
+|   | | | +-Stylophora
+|   | | | | \-Stylophora pistillata
+|   | | | \-Pocillopora
+|   | | |   \-Pocillopora damicornis
+|   | | \-Acroporidae
+|   | |   \-Acropora
+|   | |     +-Acropora digitifera
+|   | |     \-Acropora millepora
+|   | +-Alcyonacea
+|   | | +-Coralliidae
+|   | | | +-Pleurocorallium
+|   | | | | +-Pleurocorallium konojoi
+|   | | | | \-Pleurocorallium elatius
+|   | | | \-Corallium
+|   | | |   +-Corallium japonicum
+|   | | |   \-Corallium rubrum
+|   | | +-Nephtheidae
+|   | | | \-Dendronephthya
+|   | | |   +-Dendronephthya mollis
+|   | | |   +-Dendronephthya gigantea
+|   | | |   \-Dendronephthya putteri
+|   | | +-Plexauridae
+|   | | | +-Echinogorgia
+|   | | | | \-Echinogorgia complexa
+|   | | | \-Euplexaura
+|   | | |   \-Euplexaura crassa
+|   | | \+Isididae
+|   | |   \-Acanella arbuscula
+|   | \-Actiniaria
+|   |   ++Edwardsiidae
+|   |   | \-Nematostella vectensis
+|   |   \+Actiniidae
+|   |     \-Actinia tenebrosa
+|   \+Hydrozoa
+|     \-Hydra vulgaris
++-Ciliophora
+| \-Oligohymenophorea
+|   +-Hymenostomatida
+|   | +-Ichthyophthirius
+|   | | \-Ichthyophthirius multifiliis
+|   | \+Tetrahymenidae
+|   |   \-Tetrahymena thermophila
+|   \+Peniculida
+|     \-Paramecium tetraurelia
++-Apicomplexa
+| +-Aconoidasida
+| | +-Piroplasmida
+| | | +-Theileriidae
+| | | | \-Theileria
+| | | |   +-Theileria orientalis
+| | | |   +-Theileria parva
+| | | |   +-Theileria annulata
+| | | |   \-Theileria equi
+| | | \-Babesiidae
+| | |   \-Babesia
+| | |     +-Babesia ovata
+| | |     +-Babesia sp.
+| | |     +-Babesia microti
+| | |     +-Babesia bigemina
+| | |     \-Babesia bovis
+| | \+Haemosporida
+| |   \-Plasmodium
+| |     +-Plasmodium coatneyi
+| |     +-Plasmodium relictum
+| |     +-Plasmodium gonderi
+| |     +-Plasmodium inui
+| |     +-Plasmodium sp.
+| |     +-Plasmodium yoelii
+| |     +-Plasmodium vinckei
+| |     +-Plasmodium malariae
+| |     +-Plasmodium fragile
+| |     +-Plasmodium vivax
+| |     +-Plasmodium reichenowi
+| |     +-Plasmodium knowlesi
+| |     +-Plasmodium gallinaceum
+| |     +-Plasmodium falciparum
+| |     +-Plasmodium cynomolgi
+| |     \-Plasmodium chabaudi
+| \-Conoidasida
+|   ++Eugregarinorida
+|   | \-Gregarina niphandrodes
+|   \-Eucoccidiorida
+|     +-Sarcocystidae
+|     | +-Besnoitia
+|     | | \-Besnoitia besnoiti
+|     | +-Neospora
+|     | | \-Neospora caninum
+|     | \-Toxoplasma
+|     |   \-Toxoplasma gondii
+|     +-Cryptosporidiidae
+|     | \-Cryptosporidium
+|     |   +-Cryptosporidium ubiquitum
+|     |   +-Cryptosporidium hominis
+|     |   +-Cryptosporidium muris
+|     |   \-Cryptosporidium parvum
+|     \-Eimeriidae
+|       \-Eimeria
+|         +-Eimeria necatrix
+|         +-Eimeria mitis
+|         +-Eimeria maxima
+|         +-Eimeria tenella
+|         \-Eimeria acervulina
+++Heterolobosea
+| \-Naegleria gruberi
++-Evosea
+| +-Eumycetozoa
+| | +-Acytosteliales
+| | | ++Cavenderiaceae
+| | | | \-Cavenderia fasciculata
+| | | \-Acytosteliaceae
+| | |   +-Acytostelium
+| | |   | \-Acytostelium subglobosum
+| | |   \-Heterostelium
+| | |     \-Heterostelium pallidum
+| | \+Dictyosteliales
+| |   \-Dictyostelium
+| |     +-Dictyostelium discoideum
+| |     \-Dictyostelium purpureum
+| \+Mastigamoebida
+|   \-Entamoeba
+|     +-Entamoeba nuttalli
+|     +-Entamoeba dispar
+|     +-Entamoeba invadens
+|     \-Entamoeba histolytica
+++Discosea
+| \-Acanthamoeba castellanii
+++Fornicata
+| \-Giardia intestinalis
+++Parabasalia
+| \-Trichomonas vaginalis
+++Euglenozoa
+| \-Trypanosomatidae
+|   +-Leptomonas
+|   | \-Leptomonas pyrrhocoris
+|   +-Trypanosoma
+|   | +-Trypanosoma conorhini
+|   | +-Trypanosoma grayi
+|   | +-Trypanosoma theileri
+|   | +-Trypanosoma rangeli
+|   | +-Trypanosoma cruzi
+|   | \-Trypanosoma brucei
+|   \-Leishmania
+|     +-Leishmania panamensis
+|     +-Leishmania infantum
+|     +-Leishmania mexicana
+|     +-Leishmania major
+|     +-Leishmania donovani
+|     \-Leishmania braziliensis
++-Fungi
+| +-Chytridiomycota
+| | \-Chytridiomycetes
+| |   ++Rhizophydiales
+| |   | \-Batrachochytrium dendrobatidis
+| |   \+Spizellomycetales
+| |     \-Spizellomyces punctatus
+| +-Mucoromycota
+| | ++Glomeromycetes
+| | | \-Rhizophagus irregularis
+| | ++Mortierellomycetes
+| | | \-Lobosporangium transversale
+| | \+Mucoromycetes
+| |   \-Rhizopus microsporus
+| +-Microsporidia
+| | +-Mitosporidium
+| | | \-Mitosporidium daphniae
+| | +-Nematocida
+| | | \-Nematocida parisii
+| | ++Ordosporidae
+| | | \-Ordospora colligata
+| | ++Pleistophoridae
+| | | \-Vavraia culicis
+| | ++Nosematidae
+| | | \-Vittaforma corneae
+| | \-Unikaryonidae
+| |   \-Encephalitozoon
+| |     +-Encephalitozoon romaleae
+| |     +-Encephalitozoon intestinalis
+| |     +-Encephalitozoon hellem
+| |     \-Encephalitozoon cuniculi
+| +-Basidiomycota
+| | ++Wallemiomycetes
+| | | \-Wallemia
+| | |   +-Wallemia mellicola
+| | |   \-Wallemia ichthyophaga
+| | ++Malasseziomycetes
+| | | \-Malassezia
+| | |   +-Malassezia pachydermatis
+| | |   +-Malassezia restricta
+| | |   \-Malassezia globosa
+| | ++Mixiomycetes
+| | | \-Mixia osmundae
+| | +-Agaricomycetes
+| | | ++Hymenochaetales
+| | | | \-Fomitiporia mediterranea
+| | | ++Corticiales
+| | | | \-Punctularia strigosozonata
+| | | ++Gloeophyllales
+| | | | \-Gloeophyllum trabeum
+| | | +-Boletales
+| | | | ++Serpulaceae
+| | | | | \-Serpula lacrymans
+| | | | \+Coniophoraceae
+| | | |   \-Coniophora puteana
+| | | +-Russulales
+| | | | ++Bondarzewiaceae
+| | | | | \-Heterobasidion irregulare
+| | | | \+Stereaceae
+| | | |   \-Stereum hirsutum
+| | | +-Agaricales
+| | | | ++Tricholomataceae
+| | | | | \-Laccaria bicolor
+| | | | ++Psathyrellaceae
+| | | | | \-Coprinopsis cinerea
+| | | | ++Agaricaceae
+| | | | | \-Agaricus bisporus
+| | | | \+Schizophyllaceae
+| | | |   \-Schizophyllum commune
+| | | \-Polyporales
+| | |   +-Fibroporia
+| | |   | \-Fibroporia radiculosa
+| | |   ++Phanerochaetaceae
+| | |   | \-Phanerochaete carnosa
+| | |   ++Sparassidaceae
+| | |   | \-Sparassis crispa
+| | |   ++Dacryobolaceae
+| | |   | \-Postia placenta
+| | |   \-Polyporaceae
+| | |     +-Dichomitus
+| | |     | \-Dichomitus squalens
+| | |     \-Trametes
+| | |       \-Trametes versicolor
+| | +-Pucciniomycetes
+| | | \-Pucciniales
+| | |   ++Melampsoraceae
+| | |   | \-Melampsora larici-populina
+| | |   \+Pucciniaceae
+| | |     \-Puccinia graminis
+| | ++Microbotryomycetes
+| | | \-Rhodotorula toruloides
+| | +-Exobasidiomycetes
+| | | +-Microstromatales
+| | | | +-Pseudomicrostroma
+| | | | | \-Pseudomicrostroma glucosiphilum
+| | | | \-Jaminaea
+| | | |   \-Jaminaea rosea
+| | | ++Ceraceosorales
+| | | | \-Ceraceosorus guamensis
+| | | +-Exobasidiales
+| | | | ++Brachybasidiaceae
+| | | | | \-Meira miltonrushii
+| | | | \+Cryptobasidiaceae
+| | | |   \-Acaromyces ingoldii
+| | | ++Entylomatales
+| | | | \-Tilletiopsis washingtonensis
+| | | \+Georgefischeriales
+| | |   \-Tilletiaria anomala
+| | ++Ustilaginomycetes
+| | | \-Ustilaginaceae
+| | |   +-Kalmanozyma
+| | |   | \-Kalmanozyma brasiliensis
+| | |   +-Pseudozyma
+| | |   | \-Pseudozyma hubeiensis
+| | |   +-Sporisorium
+| | |   | \-Sporisorium graminicola
+| | |   +-Moesziomyces
+| | |   | \-Moesziomyces antarcticus
+| | |   +-Anthracocystis
+| | |   | \-Anthracocystis flocculosa
+| | |   \-Ustilago
+| | |     \-Ustilago maydis
+| | \-Tremellomycetes
+| |   +-Trichosporonales
+| |   | \-Trichosporonaceae
+| |   |   +-Cutaneotrichosporon
+| |   |   | \-Cutaneotrichosporon oleaginosum
+| |   |   +-Apiotrichum
+| |   |   | \-Apiotrichum porosum
+| |   |   \-Trichosporon
+| |   |     \-Trichosporon asahii
+| |   \-Tremellales
+| |     ++Tremellaceae
+| |     | \-Tremella mesenterica
+| |     +-Cryptococcaceae
+| |     | \-Cryptococcus
+| |     |   +-Cryptococcus gattii VGI
+| |     |   \-Cryptococcus neoformans
+| |     \+Cuniculitremaceae
+| |       \-Kockovaella imperatae
+| \-Ascomycota
+|   ++Pneumocystidomycetes
+|   | \-Pneumocystis murina
+|   ++Pezizomycetes
+|   | \-Tuber melanosporum
+|   ++Orbiliomycetes
+|   | \-Arthrobotrys oligospora
+|   +-Saitoella
+|   | \-Saitoella complicata
+|   +-Sordariomycetes
+|   | ++Microascales
+|   | | \-Scedosporium apiospermum
+|   | ++Xylariales
+|   | | \-Pestalotiopsis fici
+|   | ++Togniniales
+|   | | \-Phaeoacremonium minimum
+|   | +-Magnaporthales
+|   | | +-Pyriculariaceae
+|   | | | \-Pyricularia
+|   | | |   +-Pyricularia pennisetigena
+|   | | |   +-Pyricularia oryzae
+|   | | |   \-Pyricularia grisea
+|   | | \+Magnaporthaceae
+|   | |   \-Gaeumannomyces tritici
+|   | +-Ophiostomatales
+|   | | \-Ophiostomataceae
+|   | |   +-Grosmannia
+|   | |   | \-Grosmannia clavigera
+|   | |   \-Sporothrix
+|   | |     \-Sporothrix schenckii
+|   | +-Glomerellales
+|   | | +-Glomerellaceae
+|   | | | \-Colletotrichum
+|   | | |   +-Colletotrichum orchidophilum
+|   | | |   +-Colletotrichum fructicola
+|   | | |   +-Colletotrichum higginsianum
+|   | | |   \-Colletotrichum graminicola
+|   | | \-Plectosphaerellaceae
+|   | |   +-Sodiomyces
+|   | |   | \-Sodiomyces alkalinus
+|   | |   \-Verticillium
+|   | |     +-Verticillium nonalfalfae
+|   | |     +-Verticillium alfalfae
+|   | |     \-Verticillium dahliae
+|   | +-Sordariales
+|   | | +-Chaetomiaceae
+|   | | | +-Podospora
+|   | | | | \-Podospora anserina
+|   | | | +-Thermothielavioides
+|   | | | | \-Thermothielavioides terrestris
+|   | | | +-Thermothelomyces
+|   | | | | \-Thermothelomyces thermophilus
+|   | | | \-Chaetomium
+|   | | |   +-Chaetomium thermophilum
+|   | | |   \-Chaetomium globosum
+|   | | \-Sordariaceae
+|   | |   +-Sordaria
+|   | |   | \-Sordaria macrospora
+|   | |   \-Neurospora
+|   | |     +-Neurospora tetrasperma
+|   | |     \-Neurospora crassa
+|   | \-Hypocreales
+|   |   ++Bionectriaceae
+|   |   | \-Geosmithia morbida
+|   |   +-Clavicipitaceae
+|   |   | +-Pochonia
+|   |   | | \-Pochonia chlamydosporia
+|   |   | \-Metarhizium
+|   |   |   +-Metarhizium robertsii
+|   |   |   +-Metarhizium brunneum
+|   |   |   \-Metarhizium acridum
+|   |   +-Cordycipitaceae
+|   |   | +-Beauveria
+|   |   | | \-Beauveria bassiana
+|   |   | \-Cordyceps
+|   |   |   +-Cordyceps fumosorosea
+|   |   |   \-Cordyceps militaris
+|   |   ++Ophiocordycipitaceae
+|   |   | \-Purpureocillium lilacinum
+|   |   +-Hypocreaceae
+|   |   | \-Trichoderma
+|   |   |   +-Trichoderma gamsii
+|   |   |   +-Trichoderma asperellum
+|   |   |   +-Trichoderma atroviride
+|   |   |   +-Trichoderma citrinoviride
+|   |   |   +-Trichoderma reesei
+|   |   |   +-Trichoderma virens
+|   |   |   \-Trichoderma harzianum
+|   |   \-Nectriaceae
+|   |     \-Fusarium
+|   |       +-Fusarium proliferatum
+|   |       +-[Nectria] haematococca
+|   |       +-Fusarium verticillioides
+|   |       +-Fusarium pseudograminearum
+|   |       +-Fusarium venenatum
+|   |       +-Fusarium graminearum
+|   |       +-Fusarium oxysporum
+|   |       \-Fusarium fujikuroi
+|   +-Leotiomycetes
+|   | ++Pseudeurotiaceae
+|   | | \-Pseudogymnoascus destructans
+|   | +-Helotiales
+|   | | ++Hyaloscyphaceae
+|   | | | \-Hyaloscypha bicolor
+|   | | ++Lachnaceae
+|   | | | \-Lachnellula hyalina
+|   | | ++Dermateaceae
+|   | | | \-Marssonina brunnea
+|   | | ++Helotiaceae
+|   | | | \-Glarea lozoyensis
+|   | | \-Sclerotiniaceae
+|   | |   +-Botrytis
+|   | |   | \-Botrytis cinerea
+|   | |   \-Sclerotinia
+|   | |     \-Sclerotinia sclerotiorum
+|   | \+Myxotrichaceae
+|   |   \-Amorphotheca resinae
+|   +-Eurotiomycetes
+|   | ++Verrucariales
+|   | | \-Endocarpon pusillum
+|   | +-Chaetothyriales
+|   | | ++Cyphellophoraceae
+|   | | | \-Cyphellophora europaea
+|   | | \-Herpotrichiellaceae
+|   | |   +-Rhinocladiella
+|   | |   | \-Rhinocladiella mackenziei
+|   | |   +-Cladophialophora
+|   | |   | +-Cladophialophora psammophila
+|   | |   | +-Cladophialophora immunda
+|   | |   | +-Cladophialophora yegresii
+|   | |   | +-Cladophialophora bantiana
+|   | |   | \-Cladophialophora carrionii
+|   | |   +-Capronia
+|   | |   | +-Capronia coronata
+|   | |   | \-Capronia epimyces
+|   | |   +-Fonsecaea
+|   | |   | +-Fonsecaea multimorphosa
+|   | |   | +-Fonsecaea nubica
+|   | |   | +-Fonsecaea monophora
+|   | |   | \-Fonsecaea pedrosoi
+|   | |   \-Exophiala
+|   | |     +-Exophiala aquamarina
+|   | |     +-Exophiala xenobiotica
+|   | |     +-Exophiala oligosperma
+|   | |     +-Exophiala mesophila
+|   | |     +-Exophiala spinifera
+|   | |     \-Exophiala dermatitidis
+|   | +-Eurotiales
+|   | | ++Thermoascaceae
+|   | | | \-Byssochlamys spectabilis
+|   | | +-Trichocomaceae
+|   | | | +-Rasamsonia
+|   | | | | \-Rasamsonia emersonii
+|   | | | \-Talaromyces
+|   | | |   +-Talaromyces atroroseus
+|   | | |   +-Talaromyces marneffei
+|   | | |   \-Talaromyces stipitatus
+|   | | \-Aspergillaceae
+|   | |   +-Penicilliopsis
+|   | |   | \-Penicilliopsis zonata
+|   | |   +-Penicillium
+|   | |   | +-Penicillium arizonense
+|   | |   | +-Penicillium digitatum
+|   | |   | +-Penicillium expansum
+|   | |   | \-Penicillium chrysogenum
+|   | |   \-Aspergillus
+|   | |     +-Aspergillus mulundensis
+|   | |     +-Aspergillus pseudonomius
+|   | |     +-Aspergillus welwitschiae
+|   | |     +-Aspergillus eucalypticola
+|   | |     +-Aspergillus tanneri
+|   | |     +-Aspergillus neoniger
+|   | |     +-Aspergillus brunneoviolaceus
+|   | |     +-Aspergillus saccharolyticus
+|   | |     +-Aspergillus fumigatus
+|   | |     +-Aspergillus aculeatinus
+|   | |     +-Aspergillus uvarum
+|   | |     +-Aspergillus novofumigatus
+|   | |     +-Aspergillus costaricensis
+|   | |     +-Aspergillus piperis
+|   | |     +-Aspergillus sclerotioniger
+|   | |     +-Aspergillus homomorphus
+|   | |     +-Aspergillus steynii
+|   | |     +-Aspergillus ibericus
+|   | |     +-Aspergillus lentulus
+|   | |     +-Aspergillus vadensis
+|   | |     +-Aspergillus alliaceus
+|   | |     +-Aspergillus nidulans
+|   | |     +-Aspergillus pseudotamarii
+|   | |     +-Aspergillus bombycis
+|   | |     +-Aspergillus caelatus
+|   | |     +-Aspergillus heteromorphus
+|   | |     +-Aspergillus glaucus
+|   | |     +-Aspergillus campestris
+|   | |     +-Aspergillus candidus
+|   | |     +-Aspergillus nomiae
+|   | |     +-Aspergillus thermomutatus
+|   | |     +-Aspergillus fischeri
+|   | |     +-Aspergillus japonicus
+|   | |     +-Aspergillus terreus
+|   | |     +-Aspergillus tubingensis
+|   | |     +-Aspergillus oryzae
+|   | |     +-Aspergillus niger
+|   | |     +-Aspergillus flavus
+|   | |     +-Aspergillus clavatus
+|   | |     \-Aspergillus aculeatus
+|   | \-Onygenales
+|   |   +-Paracoccidioides
+|   |   | +-Paracoccidioides lutzii
+|   |   | \-Paracoccidioides brasiliensis
+|   |   ++Onygenaceae
+|   |   | \-Uncinocarpus reesii
+|   |   +-Arthrodermataceae
+|   |   | +-Microsporum
+|   |   | | \-Microsporum canis
+|   |   | +-Nannizzia
+|   |   | | \-Nannizzia gypsea
+|   |   | \-Trichophyton
+|   |   |   +-Trichophyton verrucosum
+|   |   |   +-Trichophyton benhamiae
+|   |   |   \-Trichophyton rubrum
+|   |   +-Coccidioides
+|   |   | +-Coccidioides posadasii
+|   |   | \-Coccidioides immitis
+|   |   \-Ajellomycetaceae
+|   |     +-Blastomyces
+|   |     | \-Blastomyces gilchristii
+|   |     \-Histoplasma
+|   |       \-Histoplasma capsulatum
+|   +-Dothideomycetes
+|   | ++Eremomycetales
+|   | | \-Eremomyces bilateralis
+|   | ++Acrospermales
+|   | | \-Pseudovirgaria hyperparasitica
+|   | ++Venturiales
+|   | | \-Verruconis gallopava
+|   | ++Botryosphaeriales
+|   | | \-Diplodia corticola
+|   | +-Mycosphaerellales
+|   | | +-Teratosphaeriaceae
+|   | | | +-Baudoinia
+|   | | | | \-Baudoinia panamericana
+|   | | | \-Neohortaea
+|   | | |   \-Neohortaea acidophila
+|   | | \-Mycosphaerellaceae
+|   | |   +-Pseudocercospora
+|   | |   | \-Pseudocercospora fijiensis
+|   | |   +-Zymoseptoria
+|   | |   | \-Zymoseptoria tritici
+|   | |   +-Cercospora
+|   | |   | \-Cercospora beticola
+|   | |   +-Ramularia
+|   | |   | \-Ramularia collo-cygni
+|   | |   \-Sphaerulina
+|   | |     \-Sphaerulina musiva
+|   | +-Bonordeniella
+|   | | \-Coniosporium apollinis
+|   | ++Dothideales
+|   | | \-Aureobasidium
+|   | |   +-Aureobasidium subglaciale
+|   | |   +-Aureobasidium namibiae
+|   | |   \-Aureobasidium pullulans
+|   | \-Pleosporales
+|   |   ++Didymosphaeriaceae
+|   |   | \-Paraphaeosphaeria sporulosa
+|   |   ++Phaeosphaeriaceae
+|   |   | \-Parastagonospora nodorum
+|   |   ++Leptosphaeriaceae
+|   |   | \-Leptosphaeria maculans
+|   |   \-Pleosporaceae
+|   |     +-Pyrenophora
+|   |     | \-Pyrenophora tritici-repentis
+|   |     +-Alternaria
+|   |     | +-Alternaria arborescens
+|   |     | \-Alternaria alternata
+|   |     \-Bipolaris
+|   |       +-Bipolaris oryzae
+|   |       +-Bipolaris sorokiniana
+|   |       +-Bipolaris victoriae
+|   |       +-Bipolaris zeicola
+|   |       \-Bipolaris maydis
+|   +-Saccharomycetes
+|   | \-Saccharomycetales
+|   |   +-Kuraishia
+|   |   | \-Kuraishia capsulata
+|   |   ++Ascoideaceae
+|   |   | \-Ascoidea rubescens
+|   |   +-Trichomonascaceae
+|   |   | +-Sugiyamaella
+|   |   | | \-Sugiyamaella lignohabitans
+|   |   | \-Wickerhamiella
+|   |   |   \-Wickerhamiella sorbophila
+|   |   +-Metschnikowiaceae
+|   |   | +-Clavispora
+|   |   | | +-[Candida] duobushaemulonis
+|   |   | | +-[Candida] auris
+|   |   | | +-[Candida] pseudohaemulonis
+|   |   | | +-[Candida] haemuloni
+|   |   | | \-Clavispora lusitaniae
+|   |   | \-Metschnikowia
+|   |   |   \-Metschnikowia bicuspidata
+|   |   ++Dipodascaceae
+|   |   | \-Yarrowia lipolytica
+|   |   +-Debaryomycetaceae
+|   |   | +-Yamadazyma
+|   |   | | \-Yamadazyma tenuis
+|   |   | +-Hyphopichia
+|   |   | | \-Hyphopichia burtonii
+|   |   | +-Spathaspora
+|   |   | | \-Spathaspora passalidarum
+|   |   | +-Suhomyces
+|   |   | | \-Suhomyces tanzawaensis
+|   |   | +-Lodderomyces
+|   |   | | \-Lodderomyces elongisporus
+|   |   | +-Candida
+|   |   | | +-Candida orthopsilosis
+|   |   | | +-Candida dubliniensis
+|   |   | | +-Candida tropicalis
+|   |   | | +-Candida parapsilosis
+|   |   | | \-Candida albicans
+|   |   | +-Debaryomyces
+|   |   | | +-Debaryomyces fabryi
+|   |   | | \-Debaryomyces hansenii
+|   |   | +-Meyerozyma
+|   |   | | \-Meyerozyma guilliermondii
+|   |   | \-Scheffersomyces
+|   |   |   \-Scheffersomyces stipitis
+|   |   +-Saccharomycetaceae
+|   |   | +-Kazachstania
+|   |   | | +-Kazachstania naganishii
+|   |   | | \-Kazachstania africana
+|   |   | +-Lachancea
+|   |   | | +-Lachancea lanzarotensis
+|   |   | | \-Lachancea thermotolerans
+|   |   | +-Tetrapisispora
+|   |   | | +-Tetrapisispora blattae
+|   |   | | \-Tetrapisispora phaffii
+|   |   | +-Vanderwaltozyma
+|   |   | | \-Vanderwaltozyma polyspora
+|   |   | +-Eremothecium
+|   |   | | +-Eremothecium sinecaudum
+|   |   | | +-Eremothecium cymbalariae
+|   |   | | \-Eremothecium gossypii
+|   |   | +-Naumovozyma
+|   |   | | +-Naumovozyma dairenensis
+|   |   | | \-Naumovozyma castellii
+|   |   | +-Nakaseomyces
+|   |   | | \-[Candida] glabrata
+|   |   | +-Zygosaccharomyces
+|   |   | | \-Zygosaccharomyces rouxii
+|   |   | +-Torulaspora
+|   |   | | \-Torulaspora delbrueckii
+|   |   | +-Saccharomyces
+|   |   | | +-Saccharomyces eubayanus
+|   |   | | +-Saccharomyces paradoxus
+|   |   | | \-Saccharomyces cerevisiae
+|   |   | \-Kluyveromyces
+|   |   |   +-Kluyveromyces lactis
+|   |   |   \-Kluyveromyces marxianus
+|   |   +-Pichiaceae
+|   |   | +-Ogataea
+|   |   | | +-Ogataea parapolymorpha
+|   |   | | \-Ogataea polymorpha
+|   |   | \-Pichia
+|   |   |   \-Pichia kudriavzevii
+|   |   \-Phaffomycetaceae
+|   |     +-Wickerhamomyces
+|   |     | \-Wickerhamomyces ciferrii
+|   |     +-Komagataella
+|   |     | \-Komagataella phaffii
+|   |     \-Cyberlindnera
+|   |       \-Cyberlindnera jadinii
+|   \+Schizosaccharomycetes
+|     \-Schizosaccharomyces
+|       +-Schizosaccharomyces cryophilus
+|       +-Schizosaccharomyces octosporus
+|       +-Schizosaccharomyces japonicus
+|       \-Schizosaccharomyces pombe
++-Oomycota
+| +-Saprolegniales
+| | \-Saprolegniaceae
+| |   +-Aphanomyces
+| |   | +-Aphanomyces invadans
+| |   | \-Aphanomyces astaci
+| |   \-Saprolegnia
+| |     +-Saprolegnia diclina
+| |     \-Saprolegnia parasitica
+| \-Peronosporales
+|   \-Peronosporaceae
+|     +-Phytophthora
+|     | +-Phytophthora sojae
+|     | +-Phytophthora parasitica
+|     | \-Phytophthora infestans
+|     \-Plasmopara
+|       \-Plasmopara halstedii
+++Haptista
+| \-Emiliania huxleyi
++-Cryptophyceae
+| ++Pyrenomonadales
+| | \-Guillardia theta
+| \-Cryptomonadales
+|   ++Hemiselmidaceae
+|   | \-Hemiselmis andersenii
+|   \+Cryptomonadaceae
+|     \-Cryptomonas paramecium
++-Bacillariophyta
+| ++Coscinodiscophyceae
+| | \-Thalassiosira pseudonana
+| \+Bacillariophyceae
+|   \-Phaeodactylum tricornutum
++-Rhodophyta
+| ++Bangiophyceae
+| | \-Cyanidiaceae
+| |   +-Galdieria
+| |   | \-Galdieria sulphuraria
+| |   \-Cyanidioschyzon
+| |     \-Cyanidioschyzon merolae
+| \+Florideophyceae
+|   \-Chondrus crispus
+\-Viridiplantae
+  +-Chlorophyta
+  | +-Mamiellophyceae
+  | | \-Mamiellales
+  | |   +-Bathycoccaceae
+  | |   | +-Ostreococcus
+  | |   | | +-Ostreococcus sp. 'lucimarinus'
+  | |   | | \-Ostreococcus tauri
+  | |   | \-Bathycoccus
+  | |   |   \-Bathycoccus prasinos
+  | |   \-Mamiellaceae
+  | |     \-Micromonas
+  | |       +-Micromonas commoda
+  | |       \-Micromonas pusilla
+  | +-Trebouxiophyceae
+  | | +-Coccomyxa
+  | | | \-Coccomyxa subellipsoidea
+  | | \-Chlorellales
+  | |   \-Chlorellaceae
+  | |     +-Chlorella
+  | |     | \-Chlorella variabilis
+  | |     \-Auxenochlorella
+  | |       \-Auxenochlorella protothecoides
+  | \-Chlorophyceae
+  |   ++Sphaeropleales
+  |   | \-Monoraphidium neglectum
+  |   \-Chlamydomonadales
+  |     ++Volvocaceae
+  |     | \-Volvox carteri
+  |     \+Chlamydomonadaceae
+  |       \-Chlamydomonas reinhardtii
+  \-Streptophyta
+    ++Lycopodiopsida
+    | \-Selaginella moellendorffii
+    ++Bryopsida
+    | \-Physcomitrium patens
+    \-Magnoliopsida
+      ++Nymphaeales
+      | \-Nymphaea colorata
+      +-Fagales
+      | +-Fagaceae
+      | | \-Quercus
+      | |   +-Quercus lobata
+      | |   \-Quercus suber
+      | \+Juglandaceae
+      |   \-Juglans regia
+      +-Arecales
+      | \-Arecaceae
+      |   +-Elaeis
+      |   | \-Elaeis guineensis
+      |   \-Phoenix
+      |     \-Phoenix dactylifera
+      ++Vitales
+      | \-Vitis
+      |   +-Vitis riparia
+      |   \-Vitis vinifera
+      +-Myrtales
+      | +-Myrtaceae
+      | | +-Syzygium
+      | | | \-Syzygium oleosum
+      | | +-Rhodamnia
+      | | | \-Rhodamnia argentea
+      | | \-Eucalyptus
+      | |   \-Eucalyptus grandis
+      | \+Lythraceae
+      |   \-Punica granatum
+      ++Gentianales
+      | \-Coffea
+      |   +-Coffea eugenioides
+      |   \-Coffea arabica
+      ++Amborellales
+      | \-Amborella trichopoda
+      +-Asparagales
+      | +-Orchidaceae
+      | | +-Dendrobium
+      | | | \-Dendrobium catenatum
+      | | \-Phalaenopsis
+      | |   \-Phalaenopsis equestris
+      | \+Asparagaceae
+      |   \-Asparagus officinalis
+      ++Zingiberales
+      | \-Musa acuminata
+      +-Poales
+      | ++Bromeliaceae
+      | | \-Ananas comosus
+      | \-Poaceae
+      |   +-Panicum
+      |   | \-Panicum hallii
+      |   +-Aegilops
+      |   | \-Aegilops tauschii
+      |   +-Brachypodium
+      |   | \-Brachypodium distachyon
+      |   +-Zea
+      |   | \-Zea mays
+      |   +-Sorghum
+      |   | \-Sorghum bicolor
+      |   +-Setaria
+      |   | +-Setaria viridis
+      |   | \-Setaria italica
+      |   \-Oryza
+      |     +-Oryza brachyantha
+      |     \-Oryza sativa
+      ++Ericales
+      | \-Camellia sinensis
+      ++Proteales
+      | \-Nelumbo nucifera
+      +-Asterales
+      | \-Asteraceae
+      |   +-Cynara
+      |   | \-Cynara cardunculus
+      |   +-Lactuca
+      |   | \-Lactuca sativa
+      |   \-Helianthus
+      |     \-Helianthus annuus
+      +-Lamiales
+      | ++Pedaliaceae
+      | | \-Sesamum indicum
+      | ++Phrymaceae
+      | | \-Erythranthe guttata
+      | \+Oleaceae
+      |   \-Olea europaea
+      +-Solanales
+      | +-Convolvulaceae
+      | | \-Ipomoea
+      | |   +-Ipomoea triloba
+      | |   \-Ipomoea nil
+      | \-Solanaceae
+      |   +-Nicotiana
+      |   | +-Nicotiana attenuata
+      |   | +-Nicotiana tomentosiformis
+      |   | +-Nicotiana tabacum
+      |   | \-Nicotiana sylvestris
+      |   +-Solanum
+      |   | +-Solanum pennellii
+      |   | +-Solanum tuberosum
+      |   | \-Solanum lycopersicum
+      |   \-Capsicum
+      |     \-Capsicum annuum
+      ++Apiales
+      | \-Daucus carota
+      +-Fabales
+      | \-Fabaceae
+      |   +-Prosopis
+      |   | \-Prosopis alba
+      |   +-Vigna
+      |   | +-Vigna radiata
+      |   | +-Vigna unguiculata
+      |   | \-Vigna angularis
+      |   +-Phaseolus
+      |   | \-Phaseolus vulgaris
+      |   +-Medicago
+      |   | \-Medicago truncatula
+      |   +-Lupinus
+      |   | \-Lupinus angustifolius
+      |   +-Glycine
+      |   | +-Glycine soja
+      |   | \-Glycine max
+      |   +-Cicer
+      |   | \-Cicer arietinum
+      |   +-Cajanus
+      |   | \-Cajanus cajan
+      |   +-Arachis
+      |   | +-Arachis ipaensis
+      |   | +-Arachis duranensis
+      |   | \-Arachis hypogaea
+      |   \-Abrus
+      |     \-Abrus precatorius
+      +-Malpighiales
+      | +-Euphorbiaceae
+      | | +-Jatropha
+      | | | \-Jatropha curcas
+      | | +-Ricinus
+      | | | \-Ricinus communis
+      | | +-Manihot
+      | | | \-Manihot esculenta
+      | | \-Hevea
+      | |   \-Hevea brasiliensis
+      | \-Salicaceae
+      |   \-Populus
+      |     +-Populus euphratica
+      |     +-Populus alba
+      |     \-Populus trichocarpa
+      +-Cucurbitales
+      | \-Cucurbitaceae
+      |   +-Momordica
+      |   | \-Momordica charantia
+      |   +-Cucurbita
+      |   | +-Cucurbita pepo
+      |   | +-Cucurbita moschata
+      |   | \-Cucurbita maxima
+      |   \-Cucumis
+      |     +-Cucumis sativus
+      |     \-Cucumis melo
+      +-Brassicales
+      | ++Cleomaceae
+      | | \-Tarenaya hassleriana
+      | +-Brassicaceae
+      | | +-Camelina
+      | | | \-Camelina sativa
+      | | +-Capsella
+      | | | \-Capsella rubella
+      | | +-Eutrema
+      | | | \-Eutrema salsugineum
+      | | +-Raphanus
+      | | | \-Raphanus sativus
+      | | +-Brassica
+      | | | +-Brassica oleracea
+      | | | +-Brassica rapa
+      | | | \-Brassica napus
+      | | \-Arabidopsis
+      | |   +-Arabidopsis lyrata
+      | |   \-Arabidopsis thaliana
+      | \+Caricaceae
+      |   \-Carica papaya
+      +-Malvales
+      | \-Malvaceae
+      |   +-Herrania
+      |   | \-Herrania umbratica
+      |   +-Durio
+      |   | \-Durio zibethinus
+      |   +-Theobroma
+      |   | \-Theobroma cacao
+      |   \-Gossypium
+      |     +-Gossypium raimondii
+      |     +-Gossypium arboreum
+      |     \-Gossypium hirsutum
+      +-Caryophyllales
+      | \-Chenopodiaceae
+      |   +-Beta
+      |   | \-Beta vulgaris
+      |   +-Chenopodium
+      |   | \-Chenopodium quinoa
+      |   \-Spinacia
+      |     \-Spinacia oleracea
+      +-Rosales
+      | ++Moraceae
+      | | \-Morus notabilis
+      | ++Rhamnaceae
+      | | \-Ziziphus jujuba
+      | +-Rosaceae
+      | | +-Rosa
+      | | | \-Rosa chinensis
+      | | +-Fragaria
+      | | | \-Fragaria vesca
+      | | +-Prunus
+      | | | +-Prunus mume
+      | | | +-Prunus avium
+      | | | +-Prunus persica
+      | | | \-Prunus dulcis
+      | | \-Malus
+      | |   \-Malus domestica
+      | \+Cannabaceae
+      |   \-Cannabis sativa
+      ++Ranunculales
+      | \-Papaver somniferum
+      \-Sapindales
+        ++Anacardiaceae
+        | \-Pistacia vera
+        \-Rutaceae
+          \-Citrus
+            +-Citrus clementina
+            \-Citrus sinensis
+-----------------------------------
