@@ -17,11 +17,13 @@ R CMD BATCH construct-barcodes.R
 
 # apply code to process individual trees to each tree we want to visualise
 # "depths" -- to pull all leaves down to the same level -- are chosen manually
-chmod +x phylo-individual.sh
-./phylo-individual.sh commontree.txt 7
-./phylo-individual.sh commontree-metazoa.txt 7
-./phylo-individual.sh msh1-blastx-tree.txt 8
-./phylo-individual.sh mgm101-blastx-tree.txt 9
-./phylo-individual.sh mhr1-blastx-tree.txt 8
-./phylo-individual.sh commontree-genera.txt 7
+chmod +x process-individual-tree.sh
+chmod +x tree-to-old-format.sh
+chmod +x pad-tree.sh
+./process-individual-tree.sh commontree.txt 7
+#./process-individual-tree.sh commontree-metazoa.txt 7
+./process-individual-tree.sh msh1-blastx-tree.txt 8
+./process-individual-tree.sh mgm101-blastx-tree.txt 9
+./process-individual-tree.sh mhr1-blastx-tree.txt 8
+#./process-individual-tree.sh commontree-genera.txt 7
 
