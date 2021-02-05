@@ -114,8 +114,6 @@ Eukaryota
   +-Zoopagomycota
   | ++Basidiobolomycetes
   | | \-Basidiobolus meristosporus CBS 931.73
-  | ++Entomophthoromycetes
-  | | \-Conidiobolus coronatus NRRL 28638
   | ++Dimargaritomycetes
   | | \-Dimargaris cristalligena
   | +-Zoopagomycetes
@@ -138,12 +136,18 @@ Eukaryota
   | |   |   \-Smittium angustum
   | |   \+Harpellaceae
   | |     \-Furculomyces boomerangus
-  | \+Kickxellomycetes
-  |   \-Kickxellaceae
-  |     ++Coemansia
-  |     | \-Coemansia reversa NRRL 1564
-  |     \-Linderina
-  |       \-Linderina pennispora
+  | ++Kickxellomycetes
+  | | \-Kickxellaceae
+  | |   ++Coemansia
+  | |   | \-Coemansia reversa NRRL 1564
+  | |   \-Linderina
+  | |     \-Linderina pennispora
+  | \-Entomophthoromycetes
+  |   \-Entomophthorales
+  |     ++Ancylistaceae
+  |     | \-Conidiobolus coronatus NRRL 28638
+  |     \+Entomophthoraceae
+  |       \-Entomophthora muscae
   +-Basidiomycota
   | ++Dacrymycetes
   | | \-Dacrymycetaceae
@@ -210,12 +214,14 @@ Eukaryota
   | | \-Pucciniales
   | |   ++Melampsoraceae
   | |   | \-Melampsora larici-populina 98AG31
+  | |   ++Coleosporiaceae
+  | |   | \-Cronartium quercuum f. sp. fusiforme G11
   | |   \-Pucciniaceae
   | |     \-Puccinia
   | |       +-Puccinia triticina
   | |       | \-Puccinia triticina 1-1 BBBD Race 1
   | |       +-Puccinia coronata
-  | |       | \-Puccinia coronata var. avenae f. sp. avenae
+  | |       | \-Puccinia coronata f. sp. avenae
   | |       +-Puccinia graminis
   | |       | \-Puccinia graminis f. sp. tritici
   | |       |   \-Puccinia graminis f. sp. tritici CRL 75-36-700-3
@@ -274,61 +280,39 @@ Eukaryota
   | | | | \-Exidia glandulosa HHB12029
   | | | \+Auriculariaceae
   | | |   \-Auricularia subglabra TFB-10046 SS5
+  | | +-Atheliales
+  | | | \-Atheliaceae
+  | | |   +-Athelia
+  | | |   | \-Athelia sp. TMB
+  | | |   ++Piloderma
+  | | |   | \-Piloderma croceum F 1598
+  | | |   \-Fibularhizoctonia
+  | | |     \-Fibularhizoctonia sp. CBS 109695
   | | +-Cantharellales
+  | | | ++Cantharellaceae
+  | | | | \-Cantharellus anzutake
+  | | | +-Hydnaceae
+  | | | | +-Clavulina
+  | | | | | \-Clavulina sp. PMI_390
+  | | | | \+Hydnum
+  | | | |   \-Hydnum rufescens UP504
   | | | ++Tulasnellaceae
   | | | | \-Tulasnella calospora MUT 4182
   | | | ++Botryobasidiaceae
   | | | | \-Botryobasidium botryosum FD-172 SS1
   | | | \-Ceratobasidiaceae
-  | | |   +-Ceratobasidium
-  | | |   | \-Ceratobasidium theobromae
-  | | |   \-Rhizoctonia
-  | | |     \-Rhizoctonia solani
-  | | |       +-Rhizoctonia solani 123E
-  | | |       +-Rhizoctonia solani AG-8 WAC10335
-  | | |       +-Rhizoctonia solani AG-1 IB
-  | | |       +-Rhizoctonia solani AG-3 Rhs1AP
-  | | |       \-Rhizoctonia solani AG-1 IA
-  | | +-Atheliales
-  | | | \-Atheliaceae
-  | | |   ++Piloderma
-  | | |   | \-Piloderma croceum F 1598
-  | | |   \-Fibularhizoctonia
-  | | |     \-Fibularhizoctonia sp. CBS 109695
-  | | +-Boletales
-  | | | ++Sclerodermataceae
-  | | | | \-Scleroderma citrinum Foug A
-  | | | +-Suillaceae
-  | | | | \-Suillus
-  | | | |   +-Suillus brevipes
-  | | | |   | \-Suillus brevipes Sb2
-  | | | |   \-Suillus luteus
-  | | | |     \-Suillus luteus UH-Slu-Lm8-n1
-  | | | +-Pisolithaceae
-  | | | | \-Pisolithus
-  | | | |   +-Pisolithus tinctorius
-  | | | |   | \-Pisolithus tinctorius Marx 270
-  | | | |   \-Pisolithus microcarpus
-  | | | |     \-Pisolithus microcarpus 441
-  | | | ++Coniophoraceae
-  | | | | \-Coniophora puteana RWD-64-598 SS2
-  | | | +-Paxillaceae
-  | | | | ++Hydnomerulius
-  | | | | | \-Hydnomerulius pinastri MD-312
-  | | | | \-Paxillus
-  | | | |   +-Paxillus rubicundulus
-  | | | |   | \-Paxillus rubicundulus Ve08.2h10
-  | | | |   \-Paxillus involutus
-  | | | |     \-Paxillus involutus ATCC 200175
-  | | | ++Serpulaceae
-  | | | | \-Serpula lacrymans
-  | | | |   +-Serpula lacrymans var. lacrymans S7.3
-  | | | |   \-Serpula lacrymans var. lacrymans S7.9
-  | | | \-Rhizopogonaceae
-  | | |   \-Rhizopogon
-  | | |     +-Rhizopogon vinicolor
-  | | |     | \-Rhizopogon vinicolor AM-OR11-026
-  | | |     \-Rhizopogon vesiculosus
+  | | |   +-Rhizoctonia
+  | | |   | \-Rhizoctonia solani
+  | | |   |   +-Rhizoctonia solani 123E
+  | | |   |   +-Rhizoctonia solani AG-8 WAC10335
+  | | |   |   +-Rhizoctonia solani AG-1 IB
+  | | |   |   +-Rhizoctonia solani AG-3 Rhs1AP
+  | | |   |   \-Rhizoctonia solani AG-1 IA
+  | | |   \-Ceratobasidium
+  | | |     +-Ceratobasidium theobromae
+  | | |     \-Ceratobasidium sp. AG-I
+  | | ++Hysterangiales
+  | | | \-Hysterangium stoloniferum
   | | +-Russulales
   | | | +-Bondarzewiaceae
   | | | | +-Bondarzewia
@@ -341,12 +325,25 @@ Eukaryota
   | | | | \-Peniophora
   | | | |   +-Peniophora sp. CONT
   | | | |   \-Peniophora sp. CBMAI 1063
+  | | | +-Russulaceae
+  | | | | \-Russula
+  | | | |   +-Russula ochroleuca
+  | | | |   \-Russula emetica
   | | | \-Hericiaceae
   | | |   +-Dentipellis
   | | |   | +-Dentipellis sp. KUC8613
   | | |   | \-Dentipellis fragilis
   | | |   \-Hericium
   | | |     \-Hericium alpestre
+  | | +-Gomphales
+  | | | ++Gomphaceae
+  | | | | \-Ramaria rubella
+  | | | \+Gautieriaceae
+  | | |   \-Gautieria morchelliformis
+  | | ++Thelephorales
+  | | | \-Thelephora
+  | | |   +-Thelephora ganbajun
+  | | |   \-Thelephora terrestris
   | | +-Hymenochaetales
   | | | +-Hymenochaetaceae
   | | | | +-Pyrrhoderma
@@ -371,12 +368,13 @@ Eukaryota
   | | | |   \-Gelatoporia subvermispora B
   | | | ++Phanerochaetaceae
   | | | | \-Phlebiopsis gigantea 11061_1 CR5-6
-  | | | ++Dacryobolaceae
-  | | | | \-Postia placenta MAD-698-R-SB12
   | | | +-Fibroporia
   | | | | \-Fibroporia radiculosa
   | | | ++Sparassidaceae
   | | | | \-Sparassis crispa
+  | | | ++Dacryobolaceae
+  | | | | \-Postia placenta
+  | | | |   \-Postia placenta MAD-698-R-SB12
   | | | ++Meruliaceae
   | | | | \-Phlebia centrifuga
   | | | +-Steccherinaceae
@@ -414,6 +412,69 @@ Eukaryota
   | | | |   \-Trametes cinnabarina
   | | | \+Grifolaceae
   | | |   \-Grifola frondosa
+  | | +-Boletales
+  | | | ++Sclerodermataceae
+  | | | | \-Scleroderma citrinum Foug A
+  | | | +-Pisolithaceae
+  | | | | \-Pisolithus
+  | | | |   +-Pisolithus tinctorius
+  | | | |   | \-Pisolithus tinctorius Marx 270
+  | | | |   \-Pisolithus microcarpus
+  | | | |     \-Pisolithus microcarpus 441
+  | | | ++Coniophoraceae
+  | | | | \-Coniophora puteana RWD-64-598 SS2
+  | | | +-Paxillaceae
+  | | | | ++Hydnomerulius
+  | | | | | \-Hydnomerulius pinastri MD-312
+  | | | | \-Paxillus
+  | | | |   +-Paxillus ammoniavirescens
+  | | | |   +-Paxillus rubicundulus
+  | | | |   | \-Paxillus rubicundulus Ve08.2h10
+  | | | |   \-Paxillus involutus
+  | | | |     \-Paxillus involutus ATCC 200175
+  | | | ++Serpulaceae
+  | | | | \-Serpula lacrymans
+  | | | |   +-Serpula lacrymans var. lacrymans S7.3
+  | | | |   \-Serpula lacrymans var. lacrymans S7.9
+  | | | +-Rhizopogonaceae
+  | | | | \-Rhizopogon
+  | | | |   +-Rhizopogon vinicolor
+  | | | |   | \-Rhizopogon vinicolor AM-OR11-026
+  | | | |   \-Rhizopogon vesiculosus
+  | | | ++Melanogastraceae
+  | | | | \-Melanogaster broomeianus
+  | | | ++Gyrodontaceae
+  | | | | \-Gyrodon lividus
+  | | | +-Boletaceae
+  | | | | +-Xerocomus
+  | | | | | \-Xerocomus badius
+  | | | | \-Boletus
+  | | | |   \-Boletus edulis
+  | | | \-Suillaceae
+  | | |   \-Suillus
+  | | |     +-Suillus fuscotomentosus
+  | | |     +-Suillus discolor
+  | | |     +-Suillus ampliporus
+  | | |     +-Suillus clintonianus
+  | | |     +-Suillus brevipes
+  | | |     | \-Suillus brevipes Sb2
+  | | |     +-Suillus luteus
+  | | |     | \-Suillus luteus UH-Slu-Lm8-n1
+  | | |     +-Suillus occidentalis
+  | | |     +-Suillus hirtellus
+  | | |     +-Suillus plorans
+  | | |     +-Suillus weaverae
+  | | |     +-Suillus variegatus
+  | | |     +-Suillus tomentosus
+  | | |     +-Suillus subluteus
+  | | |     +-Suillus subaureus
+  | | |     +-Suillus subalutaceus
+  | | |     +-Suillus placidus
+  | | |     +-Suillus paluster
+  | | |     +-Suillus lakei
+  | | |     +-Suillus cothurnatus
+  | | |     +-Suillus americanus
+  | | |     \-Suillus spraguei
   | | +-Gloeophyllales
   | | | +-Gloeophyllaceae
   | | | | ++Neolentinus
@@ -423,36 +484,35 @@ Eukaryota
   | | | \-Heliocybe
   | | |   \-Heliocybe sulcata
   | | \-Agaricales
+  | |   ++Crassisporiaceae
+  | |   | \-Crassisporium funariophilum
   | |   ++Pterulaceae
   | |   | \-Pterula gracilis
   | |   ++Dendrothele
   | |   | \-Dendrothele bispora CBS 962.96
   | |   ++Fistulinaceae
   | |   | \-Fistulina hepatica ATCC 64428
-  | |   ++Tricholomataceae
-  | |   | \-Laccaria amethystina LaAM-08-1
-  | |   +-Amanitaceae
-  | |   | \-Amanita
-  | |   |   +-Amanita muscaria
-  | |   |   | \-Amanita muscaria Koide BX008
-  | |   |   \-Amanita thiersii
-  | |   |     \-Amanita thiersii Skay4041
-  | |   ++Mycenaceae
-  | |   | \-Mycena chlorophos
-  | |   +-Cortinariaceae
-  | |   | ++Hebeloma
-  | |   | | \-Hebeloma cylindrosporum h7
-  | |   | \-Gymnopilus
-  | |   |   \-Gymnopilus dilepis
+  | |   +-Mycenaceae
+  | |   | \-Mycena
+  | |   |   +-Mycena venus
+  | |   |   +-Mycena indigotica
+  | |   |   +-Mycena kentingensis
+  | |   |   +-Mycena chlorophos
+  | |   |   \-Mycena sanguinolenta
   | |   +-Agaricaceae
-  | |   | +-Agaricus
-  | |   | | \-Agaricus bisporus
-  | |   | |   +-Agaricus bisporus var. bisporus H97
-  | |   | |   \-Agaricus bisporus var. burnettii JB137-S8
-  | |   | \-Leucoagaricus
-  | |   |   +-Leucoagaricus sp. SymC.cos
-  | |   |   \-Leucoagaricus leucothites
+  | |   | ++Macrolepiota
+  | |   | | \-Macrolepiota fuliginosa MF-IS2
+  | |   | +-Leucoagaricus
+  | |   | | +-Leucoagaricus sp. SymC.cos
+  | |   | | \-Leucoagaricus leucothites
+  | |   | \-Agaricus
+  | |   |   \-Agaricus bisporus
+  | |   |     +-Agaricus bisporus var. bisporus H97
+  | |   |     \-Agaricus bisporus var. burnettii
+  | |   |       \-Agaricus bisporus var. burnettii JB137-S8
   | |   +-Marasmiaceae
+  | |   | ++Marasmius
+  | |   | | \-Marasmius fiardii PR-910
   | |   | +-Moniliophthora
   | |   | | +-Moniliophthora perniciosa
   | |   | | | \-Moniliophthora perniciosa FA553
@@ -460,8 +520,21 @@ Eukaryota
   | |   | |   \-Moniliophthora roreri MCA 2997
   | |   | \-Tetrapyrgos
   | |   |   \-Tetrapyrgos nigripes
-  | |   ++Pluteaceae
-  | |   | \-Pluteus cervinus
+  | |   +-Pluteaceae
+  | |   | ++Volvariella
+  | |   | | \-Volvariella volvacea WC 439
+  | |   | \-Pluteus
+  | |   |   \-Pluteus cervinus
+  | |   ++Crepidotaceae
+  | |   | \-Crepidotus variabilis
+  | |   +-Cortinariaceae
+  | |   | ++Hebeloma
+  | |   | | \-Hebeloma cylindrosporum h7
+  | |   | +-Cortinarius
+  | |   | | \-Cortinarius glaucopus
+  | |   | \-Gymnopilus
+  | |   |   +-Gymnopilus dilepis
+  | |   |   \-Gymnopilus junonius
   | |   +-Schizophyllaceae
   | |   | ++Schizophyllum
   | |   | | \-Schizophyllum commune H4-8
@@ -472,24 +545,40 @@ Eukaryota
   | |   | | \-Hypholoma sublateritium FD-334 SS-4
   | |   | ++Galerina
   | |   | | \-Galerina marginata CBS 339.88
+  | |   | +-Flammula
+  | |   | | \-Flammula alnicola
   | |   | \-Psilocybe
   | |   |   +-Psilocybe cf. subviscida
   | |   |   \-Psilocybe cyanescens
-  | |   +-Psathyrellaceae
-  | |   | +-Psathyrella
-  | |   | | \-Psathyrella aberdarensis
-  | |   | +-Coprinopsis
-  | |   | | +-Coprinopsis cinerea
-  | |   | | | \-Coprinopsis cinerea okayama7#130
-  | |   | | \-Coprinopsis marcescibilis
-  | |   | \-Coprinellus
-  | |   |   +-Coprinellus angulatus
-  | |   |   \-Coprinellus micaceus
-  | |   ++Nidulariaceae
+  | |   +-Amanitaceae
+  | |   | \-Amanita
+  | |   |   +-Amanita inopinata
+  | |   |   | \-Amanita inopinata Kibby_2008
+  | |   |   +-Amanita polypyramis
+  | |   |   | \-Amanita polypyramis BW_CC
+  | |   |   +-Amanita brunnescens
+  | |   |   | \-Amanita brunnescens Koide BX004
+  | |   |   +-Amanita muscaria
+  | |   |   | \-Amanita muscaria Koide BX008
+  | |   |   +-Amanita thiersii
+  | |   |   | \-Amanita thiersii Skay4041
+  | |   |   \-Amanita rubescens
+  | |   +-Crucibulum
   | |   | \-Crucibulum laeve
+  | |   +-Tricholomataceae
+  | |   | ++Laccaria
+  | |   | | \-Laccaria amethystina LaAM-08-1
+  | |   | ++Tricholoma
+  | |   | | \-Tricholoma matsutake 945
+  | |   | +-Infundibulicybe
+  | |   | | \-Infundibulicybe gibba
+  | |   | \-Lepista
+  | |   |   \-Lepista nuda
   | |   +-Physalacriaceae
   | |   | ++Cylindrobasidium
   | |   | | \-Cylindrobasidium torrendii FP15055 ss-10
+  | |   | +-Mucidula
+  | |   | | \-Mucidula mucida
   | |   | \-Armillaria
   | |   |   +-Armillaria solidipes
   | |   |   +-Armillaria ostoyae
@@ -497,30 +586,46 @@ Eukaryota
   | |   +-Lyophyllaceae
   | |   | +-Termitomyces
   | |   | | \-Termitomyces sp. J132
+  | |   | +-Lyophyllum
+  | |   | | \-Lyophyllum atratum
   | |   | +-Tricholomella
   | |   | | \-Tricholomella constricta
   | |   | \-Hypsizygus
   | |   |   \-Hypsizygus marmoreus
-  | |   +-Pleurotaceae
-  | |   | \-Pleurotus
-  | |   |   +-Pleurotus ostreatus
-  | |   |   | \-Pleurotus ostreatus PC15
-  | |   |   \-Pleurotus pulmonarius
   | |   +-Bolbitiaceae
   | |   | +-Panaeolus
+  | |   | | +-Panaeolus papilionaceus
   | |   | | \-Panaeolus cyanescens
   | |   | \-Agrocybe
   | |   |   +-Agrocybe pediades
   | |   |   \-Agrocybe aegerita
-  | |   \-Omphalotaceae
-  | |     +-Gymnopus
-  | |     | +-Gymnopus androsaceus
-  | |     | | \-Gymnopus androsaceus JB14
-  | |     | +-Gymnopus luxurians
-  | |     | | \-Gymnopus luxurians FD-317 M1
-  | |     | \-Gymnopus confluens
-  | |     \-Lentinula
-  | |       \-Lentinula edodes
+  | |   +-Omphalotaceae
+  | |   | +-Rhodocollybia
+  | |   | | \-Rhodocollybia butyracea
+  | |   | +-Gymnopus
+  | |   | | +-Gymnopus androsaceus
+  | |   | | | \-Gymnopus androsaceus JB14
+  | |   | | +-Gymnopus luxurians
+  | |   | | | \-Gymnopus luxurians FD-317 M1
+  | |   | | \-Gymnopus confluens
+  | |   | \-Lentinula
+  | |   |   \-Lentinula edodes
+  | |   +-Psathyrellaceae
+  | |   | +-Psathyrella
+  | |   | | \-Psathyrella aberdarensis
+  | |   | +-Coprinellus
+  | |   | | +-Coprinellus angulatus
+  | |   | | \-Coprinellus micaceus
+  | |   | \-Coprinopsis
+  | |   |   +-Coprinopsis marcescibilis
+  | |   |   \-Coprinopsis cinerea
+  | |   |     \-Coprinopsis cinerea okayama7#130
+  | |   \-Pleurotaceae
+  | |     \-Pleurotus
+  | |       +-Pleurotus ostreatoroseus
+  | |       +-Pleurotus pulmonarius
+  | |       \-Pleurotus ostreatus
+  | |         \-Pleurotus ostreatus PC15
   | +-Microbotryomycetes
   | | ++Microbotryales
   | | | \-Microbotryum
@@ -539,6 +644,7 @@ Eukaryota
   | |     | +-Rhodotorula taiwanensis
   | |     | +-Rhodotorula graminis
   | |     | | \-Rhodotorula graminis WP1
+  | |     | +-Rhodotorula mucilaginosa
   | |     | +-Rhodotorula diobovata
   | |     | \-Rhodotorula toruloides
   | |     |   +-Rhodotorula toruloides NP11
@@ -546,6 +652,8 @@ Eukaryota
   | |     \-Sporidiobolus
   | |       \-Sporidiobolus salmonicolor
   | \-Tremellomycetes
+  |   ++Filobasidiales
+  |   | \-Naganishia liquefaciens
   |   +-Trichosporonales
   |   | \-Trichosporonaceae
   |   |   +-Trichosporon
@@ -559,8 +667,10 @@ Eukaryota
   |   |   \-Vanrija
   |   |     \-Vanrija humicola
   |   \-Tremellales
-  |     ++Trimorphomycetaceae
-  |     | \-Saitozyma podzolica
+  |     +-Trimorphomycetaceae
+  |     | \-Saitozyma
+  |     |   +-Saitozyma podzolica
+  |     |   \-Saitozyma sp. JCM 24511
   |     +-Cryptococcaceae
   |     | +-Kwoniella
   |     | | +-Kwoniella shandongensis
@@ -653,8 +763,13 @@ Eukaryota
   | | \-Neolecta irregularis DAH-3
   | ++Saitoella
   | | \-Saitoella complicata NRRL Y-17804
-  | ++Lecanoromycetes
-  | | \-Lasallia pustulata
+  | +-Lecanoromycetes
+  | | ++Umbilicariales
+  | | | \-Lasallia pustulata
+  | | \+Lecanorales
+  | |   \-Letharia
+  | |     +-Letharia lupina
+  | |     \-Letharia columbiana
   | ++Taphrinomycetes
   | | \-Protomyces lactucaedebilis
   | +-Pezizomycetes
@@ -663,20 +778,33 @@ Eukaryota
   | |   | \-Morchella conica CCBAS932
   | |   ++Ascobolaceae
   | |   | \-Ascobolus immersus RN42
-  | |   +-Pyronemataceae
-  | |   | +-Sphaerosporella
-  | |   | | \-Sphaerosporella brunnea
-  | |   | \+Pyronema
-  | |   |   \-Pyronema omphalodes CBS 100304
-  | |   ++Pezizaceae
-  | |   | \-Terfezia boudieri ATCC MYA-4762
   | |   ++Ascodesmidaceae
   | |   | \-Ascodesmis nigricans
+  | |   +-Pezizaceae
+  | |   | +-Tirmania
+  | |   | | \-Tirmania nivea
+  | |   | +-Terfezia
+  | |   | | +-Terfezia boudieri
+  | |   | | | \-Terfezia boudieri ATCC MYA-4762
+  | |   | | \-Terfezia claveryi
+  | |   | \-Kalaharituber
+  | |   |   \-Kalaharituber pfeilii
+  | |   +-Pyronemataceae
+  | |   | ++Wilcoxina
+  | |   | | \-Wilcoxina mikolae CBS 423.85
+  | |   | +-Sphaerosporella
+  | |   | | \-Sphaerosporella brunnea
+  | |   | ++Pyronema
+  | |   | | \-Pyronema omphalodes CBS 100304
+  | |   | \-Trichophaea
+  | |   |   \-Trichophaea hybrida
   | |   \-Tuberaceae
   | |     ++Choiromyces
   | |     | \-Choiromyces venosus 120613-1
   | |     \-Tuber
+  | |       +-Tuber brumale
   | |       +-Tuber aestivum
+  | |       +-Tuber indicum
   | |       +-Tuber borchii
   | |       +-Tuber magnatum
   | |       \-Tuber melanosporum
@@ -744,21 +872,13 @@ Eukaryota
   | | | | \-Rutstroemia
   | | | |   +-Rutstroemia sp. NJR-2017a BBW
   | | | |   \-Rutstroemia sp. NJR-2017a WRK4
-  | | | ++Leotiaceae
-  | | | | \-Pezoloma ericae
   | | | +-Cadophora
   | | | | \-Cadophora sp. DSE1049
   | | | ++Chalara
   | | | | \-Chalara longipes BDJ
-  | | | +-Hyaloscyphaceae
-  | | | | \-Hyaloscypha
-  | | | |   +-Hyaloscypha variabilis
-  | | | |   | \-Hyaloscypha variabilis F
-  | | | |   \-Hyaloscypha bicolor
-  | | | |     \-Hyaloscypha bicolor E
+  | | | ++Drepanopezizaceae
+  | | | | \-Diplocarpon rosae
   | | | +-Dermateaceae
-  | | | | +-Diplocarpon
-  | | | | | \-Diplocarpon rosae
   | | | | +-Coleophoma
   | | | | | +-Coleophoma cylindrospora
   | | | | | \-Coleophoma crateriformis
@@ -771,6 +891,15 @@ Eukaryota
   | | | | |   \-Glarea lozoyensis 74030
   | | | | \-Cudoniella
   | | | |   \-Cudoniella acicularis
+  | | | +-Hyaloscyphaceae
+  | | | | +-Hyaloscypha
+  | | | | | +-Hyaloscypha hepaticicola
+  | | | | | +-Hyaloscypha variabilis
+  | | | | | | \-Hyaloscypha variabilis F
+  | | | | | \-Hyaloscypha bicolor
+  | | | | |   \-Hyaloscypha bicolor E
+  | | | | \-Hyphodiscus
+  | | | |   \-Hyphodiscus hymeniophilus
   | | | ++Chlorociboriaceae
   | | | | \-Chlorociboria aeruginascens
   | | | +-Lachnaceae
@@ -782,37 +911,50 @@ Eukaryota
   | | | |   +-Lachnellula subtilissima
   | | | |   +-Lachnellula willkommii
   | | | |   \-Lachnellula occidentalis
-  | | | +-Phialocephala
-  | | | | +-Phialocephala subalpina
-  | | | | \-Phialocephala scopiformis
-  | | | +-Sclerotiniaceae
-  | | | | +-Sclerotinia
-  | | | | | +-Sclerotinia borealis
-  | | | | | | \-Sclerotinia borealis F-4128
-  | | | | | \-Sclerotinia sclerotiorum
-  | | | | |   \-Sclerotinia sclerotiorum 1980 UF-70
-  | | | | +-Botrytis
-  | | | | | +-Botrytis cinerea
-  | | | | | | +-Botrytis cinerea BcDW1
-  | | | | | | +-Botrytis cinerea T4
-  | | | | | | \-Botrytis cinerea B05.10
-  | | | | | +-Botrytis paeoniae
-  | | | | | +-Botrytis hyacinthi
-  | | | | | +-Botrytis galanthina
-  | | | | | +-Botrytis elliptica
-  | | | | | +-Botrytis tulipae
-  | | | | | \-Botrytis porri
-  | | | | +-Botryotinia
-  | | | | | +-Botryotinia narcissicola
-  | | | | | +-Botryotinia convoluta
-  | | | | | \-Botryotinia calthae
-  | | | | \-Monilinia
-  | | | |   +-Monilinia laxa
-  | | | |   \-Monilinia fructicola
-  | | | \-Rhynchosporium
-  | | |   +-Rhynchosporium agropyri
-  | | |   +-Rhynchosporium commune
-  | | |   \-Rhynchosporium secalis
+  | | | +-Mollisiaceae
+  | | | | +-Acephala
+  | | | | | \-Acephala macrosclerotiorum
+  | | | | \-Phialocephala
+  | | | |   +-Phialocephala subalpina
+  | | | |   \-Phialocephala scopiformis
+  | | | +-Rhynchosporium
+  | | | | +-Rhynchosporium agropyri
+  | | | | +-Rhynchosporium commune
+  | | | | \-Rhynchosporium secalis
+  | | | \-Sclerotiniaceae
+  | | |   +-Botrytis
+  | | |   | +-Botrytis deweyae
+  | | |   | +-Botrytis fragariae
+  | | |   | +-Botrytis sinoallii
+  | | |   | +-Botrytis cinerea
+  | | |   | | +-Botrytis cinerea BcDW1
+  | | |   | | +-Botrytis cinerea T4
+  | | |   | | \-Botrytis cinerea B05.10
+  | | |   | +-Botrytis paeoniae
+  | | |   | +-Botrytis hyacinthi
+  | | |   | +-Botrytis galanthina
+  | | |   | +-Botrytis elliptica
+  | | |   | +-Botrytis byssoidea
+  | | |   | +-Botrytis aclada
+  | | |   | +-Botrytis tulipae
+  | | |   | \-Botrytis porri
+  | | |   +-Sclerotium
+  | | |   | \-Sclerotium cepivorum
+  | | |   +-Botryotinia
+  | | |   | +-Botryotinia narcissicola
+  | | |   | +-Botryotinia globosa
+  | | |   | +-Botryotinia squamosa
+  | | |   | +-Botryotinia convoluta
+  | | |   | \-Botryotinia calthae
+  | | |   +-Monilinia
+  | | |   | +-Monilinia laxa
+  | | |   | \-Monilinia fructicola
+  | | |   \-Sclerotinia
+  | | |     +-Sclerotinia borealis
+  | | |     | \-Sclerotinia borealis F-4128
+  | | |     +-Sclerotinia sclerotiorum
+  | | |     | \-Sclerotinia sclerotiorum 1980 UF-70
+  | | |     \-Sclerotinia trifoliorum
   | | \-Scytalidium
   | |   +-Scytalidium sp. 3C
   | |   \-Scytalidium lignicola
@@ -880,11 +1022,6 @@ Eukaryota
   | | +-Xylariales
   | | | ++Diatrypaceae
   | | | | \-Eutypa lata UCREL1
-  | | | +-Sporocadaceae
-  | | | | +-Neopestalotiopsis
-  | | | | | \-Neopestalotiopsis sp. 37M
-  | | | | \+Pestalotiopsis
-  | | | |   \-Pestalotiopsis fici W106-1
   | | | ++Pseudomassariaceae
   | | | | \-Pseudomassariella vexata
   | | | +-Phialemoniopsis
@@ -897,6 +1034,12 @@ Eukaryota
   | | | | \-Daldinia
   | | | |   +-Daldinia sp. EC12
   | | | |   \-Daldinia childiae
+  | | | +-Sporocadaceae
+  | | | | ++Pestalotiopsis
+  | | | | | \-Pestalotiopsis fici W106-1
+  | | | | \-Neopestalotiopsis
+  | | | |   +-Neopestalotiopsis sp. 37M
+  | | | |   \-Neopestalotiopsis clavispora
   | | | ++Microdochiaceae
   | | | | \-Microdochium bolleyi
   | | | +-Monosporascus
@@ -932,6 +1075,9 @@ Eukaryota
   | | | |     \-Verticillium dahliae VdLs.17
   | | | \-Glomerellaceae
   | | |   \-Colletotrichum
+  | | |     +-Colletotrichum sojae
+  | | |     +-Colletotrichum plurivorum
+  | | |     +-Colletotrichum musicola
   | | |     +-Colletotrichum shisoi
   | | |     +-Colletotrichum incanum
   | | |     +-Colletotrichum nymphaeae
@@ -949,6 +1095,7 @@ Eukaryota
   | | |     +-Colletotrichum orchidophilum
   | | |     +-Colletotrichum sublineola
   | | |     +-Colletotrichum viniferum
+  | | |     +-Colletotrichum karsti
   | | |     +-Colletotrichum tropicale
   | | |     +-Colletotrichum tofieldiae
   | | |     +-Colletotrichum chlorophyti
@@ -959,10 +1106,12 @@ Eukaryota
   | | |     | \-Colletotrichum fructicola Nara gc5
   | | |     +-Colletotrichum graminicola
   | | |     | \-Colletotrichum graminicola M1.001
+  | | |     +-Colletotrichum camelliae
   | | |     +-Colletotrichum gloeosporioides
   | | |     | \-Colletotrichum gloeosporioides Cg-14
   | | |     +-Colletotrichum higginsianum
   | | |     | \-Colletotrichum higginsianum IMI 349063
+  | | |     +-Colletotrichum truncatum
   | | |     \-Colletotrichum trifolii
   | | +-Sordariales
   | | | +-Madurella
@@ -1029,6 +1178,8 @@ Eukaryota
   | |   | | | \-Tolypocladium ophioglossoides CBS 100239
   | |   | | \-Tolypocladium paradoxum
   | |   | +-Ophiocordyceps
+  | |   | | +-Ophiocordyceps camponoti-leonardi (nom. inval.)
+  | |   | | +-Ophiocordyceps camponoti-saundersi (nom. inval.)
   | |   | | +-Ophiocordyceps camponoti-floridani
   | |   | | +-Ophiocordyceps camponoti-rufipedis
   | |   | | +-Ophiocordyceps australis
@@ -1045,8 +1196,6 @@ Eukaryota
   | |   | \-Trichoderma
   | |   |   +-Trichoderma lentiforme
   | |   |   +-Trichoderma guizhouense
-  | |   |   +-Trichoderma asperellum
-  | |   |   | \-Trichoderma asperellum CBS 433.97
   | |   |   +-Trichoderma longibrachiatum
   | |   |   | \-Trichoderma longibrachiatum ATCC 18648
   | |   |   +-Trichoderma parareesei
@@ -1058,6 +1207,8 @@ Eukaryota
   | |   |   +-Trichoderma virens
   | |   |   | \-Trichoderma virens Gv29-8
   | |   |   +-Trichoderma gamsii
+  | |   |   +-Trichoderma asperellum
+  | |   |   | \-Trichoderma asperellum CBS 433.97
   | |   |   +-Trichoderma citrinoviride
   | |   |   \-Trichoderma harzianum
   | |   |     \-Trichoderma harzianum CBS 226.95
@@ -1074,11 +1225,11 @@ Eukaryota
   | |   | | \-Pochonia chlamydosporia
   | |   | |   +-Pochonia chlamydosporia 170
   | |   | |   \-Pochonia chlamydosporia 123
+  | |   | ++Epichloe
+  | |   | | \-Epichloe festucae Fl1
   | |   | \-Metarhizium
   | |   |   +-Metarhizium majus
   | |   |   | \-Metarhizium majus ARSEF 297
-  | |   |   +-Metarhizium brunneum
-  | |   |   | \-Metarhizium brunneum ARSEF 3297
   | |   |   +-Metarhizium guizhouense
   | |   |   | \-Metarhizium guizhouense ARSEF 977
   | |   |   +-Metarhizium rileyi
@@ -1089,6 +1240,8 @@ Eukaryota
   | |   |   | \-Metarhizium acridum CQMa 102
   | |   |   +-Metarhizium robertsii
   | |   |   | \-Metarhizium robertsii ARSEF 23
+  | |   |   +-Metarhizium brunneum
+  | |   |   | \-Metarhizium brunneum ARSEF 3297
   | |   |   \-Metarhizium anisopliae
   | |   |     +-Metarhizium anisopliae BRIP 53284
   | |   |     +-Metarhizium anisopliae BRIP 53293
@@ -1097,11 +1250,15 @@ Eukaryota
   | |     +-Neonectria
   | |     | \-Neonectria ditissima
   | |     \-Fusarium
+  | |       +-Fusarium sp. DS 682
   | |       +-Fusarium sp. NRRL 66182
-  | |       +-Fusarium fasciculatum
+  | |       +-Fusarium flagelliforme
   | |       +-Fusarium austroafricanum
   | |       +-Fusarium kuroshium
   | |       +-Fusarium agapanthi
+  | |       +-Fusarium tjaetaba
+  | |       +-Fusarium mundagurra
+  | |       +-Fusarium coicis
   | |       +-Fusarium sp. AF-6
   | |       +-Fusarium sp. AF-4
   | |       +-Fusarium sp. AF-8
@@ -1109,28 +1266,43 @@ Eukaryota
   | |       +-Fusarium albosuccineum
   | |       +-Fusarium sarcochroum
   | |       +-Fusarium euwallaceae
+  | |       +-Fusarium sp. NRRL 52700
   | |       +-Fusarium odoratissimum
   | |       | \-Fusarium odoratissimum NRRL 54006
   | |       +-Fusarium proliferatum
   | |       | \-Fusarium proliferatum ET1
+  | |       +-Fusarium mexicanum
   | |       +-Fusarium longipes
+  | |       +-Fusarium vanettenii
+  | |       | \-Fusarium vanettenii 77-13-4
   | |       +-Fusarium gaditjirri
   | |       +-Fusarium austroamericanum
   | |       +-Fusarium coffeatum
   | |       +-Fusarium mangiferae
   | |       +-Fusarium langsethiae
   | |       +-Fusarium ambrosium
+  | |       +-Fusarium sp. NRRL 25303
   | |       +-Fusarium verticillioides
   | |       | \-Fusarium verticillioides 7600
   | |       +-Fusarium pseudograminearum
   | |       | \-Fusarium pseudograminearum CS3096
+  | |       +-Fusarium graminum
+  | |       +-Fusarium bulbicola
+  | |       +-Fusarium globosum
   | |       +-Fusarium acutatum
   | |       +-Fusarium decemcellulare
+  | |       +-Fusarium pseudocircinatum
   | |       +-Fusarium venenatum
+  | |       +-Fusarium denticulatum
+  | |       +-Fusarium pseudoanthophilum
+  | |       +-Fusarium circinatum
   | |       +-Fusarium anthophilum
+  | |       +-Fusarium phyllophilum
   | |       +-Fusarium beomiforme
   | |       +-Fusarium heterosporum
+  | |       +-Fusarium subglutinans
   | |       +-Fusarium nygamai
+  | |       +-Fusarium napiforme
   | |       +-Fusarium avenaceum
   | |       +-Fusarium poae
   | |       +-Fusarium graminearum
@@ -1139,7 +1311,6 @@ Eukaryota
   | |       +-Fusarium sporotrichioides
   | |       +-Fusarium oxysporum
   | |       | +-Fusarium oxysporum f. sp. raphani 54005
-  | |       | +-Fusarium oxysporum f. sp. conglutinans race 2 54008
   | |       | +-Fusarium oxysporum f. sp. melonis 26406
   | |       | +-Fusarium oxysporum f. sp. vasinfectum 25433
   | |       | +-Fusarium oxysporum f. sp. radicis-lycopersici 26381
@@ -1152,13 +1323,16 @@ Eukaryota
   | |       | +-Fusarium oxysporum f. sp. lycopersici 4287
   | |       | +-Fusarium oxysporum f. sp. cepae
   | |       | +-Fusarium oxysporum f. sp. radicis-cucumerinum
+  | |       | +-Fusarium oxysporum f. sp. conglutinans
+  | |       | | \-Fusarium oxysporum f. sp. conglutinans race 2 54008
   | |       | \-Fusarium oxysporum f. sp. cubense
   | |       |   \-Fusarium oxysporum f. sp. cubense race 1
   | |       \-Fusarium fujikuroi
   | |         \-Fusarium fujikuroi IMI 58289
   | +-Eurotiomycetes
   | | ++Verrucariales
-  | | | \-Endocarpon pusillum Z07020
+  | | | \-Endocarpon pusillum
+  | | |   \-Endocarpon pusillum Z07020
   | | ++Phaeomoniellales
   | | | \-Phaeomoniella chlamydospora
   | | +-Chaetothyriales
@@ -1305,7 +1479,7 @@ Eukaryota
   | |   |   +-Talaromyces stipitatus
   | |   |   | \-Talaromyces stipitatus ATCC 10500
   | |   |   +-Talaromyces verruculosus
-  | |   |   +-Penicillium pinophilum
+  | |   |   +-Talaromyces pinophilus
   | |   |   +-Talaromyces rugulosus
   | |   |   +-Talaromyces marneffei
   | |   |   | +-Talaromyces marneffei PM1
@@ -1318,12 +1492,9 @@ Eukaryota
   | |     | \-Monascus purpureus
   | |     +-Penicillium
   | |     | +-Penicillium sp. str. #12
-  | |     | +-Penicillium roqueforti
-  | |     | | \-Penicillium roqueforti FM164
+  | |     | +-Penicillium sp. S1M29
+  | |     | +-Penicillium sp. 2HH
   | |     | +-Penicillium subrubescens
-  | |     | +-Penicillium digitatum
-  | |     | | +-Penicillium digitatum Pd1
-  | |     | | \-Penicillium digitatum PHI26
   | |     | +-Penicillium oxalicum
   | |     | | \-Penicillium oxalicum 114-2
   | |     | +-Penicillium rubens
@@ -1338,15 +1509,24 @@ Eukaryota
   | |     | +-Penicillium solitum
   | |     | +-Penicillium freii
   | |     | +-Penicillium italicum
+  | |     | +-Penicillium crustosum
+  | |     | +-Penicillium digitatum
+  | |     | | +-Penicillium digitatum Pd1
+  | |     | | \-Penicillium digitatum PHI26
   | |     | +-Penicillium coprophilum
   | |     | +-Penicillium vulpinum
   | |     | +-Penicillium expansum
+  | |     | +-Penicillium roqueforti
+  | |     | | \-Penicillium roqueforti FM164
   | |     | +-Penicillium griseofulvum
   | |     | +-Penicillium chrysogenum
   | |     | \-Penicillium camemberti
   | |     \-Aspergillus
+  | |       +-Aspergillus nanangensis
+  | |       +-Aspergillus burnettii
   | |       +-Aspergillus sclerotialis
   | |       +-Aspergillus sp. HF37
+  | |       +-Aspergillus hancockii
   | |       +-Aspergillus pseudocaelatus
   | |       +-Aspergillus mulundensis
   | |       +-Aspergillus nomiae
@@ -1401,9 +1581,12 @@ Eukaryota
   | |       +-Aspergillus phoenicis
   | |       | \-Aspergillus phoenicis ATCC 13157
   | |       +-Aspergillus welwitschiae
+  | |       +-Aspergillus felis
   | |       +-Aspergillus turcosus
-  | |       +-Aspergillus bertholletius
+  | |       +-Aspergillus bertholletiae
+  | |       +-Aspergillus puulaauensis
   | |       +-Aspergillus tanneri
+  | |       +-Aspergillus hiratsukae
   | |       +-Aspergillus glaucus
   | |       | \-Aspergillus glaucus CBS 516.65
   | |       +-Aspergillus wentii
@@ -1432,8 +1615,6 @@ Eukaryota
   | |       +-Aspergillus clavatus
   | |       | \-Aspergillus clavatus NRRL 1
   | |       +-Aspergillus fumigatiaffinis
-  | |       +-Aspergillus fischeri
-  | |       | \-Aspergillus fischeri NRRL 181
   | |       +-Aspergillus fumigatus
   | |       | +-Aspergillus fumigatus var. RP-2014
   | |       | +-Aspergillus fumigatus Z5
@@ -1444,6 +1625,7 @@ Eukaryota
   | |       +-Aspergillus nidulans
   | |       | \-Aspergillus nidulans FGSC A4
   | |       +-Aspergillus alliaceus
+  | |       +-Aspergillus chevalieri
   | |       +-Aspergillus coremiiformis
   | |       +-Aspergillus ochraceoroseus
   | |       | \-Aspergillus ochraceoroseus IBT 24754
@@ -1457,6 +1639,8 @@ Eukaryota
   | |       +-Aspergillus leporis
   | |       +-Aspergillus thermomutatus
   | |       +-Aspergillus avenaceus
+  | |       +-Aspergillus fischeri
+  | |       | \-Aspergillus fischeri NRRL 181
   | |       +-Aspergillus terreus
   | |       | \-Aspergillus terreus NIH2624
   | |       +-Aspergillus tubingensis
@@ -1472,7 +1656,8 @@ Eukaryota
   | |       | +-Aspergillus niger CBS 513.88
   | |       | \-Aspergillus niger ATCC 1015
   | |       \-Aspergillus flavus
-  | |         \-Aspergillus flavus AF70
+  | |         +-Aspergillus flavus AF70
+  | |         \-Aspergillus flavus NRRL3357
   | +-Dothideomycetes
   | | ++Cladosporiales
   | | | \-Rachicladosporium
@@ -1550,6 +1735,7 @@ Eukaryota
   | | | | | +-Cercospora zeina
   | | | | | \-Cercospora beticola
   | | | | +-Pseudocercospora
+  | | | | | +-Pseudocercospora fuligena
   | | | | | +-Pseudocercospora fijiensis
   | | | | | | \-Pseudocercospora fijiensis CIRAD86
   | | | | | +-Pseudocercospora eumusae
@@ -1671,12 +1857,13 @@ Eukaryota
   | | | ++Periconiaceae
   | | | | \-Periconia macrospinosa
   | | | +-Didymosphaeriaceae
-  | | | | +-Paraphaeosphaeria
-  | | | | | \-Paraphaeosphaeria sporulosa
   | | | | ++Bimuria
   | | | | | \-Bimuria novae-zelandiae CBS 107.79
   | | | | ++Karstenula
   | | | | | \-Karstenula rhodostoma CBS 690.94
+  | | | | +-Paraphaeosphaeria
+  | | | | | +-Paraphaeosphaeria sporulosa
+  | | | | | \-Paraphaeosphaeria minitans
   | | | | \-Didymosphaeria
   | | | |   \-Didymosphaeria enalia
   | | | +-Leptosphaeriaceae
@@ -1691,18 +1878,6 @@ Eukaryota
   | | | +-Pleosporaceae
   | | | | ++Exserohilum
   | | | | | \-Exserohilum turcica Et28A
-  | | | | +-Bipolaris
-  | | | | | +-Bipolaris victoriae
-  | | | | | | \-Bipolaris victoriae FI3
-  | | | | | +-Bipolaris oryzae
-  | | | | | | \-Bipolaris oryzae ATCC 44560
-  | | | | | +-Bipolaris zeicola
-  | | | | | | \-Bipolaris zeicola 26-R-13
-  | | | | | +-Bipolaris sorokiniana
-  | | | | | | \-Bipolaris sorokiniana ND90Pr
-  | | | | | \-Bipolaris maydis
-  | | | | |   +-Bipolaris maydis C5
-  | | | | |   \-Bipolaris maydis ATCC 48331
   | | | | +-Decorospora
   | | | | | \-Decorospora gaudefroyi
   | | | | +-Stemphylium
@@ -1718,8 +1893,21 @@ Eukaryota
   | | | | | |   \-Pyrenophora teres f. teres 0-1
   | | | | | \-Pyrenophora tritici-repentis
   | | | | |   \-Pyrenophora tritici-repentis Pt-1C-BFP
+  | | | | +-Bipolaris
+  | | | | | +-Bipolaris victoriae
+  | | | | | | \-Bipolaris victoriae FI3
+  | | | | | +-Bipolaris oryzae
+  | | | | | | \-Bipolaris oryzae ATCC 44560
+  | | | | | +-Bipolaris zeicola
+  | | | | | | \-Bipolaris zeicola 26-R-13
+  | | | | | +-Bipolaris maydis
+  | | | | | | +-Bipolaris maydis C5
+  | | | | | | \-Bipolaris maydis ATCC 48331
+  | | | | | \-Bipolaris sorokiniana
+  | | | | |   \-Bipolaris sorokiniana ND90Pr
   | | | | \-Alternaria
   | | | |   +-Alternaria sp. MG1
+  | | | |   +-Alternaria burnsii
   | | | |   +-Alternaria gaisen
   | | | |   +-Alternaria arborescens
   | | | |   +-Alternaria tenuissima
@@ -1735,6 +1923,7 @@ Eukaryota
   | | |   +-Epicoccum
   | | |   | \-Epicoccum nigrum
   | | |   \-Ascochyta
+  | | |     +-Ascochyta lentis
   | | |     \-Ascochyta rabiei
   | | \-Venturiales
   | |   ++Cylindrosympodiaceae
@@ -1818,34 +2007,34 @@ Eukaryota
   | |   |   | \-Candida dubliniensis CD36
   | |   |   +-Candida tropicalis
   | |   |   | \-Candida tropicalis MYA-3404
-  | |   |   +-Candida albicans
-  | |   |   | +-Candida albicans Ca529L
-  | |   |   | +-Candida albicans Ca6
-  | |   |   | +-Candida albicans P78042
-  | |   |   | +-Candida albicans P76067
-  | |   |   | +-Candida albicans P76055
-  | |   |   | +-Candida albicans P75063
-  | |   |   | +-Candida albicans P57055
-  | |   |   | +-Candida albicans P75016
-  | |   |   | +-Candida albicans P75010
-  | |   |   | +-Candida albicans P37039
-  | |   |   | +-Candida albicans P37037
-  | |   |   | +-Candida albicans P34048
-  | |   |   | +-Candida albicans P57072
-  | |   |   | +-Candida albicans P78048
-  | |   |   | +-Candida albicans GC75
-  | |   |   | +-Candida albicans 19F
-  | |   |   | +-Candida albicans P60002
-  | |   |   | +-Candida albicans P37005
-  | |   |   | +-Candida albicans P87
-  | |   |   | +-Candida albicans P94015
-  | |   |   | +-Candida albicans L26
-  | |   |   | +-Candida albicans 12C
-  | |   |   | +-Candida albicans WO-1
-  | |   |   | \-Candida albicans SC5314
   | |   |   +-Candida viswanathii
-  | |   |   \-Candida parapsilosis
-  | |   |     \-Candida parapsilosis CDC317
+  | |   |   +-Candida parapsilosis
+  | |   |   | \-Candida parapsilosis CDC317
+  | |   |   \-Candida albicans
+  | |   |     +-Candida albicans Ca529L
+  | |   |     +-Candida albicans Ca6
+  | |   |     +-Candida albicans P78042
+  | |   |     +-Candida albicans P76067
+  | |   |     +-Candida albicans P76055
+  | |   |     +-Candida albicans P75063
+  | |   |     +-Candida albicans P57055
+  | |   |     +-Candida albicans P75016
+  | |   |     +-Candida albicans P75010
+  | |   |     +-Candida albicans P37039
+  | |   |     +-Candida albicans P37037
+  | |   |     +-Candida albicans P34048
+  | |   |     +-Candida albicans P57072
+  | |   |     +-Candida albicans P78048
+  | |   |     +-Candida albicans GC75
+  | |   |     +-Candida albicans 19F
+  | |   |     +-Candida albicans P60002
+  | |   |     +-Candida albicans P37005
+  | |   |     +-Candida albicans P87
+  | |   |     +-Candida albicans P94015
+  | |   |     +-Candida albicans L26
+  | |   |     +-Candida albicans 12C
+  | |   |     +-Candida albicans WO-1
+  | |   |     \-Candida albicans SC5314
   | |   +-Dipodascaceae
   | |   | +-Saprochaete
   | |   | | \-Saprochaete ingens
@@ -1857,12 +2046,6 @@ Eukaryota
   | |   |   \-Yarrowia lipolytica
   | |   |     \-Yarrowia lipolytica CLIB122
   | |   +-Saccharomycetaceae
-  | |   | +-Kazachstania
-  | |   | | +-Kazachstania saulgeensis
-  | |   | | +-Kazachstania naganishii
-  | |   | | | \-Kazachstania naganishii CBS 8797
-  | |   | | \-Kazachstania africana
-  | |   | |   \-Kazachstania africana CBS 2517
   | |   | +-Tetrapisispora
   | |   | | +-Tetrapisispora phaffii
   | |   | | | \-Tetrapisispora phaffii CBS 4417
@@ -1884,16 +2067,25 @@ Eukaryota
   | |   | | | +-Eremothecium gossypii FDAG1
   | |   | | | \-Eremothecium gossypii ATCC 10895
   | |   | | \-Eremothecium sinecaudum
+  | |   | +-Zygotorulaspora
+  | |   | | \-Zygotorulaspora mrakii
+  | |   | +-Kazachstania
+  | |   | | +-Kazachstania saulgeensis
+  | |   | | +-Kazachstania naganishii
+  | |   | | | \-Kazachstania naganishii CBS 8797
+  | |   | | +-Kazachstania africana
+  | |   | | | \-Kazachstania africana CBS 2517
+  | |   | | +-Kazachstania exigua
+  | |   | | \-Kazachstania unispora
   | |   | +-Lachancea
   | |   | | +-Lachancea quebecensis
   | |   | | +-Lachancea meyersii
   | |   | | | \-Lachancea meyersii CBS 8951
   | |   | | +-Lachancea nothofagi
   | |   | | | \-Lachancea nothofagi CBS 11611
-  | |   | | +-Lachancea dasiensis
-  | |   | | | \-Lachancea dasiensis CBS 10888
   | |   | | +-Lachancea lanzarotensis
   | |   | | +-Lachancea mirantina
+  | |   | | +-Lachancea dasiensis
   | |   | | +-Lachancea thermotolerans
   | |   | | | \-Lachancea thermotolerans CBS 6340
   | |   | | +-Lachancea sp. PJ-2012a
@@ -1907,6 +2099,8 @@ Eukaryota
   | |   | |   +-Zygosaccharomyces bailii ISA1307
   | |   | |   \-Zygosaccharomyces bailii CLIB 213
   | |   | +-Torulaspora
+  | |   | | +-Torulaspora sp. CBS 2947
+  | |   | | +-Torulaspora globosa
   | |   | | \-Torulaspora delbrueckii
   | |   | +-Saccharomyces
   | |   | | +-Saccharomyces arboricola
@@ -1914,6 +2108,7 @@ Eukaryota
   | |   | | +-Saccharomyces cerevisiae x Saccharomyces kudriavzevii
   | |   | | | \-Saccharomyces cerevisiae x Saccharomyces kudriavzevii VIN7
   | |   | | +-Saccharomyces eubayanus
+  | |   | | +-Saccharomyces boulardii (nom. inval.)
   | |   | | +-Saccharomyces pastorianus
   | |   | | +-Saccharomyces paradoxus
   | |   | | \-Saccharomyces cerevisiae
@@ -2041,9 +2236,10 @@ Eukaryota
   | |   | | | \-Ogataea parapolymorpha DL-1
   | |   | | \-Ogataea polymorpha
   | |   | +-Brettanomyces
-  | |   | | +-Brettanomyces bruxellensis
-  | |   | | | \-Brettanomyces bruxellensis AWRI1499
-  | |   | | \-Brettanomyces naardenensis
+  | |   | | +-Brettanomyces nanus
+  | |   | | +-Brettanomyces naardenensis
+  | |   | | \-Brettanomyces bruxellensis
+  | |   | |   \-Brettanomyces bruxellensis AWRI1499
   | |   | \-Pichia
   | |   |   +-Pichia membranifaciens
   | |   |   | \-Pichia membranifaciens NRRL Y-2026
@@ -2079,15 +2275,63 @@ Eukaryota
     |   | \-Bifiguratus adelaidae
     |   \+Endogonaceae
     |     \-Jimgerdemannia flammicorona
+    ++Umbelopsidomycetes
+    | \-Umbelopsis
+    |   +-Umbelopsis isabellina
+    |   \-Umbelopsis vinacea
     ++Mortierellomycetes
     | \-Mortierellaceae
-    |   +-Mortierella
-    |   | +-Mortierella elongata
-    |   | | \-Mortierella elongata AG-77
-    |   | \-Mortierella verticillata
-    |   |   \-Mortierella verticillata NRRL 6337
-    |   \-Lobosporangium
-    |     \-Lobosporangium transversale
+    |   +-Haplosporangium
+    |   | +-Haplosporangium gracile
+    |   | +-Haplosporangium sp. Z 11
+    |   | +-Haplosporangium sp. Z 767
+    |   | \-Haplosporangium sp. Z 27
+    |   +-Modicella
+    |   | \-Modicella reniformis
+    |   +-Gryganskiella
+    |   | \-Gryganskiella cystojenkinii
+    |   +-Dissophora
+    |   | +-Dissophora globulifera
+    |   | \-Dissophora ornata
+    |   +-Gamsiella
+    |   | \-Gamsiella multidivaricata
+    |   +-Entomortierella
+    |   | +-Entomortierella beljakovae
+    |   | \-Entomortierella chlamydospora
+    |   +-Actinomortierella
+    |   | +-Actinomortierella ambigua
+    |   | \-Actinomortierella wolfii
+    |   +-Lobosporangium
+    |   | \-Lobosporangium transversale
+    |   +-Podila
+    |   | +-Podila epigama
+    |   | +-Podila epicladia
+    |   | +-Podila clonocystis
+    |   | +-Podila horticola
+    |   | +-Podila verticillata
+    |   | | \-Podila verticillata NRRL 6337
+    |   | +-Podila minutissima
+    |   | \-Podila humilis
+    |   +-Linnemannia
+    |   | +-Linnemannia zychae
+    |   | +-Linnemannia exigua
+    |   | +-Linnemannia elongata
+    |   | | \-Linnemannia elongata AG-77
+    |   | \-Linnemannia gamsii
+    |   \-Mortierella
+    |     +-Mortierella sp. NVP85
+    |     +-Mortierella sp. NVP41
+    |     +-Mortierella sp. GBA43
+    |     +-Mortierella sp. GBA35
+    |     +-Mortierella sp. GBA30
+    |     +-Mortierella sp. AM989
+    |     +-Mortierella sp. AD094
+    |     +-Mortierella sp. AD032
+    |     +-Mortierella sp. AD031
+    |     +-Mortierella sp. AD011
+    |     +-Mortierella antarctica
+    |     +-Mortierella alpina
+    |     \-Mortierella polycephala
     +-Glomeromycetes
     | +-Glomerales
     | | \-Glomeraceae
@@ -2120,16 +2364,26 @@ Eukaryota
         |   +-Rhizopus delemar
         |   | \-Rhizopus delemar RA 99-880
         |   +-Rhizopus azygosporus
+        |   +-Rhizopus oryzae
         |   \-Rhizopus microsporus
         |     +-Rhizopus microsporus ATCC 52813
         |     \-Rhizopus microsporus var. microsporus
         +-Mucoraceae
+        | +-Apophysomyces
+        | | +-Apophysomyces sp. BC1015
+        | | +-Apophysomyces sp. BC1034
+        | | \-Apophysomyces ossiformis
+        | +-Thamnidium
+        | | \-Thamnidium elegans
         | +-Parasitella
         | | \-Parasitella parasitica
         | \-Mucor
+        |   +-Mucor circinatus
         |   +-Mucor circinelloides
         |   | \-Mucor circinelloides 1006PhL
+        |   +-Mucor plumbeus
         |   +-Mucor ambiguus
+        |   +-Mucor saturninus
         |   \-Mucor lusitanicus
         |     \-Mucor lusitanicus CBS 277.49
         ++Syncephalastraceae

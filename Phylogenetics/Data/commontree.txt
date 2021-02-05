@@ -842,9 +842,9 @@ Eukaryota
 | | ++Cephalopoda
 | | | \-Octopus bimaculoides
 | | +-Bivalvia
-| | | ++Pectinoida
+| | | ++Pectinida
 | | | | \-Mizuhopecten yessoensis
-| | | \+Ostreoida
+| | | \+Ostreida
 | | |   \-Crassostrea
 | | |     +-Crassostrea gigas
 | | |     \-Crassostrea virginica
@@ -1273,7 +1273,7 @@ Eukaryota
 |   |   \-Nectriaceae
 |   |     \-Fusarium
 |   |       +-Fusarium proliferatum
-|   |       +-[Nectria] haematococca
+|   |       +-Fusarium solani
 |   |       +-Fusarium verticillioides
 |   |       +-Fusarium pseudograminearum
 |   |       +-Fusarium venenatum
@@ -1863,4 +1863,6 @@ Eukaryota
           \-Citrus
             +-Citrus clementina
             \-Citrus sinensis
+-----------------------------------
+Escherichia coli
 -----------------------------------
