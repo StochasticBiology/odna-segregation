@@ -27,3 +27,4 @@ chmod +x pad-tree.sh
 ./process-individual-tree.sh mhr1-blastx-tree.txt 8
 #./process-individual-tree.sh commontree-genera.txt 7
 
+# after completion, use Mathematica notebook for visualisation (to be refactored)
