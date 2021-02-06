@@ -4,7 +4,7 @@ Simulations and data analysis exploring oDNA segregation across eukaryotes.
 
 Core technologies: bash, C, R, Gnuplot, Mathematica. The pipeline is rather strongly linked to bash -- implementation on other platforms is untested. Despite making up a large proportion of the code payload, Mathematica is only used for demonstrating symbolic algebra and visualisation; all analysis takes place using free platforms (and we are in the process of translating the existing Mathematica code).
 
-All directories except `Analytics/` and `Development/` contain a `run-me.sh` file which runs the analysis. The root `.` also contains a master `run-me.sh` which runs each of these. Several directories contain `Data/` subdirectories containing data to be analysed.
+All directories except `Analytics/` and `Development/` contain a `run-me.sh` file which runs the analysis. The root `./` also contains a master `run-me.sh` which runs each of these. The root also contains `plot-all.sh` which invokes individual plotting scripts in each directory to produce manuscript figures using Gnuplot (note that Figs 2 and S5, the phylogenies, are produced by Mathematica -- see `Phylogenetics/` below). Several directories contain `Data/` subdirectories containing data to be analysed.
 
 `Analytics/`
 ------------
