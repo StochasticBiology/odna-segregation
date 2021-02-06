@@ -24,7 +24,7 @@ C code and Gnuplot scripts to simulate and visualise the genetic impact of physi
 
 `Phylogenetics/`
 ----------------
-Data, bash, R, and Mathematica scripts for visualising presence/absence of oDNA recombination genes across taxa (Figs 2, S5). Data is not raw data but is derived from previously-performed NCBI Gene searches https://www.ncbi.nlm.nih.gov/gene , blastx searches https://blast.ncbi.nlm.nih.gov/Blast.cgi?LINK_LOC=blasthome&PAGE_TYPE=BlastSearch&PROGRAM=blastx and taxonomic tree construction https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi , outlined in `readme.txt`. Various `.sh` bash scripts curate and clean the raw data; `construct-barcodes.R` assigns presence/absence barcodes to each species; `process-individual-tree.sh` invokes various small bits of code to (rather awkwardly) cast the constructed trees into a workable format. This pipeline is spaghetti code and will be refactored.
+Data, bash, R, and Mathematica scripts for visualising presence/absence of oDNA recombination genes across taxa (Figs 2, S5). Data is not raw data but is derived from previously-performed NCBI Gene searches https://www.ncbi.nlm.nih.gov/gene , blastx searches https://blast.ncbi.nlm.nih.gov/Blast.cgi?LINK_LOC=blasthome&PAGE_TYPE=BlastSearch&PROGRAM=blastx and taxonomic tree construction https://www.ncbi.nlm.nih.gov/Taxonomy/CommonTree/wwwcmt.cgi , outlined in `readme.txt`. Various `.sh` bash scripts curate and clean the data; `construct-barcodes.R` assigns presence/absence barcodes to each species; `process-individual-tree.sh` invokes various small bits of code to (rather awkwardly) cast the constructed trees into a workable format. This pipeline is spaghetti code and will be refactored.
 
 `SAM/`
 ------
