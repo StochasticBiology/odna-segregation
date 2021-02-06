@@ -13,7 +13,7 @@ model.lik <- function(theta, t, Y, model = 0, output=1) {
   }
   else if(model == 0) {
     mu = 1/(1 + exp(-rho*t))
-    sigma = sqrt( v0 + (exp(-2/(1+exp(rho*t))) * (4*exp(1)*nuf + 4*exp(1+rho*t)*nuf + exp(2/(1+exp(rho*t)) + rho*t)*(rho - 4*nuf) - exp(2/(1+exp(rho*t)))*(4*nuf+rho))) / (4*(1+exp(rho*t)*n*rho)) );
+    sigma = sqrt( v0 + (exp(-2/(1+exp(rho*t))) * (4*exp(1)*nuf + 4*exp(1+rho*t)*nuf + exp(2/(1+exp(rho*t)) + rho*t)*(rho - 4*nuf) - exp(2/(1+exp(rho*t)))*(4*nuf+rho))) / (4*(1+exp(rho*t))*n*rho) );
   }
     
   dist.mean = log(mu/(1-mu)) + (2*mu-1)*sigma*sigma / (2*(mu-1)*(mu-1)*mu*mu)
@@ -41,8 +41,9 @@ model.lik <- function(theta, t, Y, model = 0, output=1) {
 df = read.table("Data/le-data.txt")
 
 # find max lik version of models with and without each parameter
-opt.model.0 = optim(log(c(1, 10, 1, 1000)), model.lik, t=df[,2], Y=df[,4], model=0)
-opt.model.1 = optim(log(c(1, 10, 1, 1000)), model.lik, t=df[,2], Y=df[,4], model=1)
+ics = c(log(0.75), log(0.01), -0.0005, log(1000))
+opt.model.0 = optim(ics, model.lik, t=df[,2], Y=df[,4], model=0)
+opt.model.1 = optim(ics, model.lik, t=df[,2], Y=df[,4], model=1)
 
 # get AICs
 aic.0 = 2*4 - 2*(-opt.model.0$value)

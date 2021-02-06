@@ -49,16 +49,12 @@ vh4(x) = (x <= sstime ? 0 : (1./ssn - 1./nk2))
 # ongoing turnover using value for nu_f inferred from R code -- note this is for HB and not used here
 vh5(x) = (x <= 10 ? 0 : 2*0.000138*x)
 
-# we are now considering LE and so need the expression with selection
-#nuf = 0.7295
-#rho = -0.000515423
-#n = 1517.89
-#e = exp(1.)
-nuf = 2.8806
-v0 = 2.177e-2
-rho = -0.0001374
-n = 4.536e4
-e = exp(1)
+# we are now considering LE and so need the expression with selection, with parameters from R model fit
+nuf = 0.7295
+rho = -0.000515423
+v0 = 0.00778
+n = 1517.89
+e = exp(1.)
 eselect(x) = 1./(1.+exp(-rho*x))
 vselect(x) = vh1(x)+vh2(x)+(x <= 10 ? 0 : exp(-2./(1.+exp(rho*x))) * ( 4.*e*nuf + 4.*exp(1.+rho*x)*nuf + exp(2./(1.+exp(rho*x)) + rho*x)*(rho - 4.*nuf) - exp(2./(1.+exp(rho*x)))*(rho + 4.*nuf)) / (4.*(exp(rho*x)+1.)*n*rho))
 
