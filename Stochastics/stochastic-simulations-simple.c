@@ -6,8 +6,8 @@
 
 #define RND drand48()
 
-#define MAXT 30      // timescale of simulation (used for memory allocation)
-#define NIT 20000      // number of instances of stochastic simulation used to build up statistics
+#define MAXT 30       // timescale of simulation (used for memory allocation)
+#define NIT 5000      // number of instances of stochastic simulation used to build up statistics
 #define NUMR 6        // number of individual processes (reactions) affecting mtDNA
 #define MAXPHASE 100  // number of possible dynamic phases
 
@@ -39,6 +39,8 @@ void Subsample(Population src, Population *dest, int endsize, int random, int cl
   // initialise empty new population
   dest->w = dest->m = 0;
 
+  // "random" controls partitioning regime:
+  // 0: deterministic partitioning; 1: hypergeometric; 2: binomial; 3: hypergeometric with binomial choice of daughter copy number; 4: binomial with binomial choice of daughter copy number
   if(random == 0)
     {
       // get current heteroplasmy 
@@ -214,17 +216,23 @@ int main(void)
   // allocate memory to store heteroplasmy values
   h = (double*)malloc(sizeof(double)*NIT*MAXT);
 
-  for(gillespie = 0; gillespie <= 6; gillespie++)
+  // parameters for simulation
+  // "gillespie" [0-6]: different model structures for cellular turnover. 0: no turnover; [1-6]: see switch below. M.index determines feedback (0 none; 1 relaxed replication); other M.* parameters follow accordingly
+  // "divisions" [0-14]: divisions % 5 gives cluster sizes, divisions / 5 gives population size of daughter cell (see switches below)
+  // "rsample" [0-4]: 0: deterministic partitioning; 1: hypergeometric; 2: binomial; 3: hypergeometric with binomial choice of daughter copy number; 4: binomial with binomial choice of daughter copy number
+  // "ramplify" [0-1]: 0: deterministic amplification; 1: random (Polya) reamplification
+
+  // we will only simulate a subset of possibilities here for the illustration plot; others can be (and have been) investigated too!
+
+  for(gillespie = 0; gillespie <= 0; gillespie++)
     {
       for(divisions = 0; divisions <= 14; divisions++)
 	{
-	  for(rsample = 3; rsample <= 4; rsample++)
+	  for(rsample = 0; rsample <= 2; rsample++)
 	    {
 	      for(ramplify = 0; ramplify <= 1; ramplify++)
 		{
-		  if((divisions % 5) == 0 && (rsample > 0 || ramplify > 0)) break;
-	      
-		  // choose some parameters
+		  // interpret simulation parameters as model parameters
 		  M.tau = 1;
 		  switch(gillespie)
 		    {
