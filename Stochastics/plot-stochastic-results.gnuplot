@@ -18,7 +18,9 @@ set ytics nomirror
 set ylabel "V'(h)"
 set xtics ("No random\ninfluence" 0, "Division\nnc = 1" 1, "Division\nnc = 1\n+ reamp" 2, "Division\nnc = 4\n+ reamp" 3, "Subsample\n25%%\n+reamp" 4, "High fusion\n(recomb)" 5, "High fission\n(turnover)" 6, "Balanced\n(both)" 7) rotate 
 
-myrad = 0.1
+#scaleyx = 1/0.002
+ci(x) = x * sqrt(2./9999)
+myrad(x) = 0.1
 nexpt = 9
 set label 1 at 0, 0.0005 "N = 500" rotate font "Arial,9" tc rgbcolor "#000000"
 set label 2 at 0.2, 0.0005 "1000" rotate font "Arial,9" tc rgbcolor "#000000"
@@ -35,7 +37,7 @@ set y2label "b"
 # the columns in the output file are
 # 1 expt ref ; 2 popn ; 3 t ; 4 meanh ; 5 varh ; 6 var'h ; 7 meann ; 8 varn ; 9 meanf ; 10 varf ; 11 predicted mean h ; 12 predicted var h ; 13 predicted var' h
 # to look at dV'(h) / dt we plot $1 (plus offset from $2) against $13 with boxes, and against $6 with circles
-plot "stochastic-simulation-output.txt" u (($1 <= 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):13 w boxes lc rgbcolor "#888888", "" u (($1 <= 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):6:(myrad) w circles lc rgb "#FFFFFF" fill solid border lt 0 notitle, "" u (($1 > 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):13 w boxes lc rgbcolor "#000000", "" u (($1 > 4 && $3 == 1? $1-0.1+$2/3000 : 1/0)):6:(myrad) w circles lc rgb "#FFFFFF" fill solid border lt 0 notitle
+plot "stochastic-simulation-output.txt" u (($1 <= 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):13 w boxes lc rgbcolor "#888888", "" u (($1 <= 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):6:(myrad($6)) w circles lc rgb "#FFFFFF" fill solid border lt 0 notitle, "" u (($1 > 4 && $3 == 1 ? $1-0.1+$2/3000 : 1/0)):13 w boxes lc rgbcolor "#000000", "" u (($1 > 4 && $3 == 1? $1-0.1+$2/3000 : 1/0)):6:(myrad($6)) w circles lc rgb "#FFFFFF" fill solid border lt 0 notitle, "" u ($3 == 1 ? $1-0.25+$2/3000 : 1/0):($6-ci($6)):($6-ci($6)):($6+ci($6)):($6+ci($6)) w candlesticks lc rgb "#AAAAAA" fill solid noborder notitle
 
 unset xtics
 unset ytics
