@@ -7,7 +7,7 @@
 #define RND drand48()
 
 #define MAXT 30       // timescale of simulation (used for memory allocation)
-#define NIT 5000      // number of instances of stochastic simulation used to build up statistics
+#define NIT 10000     // number of instances of stochastic simulation used to build up statistics
 #define NUMR 6        // number of individual processes (reactions) affecting mtDNA
 #define MAXPHASE 100  // number of possible dynamic phases
 
