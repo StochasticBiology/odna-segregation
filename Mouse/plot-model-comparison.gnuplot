@@ -119,7 +119,7 @@ set xtics 0.00005
 set origin 0,0
 set ylabel "P(nu f/n)"
 set xlabel "nu f/n"
-plot "nuf-hist.txt" w boxes lc rgbcolor "#CCCCFF"
+plot "nuf-hist-hb.txt" w boxes lc rgbcolor "#CCCCFF"
 
 unset logscale y
 unset key
@@ -129,7 +129,7 @@ set ytics 0.005
 set origin 0.66,0
 set xlabel "nu f/n"
 set ylabel "V'0"
-plot "nuf-v0-scatter.txt" pt 7 ps 0.5 lc rgbcolor "#8888FF"
+plot "nuf-v0-scatter-hb.txt" pt 7 ps 0.5 lc rgbcolor "#8888FF"
 
 
 set origin 0.33,0
@@ -141,4 +141,4 @@ set x2label "Approx min copy number"
 set x2tics ("2500" 0.005, "950" 0.01, "550" 0.015, "370" 0.02) nomirror
 set ylabel "P(V'0)"
 set xlabel "V'0"
-plot "v0-hist.txt" w boxes lc rgbcolor "#CCCCFF"
+plot "v0-hist-hb.txt" w boxes lc rgbcolor "#CCCCFF"
