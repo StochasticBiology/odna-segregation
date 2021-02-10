@@ -1,0 +1,18 @@
+1 Egg 78 22.7 Tourenia 0
+2 Late-zygote 154.2 36.9 Tourenia 0
+3 Early-apical 33.4 10.5 Tourenia 0
+3 Early-basal 103 26.1 Tourenia 0
+
+1 Egg 1700 400 Rice* 1
+1 Egg 59 14.4 Arabidopsis 0
+5 Mesophyll 61.7 5.5 Arabidopsis 0
+1 Egg 42.7 3.5 Antirrhinum 1
+1 Egg 73.0 17.5 Nicotiana 1
+1 Egg 1852.7 483.9 Pelargonium 0
+1 Egg 450 0 Pelargonium 0
+
+4 Embryo 410 0 Pea 1
+5 Leaves 250 0 Pea 0
+5 Roots 130 0 Pea 1
+5 Shoots 140 0 Pea 0
+
