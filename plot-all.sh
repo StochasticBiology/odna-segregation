@@ -3,12 +3,13 @@
 # the phylogeny (Fig 2) is produced by Mathematica -- see the Phylogenetics/ directory
 
 cd Development
-gnuplot -e "set term svg size 640,320; set output \"../plot-bottlenecks.svg\"; load \"plot-bottlenecks.gnuplot\"; quit;"
+gnuplot -e "set term svg size 640,320; set output \"../plot-mice.svg\"; load \"plot-mice.gnuplot\"; quit;"
+gnuplot -e "set term svg size 640,320; set output \"../plot-plants.svg\"; load \"plot-plants.gnuplot\"; quit;"
 cd ..
 
 cd Mouse
-gnuplot -e "set term svg size 480,320; set output \"../plot-hb.svg\"; load \"plot-hb.gnuplot\"; quit;"
-gnuplot -e "set term svg size 480,320; set output \"../plot-le.svg\"; load \"plot-le.gnuplot\"; quit;"
+gnuplot -e "set term svg size 600,320; set output \"../plot-hb.svg\"; load \"plot-hb.gnuplot\"; quit;"
+gnuplot -e "set term svg size 600,320; set output \"../plot-le-selection.svg\"; load \"plot-le-selection.gnuplot\"; quit;"
 gnuplot -e "set term svg size 1024,800; set output \"../plot-model-comparison.svg\"; load \"plot-model-comparison.gnuplot\"; quit;"
 cd ..
 
