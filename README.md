@@ -12,11 +12,11 @@ Mathematica notebooks demonstrating the algebra behind the stochastic theory.
 
 `Development/`
 --------------
-Data and Gnuplot scripts for visualising observations of oDNA copy number during early plant development (Fig S4)
+Data and Gnuplot scripts for visualising observations of oDNA copy number during early mouse and plant development (Fig S4)
 
 `Mouse/`
 --------
-Data, R, and Gnuplot scripts to fit and visualise models of mtDNA variance during mouse development and ageing (Figs 1C-E, S2). `model-fit-neutral.R` performs model fitting in the zero-selection case (to the HB mouse model). `model-fit-selection.R` performs model fitting with nonzero selection (to the LE mouse model).
+Data, R, and Gnuplot scripts to fit and visualise models of mtDNA variance during mouse development and ageing (Figs 1C-E, S2). `model-fit-neutral-hb.R` performs model fitting in the zero-selection case (to the HB mouse model). `model-fit-selection-le.R` performs model fitting with nonzero selection (to the LE mouse model). `model-fit-elife.R` performs model fitting with some different zero selection mechanisms (to the NZB-BALB/C mouse model).
 
 `Partitioning/`
 ---------------
